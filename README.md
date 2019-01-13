@@ -1,3 +1,8 @@
+# What is this?
+
+**Opt out of all the things you wouldn't have opted in to.** The site exists to shine a light on opt out data sharing, privacy, and marketing practices that many people don't know exist, and to make it easier to opt out of them.
+
+
 ### 23andMe
 
 * [DNA sharing](https://you.23andme.com/user/edit/privacy/) ([docs](https://customercare.23andme.com/hc/en-us/articles/212170838-Privacy-and-display-settings-in-DNA-Relatives))
@@ -31,11 +36,15 @@
 
 ### Bank of America
 
+* [Privacy choices](https://secure.bankofamerica.com/customer/public/privacy.go) (or call 888-341-5000)
+* [Policy](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go)
 
 
 ### CapitalOne 360
 
-* [Data sharing](https://secure.capitalone360.com/myaccount/banking/privacy?)
+* [Banking data sharing](https://secure.capitalone360.com/myaccount/banking/privacy?)
+* To opt out of some data sharing for marketing: "Call… 1-888-817-2970"
+* [Policy](https://www.capitalone.com/bank/privacy/)
 
 
 ### CenturyLink
@@ -44,9 +53,10 @@
 * [Policy](https://www.centurylink.com/aboutus/legal/privacy-policy/privacy-policy-complete.html#share)
 
 
-
 ### Chase Bank
 
+* To opt out of some data sharing for marketing: Visit [Privacy Preferences](https://secure.chase.com/web/auth/nav?navKey=requestPublicPrivacyPreferences) or call 1–888–868–8618
+* [Policy](https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice)
 
 
 ### Comcast Xfinity
@@ -55,28 +65,23 @@
 * [Customer policy](https://www.xfinity.com/corporate/customers/policies/customerprivacy#your-choices), [Web site policy](https://www.xfinity.com/corporate/legal/privacystatement#section8)
 
 
-### Conde Naste magazines, including
+### Condé Nast magazines
+
+* Including Architectural Digest, GQ, The New Yorker, Wired, and [others](https://www.condenast.com/)
+* [Data sharing](https://www.condenast.com/privacy-policy/#sharingyourdataandoptout) of "your name, email address, postal address or phone number shared with third parties for their marketing purposes… If you wish to exercise this right, please contact our [Privacy Policy Coordinator](mailto:Privacy_administration@condenast.com) and state which of these items you wish to opt-out of sharing with third parties."
+* [Policy](https://www.condenast.com/privacy-policy/)
 
 
 ### Crate & Barrel
 
-* Sleazy sharing of order history](https://www.crateandbarrel.com/customer-service/contact-us) (per [privacy policy](https://www.crateandbarrel.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline.")
+* [Sharing of order history](https://www.crateandbarrel.com/customer-service/contact-us) (per [privacy policy](https://www.crateandbarrel.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline.")
 * [Email & postal ads](https://www.crateandbarrel.com/customer-service/opt-out).
-
-
-### Dell
-
-
-
-### eBay
-
-
-
-### Expedia
 
 
 ### Facebook
 
+* [Privacy Settings](https://www.facebook.com/settings?tab=privacy) ([docs](https://www.facebook.com/help/193677450678703?helpref=popular_topics)
+* [Ads and location data preferences](https://www.facebook.com/about/ads)
 
 
 ### Google (including logged-out users)
@@ -92,11 +97,6 @@
 * [Subscription data sharing](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES), including this notably terrible opt out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at…"
 
 
-
-### Intuit
-
-
-
 ### LinkedIn
 
 * [Most settings](https://www.linkedin.com/psettings/privacy) ([overview](https://www.linkedin.com/help/linkedin/answer/66?trk=microsites-frontend_legal_privacy-policy&lang=en))
@@ -109,7 +109,6 @@
 * [Subscription data sharing](http://www.meredith.com/offlinePrivacy.html)
 * [Policy](https://www.meredith.com/legal/privacy). From "Your Choices": "You can remove your name and postal address from lists we sell or rent to third parties for their direct marketing purposes by using the opt-out form [here](http://www.meredith.com/offlinePrivacy.html)" (above)
 * Magazine-specific: Time, [Sports Illustrated](https://www.meredith.com/legal-ti/si/generic_privacy_new.html#options), Fortune, People, Life, Golf, Real Simple, [Entertainment Weekly](https://www.meredith.com/legal-ti/ew/generic_privacy_new.html#options), ([others](https://www.meredith.com/national-media/brands)).
-
 
 
 ### Microsoft (including logged-out users)
@@ -195,6 +194,7 @@
 ### Verizon
 
 * [Data sharing for marketing, Fios TV ads, credit, and more](https://www.verizon.com/about/privacy/full-privacy-policy#limit-section)
+* [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#information_shared)
 
 
 ### Visa
@@ -204,6 +204,15 @@
 
 
 ### Vizio
+
+* "At any time you may turn ACR (Viewing Data) collection off or on directly from the menu of your VIZIO TV or video display. Turning ACR (Viewing Data) off will disable all future Viewing Data collection."
+* [Policy](https://www.vizio.com/privacy)
+
+
+### Wells Fargo
+
+* To opt out of some data sharing for marketing: Visit Privacy Preferences](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) or call 1-888-528-8460
+* [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/)
 
 
 ### Williams-Sonoma
@@ -278,16 +287,14 @@ Finally, please pass this on to the company's management team or your supervisor
 
 ## Additions and updates
 
-The site exists to shine a light on opt out data sharing, privacy, and marketing practices that many people don't know exist, and to make it easier to opt out of them.
+To submit deep links to opt out choices for a new organization, or corrections for existing organizations, send a GitHub pull request with the links. This process may improve.
 
-Specifically, the site is concerned with practices that:
+This site is concerned with practices that:
 
 * require opting out, not opting in, and
 * do not inherently disclose a way to opt out (for example, emails generally contain unsubscribe links), and
 * are not addressed by industry-wide opt out like [NAI](http://optout.networkadvertising.org/) and [DAA](http://optout.aboutads.info/) (which are focused on ad targeting), and
 * probably affect at least 1,000 people
-
-To submit deep links to opt out choices for a new organization, send a GitHub pull request with the links. This process may improve.
 
 
 # Related work

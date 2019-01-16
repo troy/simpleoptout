@@ -99,7 +99,7 @@
 
 ### LinkedIn
 
-* [Most settings](https://www.linkedin.com/psettings/privacy) ([overview](https://www.linkedin.com/help/linkedin/answer/66?trk=microsites-frontend_legal_privacy-policy&lang=en))
+* [Privacy settings](https://www.linkedin.com/psettings/privacy) and [Ad targeting settings](https://www.linkedin.com/psettings/advertising) ([overview](https://www.linkedin.com/help/linkedin/answer/66?trk=microsites-frontend_legal_privacy-policy&lang=en))
 * [Policy](https://www.linkedin.com/legal/privacy-policy#choices)
 * Also see [Microsoft](#microsoft)
 

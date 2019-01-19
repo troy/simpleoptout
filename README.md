@@ -91,10 +91,20 @@
 * [Policy](https://policies.google.com/privacy?hl=en#infochoices)
 
 
+### HBO
+
+* [Opt out of](https://play.hbonow.com/privacy) "[sharing] your personal information with our Affiliates to identify products and services of our Affiliates that may be of interest to you"
+
+
 ### Hearst (Magazines)
 
 * Including Bicycling, Car & Driver, Esquire,Good Housekeeping, and [others](http://www.hearst.com/magazines#BreakerInfoCard_36)
 * [Subscription data sharing](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES), including this notably terrible opt out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at…"
+
+
+### Hulu
+
+* [Opt-out choices](https://secure.hulu.com/privacy#YourChoices)
 
 
 ### LinkedIn

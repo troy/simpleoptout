@@ -82,7 +82,7 @@ This site makes it easier to opt out of data sharing by 40+ companies (or [add a
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Personal data & transactions to third parties | [Opt-out](https://secure.capitalone360.com/myaccount/banking/privacy?) (or call 888-817-2970) | [How your data is shared](https://www.capitalone.com/bank/privacy/)
+| Personal data & transactions to third parties | Call 888-817-2970 | [How your data is shared](https://www.capitalone.com/bank/privacy/)
 
 
 ### CenturyLink

@@ -1,159 +1,232 @@
-# What is this?
+title: Deep links to opt-out of data sharing by 40+ companies – SimpleOptOut.com
+---
 
-**Opt out of all the things you wouldn't have opted in to.** The site exists to shine a light on opt out data sharing, privacy, and marketing practices that many people don't know exist, and to make it easier to opt out of them.
+<style>
+  table {
+    padding-bottom: 1.0em;
+  }
+</style>
 
+
+<center>
+  <h2>Opt out of all the data sharing you wouldn't opt in to.</h2>
+</center>
+
+<br />
+
+
+## Welcome
+
+**Simple Opt Out** is drawing attention to opt-out data sharing and marketing practices that many people aren't aware of (and most people don't want), then making it easier to opt out. For example:
+
+   * **[Target](#target)** "may share your personal information with other companies which are not part of Target."
+   * **[Chase](#chase)** may share your "account balances and transaction history … For nonaffiliates to market to you."
+   * **[Crate & Barrel](#crate-&-barrel)** may share "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
+
+This site makes it easier to opt out of data sharing by 40+ companies (or [add a company](#suggestions)). Enjoy!
+
+<br />
+
+
+# Opt-out of data sharing by…
 
 ### 23andMe
 
-* [DNA sharing](https://you.23andme.com/user/edit/privacy/) ([docs](https://customercare.23andme.com/hc/en-us/articles/212170838-Privacy-and-display-settings-in-DNA-Relatives))
-* [Policy](https://www.23andme.com/about/privacy/#jump-link-content-your-choices)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| DNA sharing | [Opt-out](https://you.23andme.com/user/edit/privacy/) | [Policy: Your choices](https://www.23andme.com/about/privacy/#jump-link-content-your-choices). [Instructions](https://customercare.23andme.com/hc/en-us/articles/212170838-Privacy-and-display-settings-in-DNA-Relatives).
 
 
 ### Adobe
 
-* [Privacy choices](https://www.adobe.com/privacy/opt-out.html)
-* [Policy](https://www.adobe.com/privacy/policy.html#rights)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Ad targeting & data collection | [Opt-out](https://www.adobe.com/privacy/opt-out.html) | [Policy: Your rights](https://www.adobe.com/privacy/policy.html#rights)
 
 
 ### Ancestry.com
 
-* [Family tree](https://support.ancestry.com/s/article/Family-Tree-Privacy)
-* [DNA Match](https://support.ancestry.com/s/article/Opting-out-of-DNA-Matches)
-* [Research sharing](https://support.ancestry.com/s/article/AncestryDNA-Research-Project) ([docs](https://www.ancestry.com/cs/privacyphilosophy))
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Family tree | [Instructions](https://support.ancestry.com/s/article/Family-Tree-Privacy) | [Privacy Philosophy](https://www.ancestry.com/cs/privacyphilosophy)
+| DNA Match   | [Instructions](https://support.ancestry.com/s/article/Opting-out-of-DNA-Matches)
+| Research    | [Instructions](https://support.ancestry.com/s/article/AncestryDNA-Research-Project)
+
 
 ### Amazon.com
 
-* [Browsing history](https://www.amazon.com/gp/history) (click "Manage history")
-* [Ad personalization](https://www.amazon.com/adprefs/ref=hp_468496_advertisingpref2)
-* [Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-1B2BDAD4-7ACF-4D7A-8608-CBA6EA897FD3__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Browsing history   | [Opt-out](https://www.amazon.com/gp/history) (click "Manage history") | [Policy: Choices](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-1B2BDAD4-7ACF-4D7A-8608-CBA6EA897FD3__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
+| Ad personalization | [Opt-out](https://www.amazon.com/adprefs/)
 
 
 ### AT&T
 
-* [Phone service data sharing](http://att.com/ecpnioptout), [mobile location sharing](http://www.att.com/cmpchoice), [DirecTV](https://www.directv.com/DTVAPP/content/support/DTVAPP_policy), [ad targeting](https://cprodmasx.att.com/commonLogin/igate_wam/controller.do?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fpkmsvouchfor%3FATT%26https%3A%2F%2Fcprodx.att.com%2Fcmp%2Fcmpa%2Flogin.jsp&REFERER=https%3A%2F%2Fwww.att.com%2FCommon%2Fabout_us%2Fprivacy_policy%2Fprint_policy.html&HOSTNAME=cprodmasx.att.com&AUTHNLEVEL=&FAILREASON=&OLDSESSION)
-* [Policy](https://about.att.com/sites/privacy_policy/rights_choices)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Phone data ("CPNI") sharing       | [Opt-out](http://att.com/ecpnioptout) | [Policy: Your Choices](https://about.att.com/sites/privacy_policy/rights_choices)
+| Mobile calls, data, and targeting | [Opt-out](http://www.att.com/cmpchoice)
+| DirecTV                           | [Opt-out](https://www.directv.com/DTVAPP/content/support/DTVAPP_policy)
+| Ad targeting                      | [Opt-out](https://cprodmasx.att.com/commonLogin/igate_wam/controller.do?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fpkmsvouchfor%3FATT%26https%3A%2F%2Fcprodx.att.com%2Fcmp%2Fcmpa%2Flogin.jsp&REFERER=https%3A%2F%2Fwww.att.com%2FCommon%2Fabout_us%2Fprivacy_policy%2Fprint_policy.html&HOSTNAME=cprodmasx.att.com&AUTHNLEVEL=&FAILREASON=&OLDSESSION)
 
 
 ### Bank of America
 
-* [Privacy choices](https://secure.bankofamerica.com/customer/public/privacy.go) (or call 888-341-5000)
-* [Policy](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Personal data & transactions to third parties | [Opt-out](https://secure.bankofamerica.com/customer/public/privacy.go) (or call 888-341-5000) | [How your data is shared](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go)
 
 
 ### CapitalOne 360
 
-* [Banking data sharing](https://secure.capitalone360.com/myaccount/banking/privacy?)
-* To opt out of some data sharing for marketing: "Call… 1-888-817-2970"
-* [Policy](https://www.capitalone.com/bank/privacy/)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Personal data & transactions to third parties | [Opt-out](https://secure.capitalone360.com/myaccount/banking/privacy?) (or call 888-817-2970) | [How your data is shared](https://www.capitalone.com/bank/privacy/)
 
 
 ### CenturyLink
 
-* [Data sharing and marketing](http://www.centurylink.com/help/privacy/optout_en.html)
-* [Policy](https://www.centurylink.com/aboutus/legal/privacy-policy/privacy-policy-complete.html#share)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Data sharing and marketing | [Opt-out](http://www.centurylink.com/help/privacy/optout_en.html) | [Policy: Choices](http://www.centurylink.com/aboutus/legal/privacy-policy/privacy-policy-complete.html#choices)
 
 
-### Chase Bank
+### Chase
 
-* To opt out of some data sharing for marketing: Visit [Privacy Preferences](https://secure.chase.com/web/auth/nav?navKey=requestPublicPrivacyPreferences) or call 1–888–868–8618
-* [Policy](https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Personal data & transactions to third parties | [Opt-out](https://secure.chase.com/web/auth/nav?navKey=requestPublicPrivacyPreferences) or call 1–888–868–8618 | [How your data is shared](https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice)
 
 
 ### Comcast Xfinity
 
-* [Targeted cable ads, sales calls/emails/mailings, more](https://customer.xfinity.com/#/users/me/notifications) (scroll to end of page)
-* [Customer policy](https://www.xfinity.com/corporate/customers/policies/customerprivacy#your-choices), [Web site policy](https://www.xfinity.com/corporate/legal/privacystatement#section8)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted cable ads, sales mailings, more | [Opt-out](https://customer.xfinity.com/#/users/me/notifications) (scroll to end of page) | [Policy: Your choices](https://www.xfinity.com/corporate/customers/policies/customerprivacy#your-choices)
+| Postal mail ads | Call 800-COMCAST and ask to be added to "Do Not Mail" list | [Policy: Web site](https://www.xfinity.com/corporate/legal/privacystatement#section8)
 
 
-### Condé Nast magazines
+### Condé Nast
 
-* Including Architectural Digest, GQ, The New Yorker, Wired, and [others](https://www.condenast.com/)
-* [Data sharing](https://www.condenast.com/privacy-policy/#sharingyourdataandoptout) of "your name, email address, postal address or phone number shared with third parties for their marketing purposes… If you wish to exercise this right, please contact our [Privacy Policy Coordinator](mailto:Privacy_administration@condenast.com) and state which of these items you wish to opt-out of sharing with third parties."
-* [Policy](https://www.condenast.com/privacy-policy/)
+Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit, Brides, Condé Nast Traveler, Epicurious, Glamour, Golf Digest, GQ, Pitchfork, Self, Teen Vogue, The New Yorker, Vanity Fair, Vogue, W, Wired, and [others](https://www.condenast.com/).
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Subscriber data to third parties | Email [Privacy_administration@condenast.com](mailto:Privacy_administration@condenast.com) "and state which of these items you wish to opt-out of sharing with third parties." | [Policy](https://www.condenast.com/privacy-policy/). Shares subscibers' "name, email address, postal address or phone number shared with third parties for their marketing purposes"
 
 
 ### Crate & Barrel
 
-* [Sharing of order history](https://www.crateandbarrel.com/customer-service/contact-us) (per [privacy policy](https://www.crateandbarrel.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline.")
-* [Email & postal ads](https://www.crateandbarrel.com/customer-service/opt-out).
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Customer & purchase history | [Opt-out](https://www.crateandbarrel.com/customer-service/contact-us) | [Policy](https://www.crateandbarrel.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline."
+| Postal ads | [Opt-out](https://www.crateandbarrel.com/customer-service/opt-out)
 
 
 ### Facebook
 
-* [Privacy Settings](https://www.facebook.com/settings?tab=privacy) ([docs](https://www.facebook.com/help/193677450678703?helpref=popular_topics)
-* [Ads and location data preferences](https://www.facebook.com/about/ads)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Privacy settings | [Opt-out](https://www.facebook.com/settings?tab=privacy) | [Instructions](https://www.facebook.com/help/193677450678703?helpref=popular_topics). [Policy](https://www.facebook.com/privacy/explanation).
+| Ads and location data | [Opt-out](https://www.facebook.com/about/ads)
 
 
-### Google (including logged-out users)
+### Google
 
-* [Search history & ad personalization](https://myactivity.google.com/privacyadvisor/search). If you use Google while not logged-in, browse to this page while not logged in.
-* [Most services](https://myaccount.google.com/privacycheckup/), including Gmail, Google Apps, location history,
-* [Policy](https://policies.google.com/privacy?hl=en#infochoices)
+**Includes visitors who are not logged in to a Google account.**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Search history & ad personalization | [Opt-out](https://myactivity.google.com/privacyadvisor/search) | If you browse Google without logging in, do this while not logged in.
+| Most services                       | [Opt-out](https://myaccount.google.com/privacycheckup/)        | Includes Gmail, Google Apps, & location data. [Policy: Choices](https://policies.google.com/privacy?hl=en#infochoices).
 
 
 ### HBO
 
-* [Opt out of](https://play.hbonow.com/privacy) "[sharing] your personal information with our Affiliates to identify products and services of our Affiliates that may be of interest to you"
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Personal info with third parties | [Email contacthbo@hbo.com](mailto:contacthbo@hbo.com) | [Policy](https://play.hbonow.com/privacy): "sharing your personal information with our Affiliates to identify products and services of our Affiliates that may be of interest to you"
 
 
-### Hearst (Magazines)
+### Hearst
 
-* Including Bicycling, Car & Driver, Esquire,Good Housekeeping, and [others](http://www.hearst.com/magazines#BreakerInfoCard_36)
-* [Subscription data sharing](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES), including this notably terrible opt out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at…"
+Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, Food Network Magazine, Good Housekeeping, Harper's Bazaar, HGTV Magazine, House Beautiful, Marie Claire, O, The Oprah Magazine, Popular Mechanics, Redbook, Road & Track, Seventeen, Town&Country, Veranda, Prevention, Men's Health, Woman's Day, Women's Health, and [others](http://www.hearst.com/magazines#BreakerInfoCard_36).
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Subscriber data to third parties | [Opt-out](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES) | Includes this distinctly terrible opt-out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at…"
 
 
 ### Hulu
 
-* [Opt-out choices](https://secure.hulu.com/privacy#YourChoices)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Ad targeting | [Opt-out](https://secure.hulu.com/privacy#YourChoices)
 
 
 ### LinkedIn
 
-* [Privacy settings](https://www.linkedin.com/psettings/privacy) and [Ad targeting settings](https://www.linkedin.com/psettings/advertising) ([overview](https://www.linkedin.com/help/linkedin/answer/66?trk=microsites-frontend_legal_privacy-policy&lang=en))
-* [Policy](https://www.linkedin.com/legal/privacy-policy#choices)
-* Also see [Microsoft](#microsoft)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Privacy settings | [Opt-out](https://www.linkedin.com/psettings/privacy)     | [Overview](https://www.linkedin.com/help/linkedin/answer/66?trk=microsites-frontend_legal_privacy-policy&lang=en). [Policy: Choices](https://www.linkedin.com/legal/privacy-policy#choices).
+| Ad targeting     | [Opt-out](https://www.linkedin.com/psettings/advertising)
+
+Also see [Microsoft](#microsoft).
 
 
-### Meredith/Time Inc. (magazines)
+### Meredith/Time Inc.
 
-* [Subscription data sharing](http://www.meredith.com/offlinePrivacy.html)
-* [Policy](https://www.meredith.com/legal/privacy). From "Your Choices": "You can remove your name and postal address from lists we sell or rent to third parties for their direct marketing purposes by using the opt-out form [here](http://www.meredith.com/offlinePrivacy.html)" (above)
-* Magazine-specific: Time, [Sports Illustrated](https://www.meredith.com/legal-ti/si/generic_privacy_new.html#options), Fortune, People, Life, Golf, Real Simple, [Entertainment Weekly](https://www.meredith.com/legal-ti/ew/generic_privacy_new.html#options), ([others](https://www.meredith.com/national-media/brands)).
+Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Gardens, Country Life, Diabetic Living, EatingWell, Entertainment Weekly, Every Day with Rachael Ray, Family Circle, FamilyFun, Fitness, Food & Wine, InStyle, Living the Country Life, Midwest Living, Money, Parents, People, Practical Boat Owner, Real Simple, Shape, Siempre Mujer, Southern Living, Sports Illustrated, Successful Farming, and [others](https://www.meredith.com/national-media/brands).
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Subscriber data to third parties | [Opt-out](http://www.meredith.com/offlinePrivacy.html) | [Policy](https://www.meredith.com/legal/privacy): "You can remove your name and postal address from lists we sell or rent to third parties for their direct marketing purposes"
+| Magazine-specific policies | n/a | See [Entertainment Weekly](https://www.meredith.com/legal-ti/ew/generic_privacy_new.html#options), [Fortune](https://www.meredith.com/legal-ti/fortune/generic_privacy_new.html#options), [People](https://www.meredith.com/legal-ti/people/generic_privacy_new.html#options), [Sports Illustrated](https://www.meredith.com/legal-ti/si/generic_privacy_new.html#options), or [our tips](#how-to-find-opt-out-choices-quickly)
 
 
-### Microsoft (including logged-out users)
+### Microsoft
 
-* [Ads, browsing data, and many other services](https://account.microsoft.com/account/privacy) (or for [logged-out users](https://account.microsoft.com/privacy/ad-settings/signedout)). Remarkably complete site including Xbox, Skype, Office, Bing, and more.
-* [Policy](https://privacy.microsoft.com/en-US/)
+**Includes visitors who are not logged in to a Microsoft account.**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| [Ads, browsing data, and services] | [Opt-out](https://account.microsoft.com/account/privacy) | Sites covers Xbox, Skype, Office, Bing. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/).
 
 
 ### Netflix
 
-* [Disable "Matched Identifier Communications"](https://www.netflix.com/MarketingCommunications) (within [Account](https://www.netflix.com/YourAccount)
-* [Policy](https://help.netflix.com/legal/privacy)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Disable "Matched Identifier Communications" | [Opt-out](https://www.netflix.com/MarketingCommunications) | Also see [Account](https://www.netflix.com/YourAccount). [Policy](https://help.netflix.com/legal/privacy).
 
 
 ### NYTimes
 
-* [Rents/sells print subscribers](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy) and find in the page for "`privacy@`" (which is the email address for NYT's dismal opt out "process"). Per [privacy policy](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy), "If you are a U.S. print subscriber, we may exchange or rent your name and postal mailing address…".
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Rents/sells print subscriber data | Email [privacy@nytimes.com](mailto:privacy@nytimes.com) | On [Policy](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy), see "Sharing With Other Third Parties" for instructions. Per Policy: "If you are a U.S. print subscriber, we may exchange or rent your name and postal mailing address…".
 
 
 ### PayPal
 
-* Cannot opt out of data sharing "For joint marketing with other financial companies" or "For our affiliates’ everyday business purposes"
-* [Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full#8)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Data sharing with third parties | Cannot opt out | [Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full#8) (in "Consumer Privacy Notice"): Data is shared "For joint marketing with other financial companies" and/or "For our affiliates’ everyday business purposes"
 
 
 ### Pinterest
 
-* [Personalization](https://www.pinterest.com/settings/) based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/))
-* [Policy](https://policy.pinterest.com/en/privacy-policy)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy)
 
 
 ### Reddit
 
-* [Ad personalization](https://www.reddit.com/personalization)
-* [Policy](https://www.redditinc.com/policies/privacy-policy#text-content5)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Ad personalization | [Opt-out](https://www.reddit.com/personalization) | [Policy](https://www.redditinc.com/policies/privacy-policy#text-content5)
 
 
 ### Roomba (iRobot)
@@ -168,49 +241,58 @@
 * "You may, at any time, disable the Customization Service via the "Customization Service" option in the Settings menu of your Samsung Account" (or app/device), as well as [account.samsung.com](https://account.samsung.com)
 * "You may disable the IBA Service at any time by visiting the settings menu on your Samsung Smart TV… your privacy choice with respect to the IBA Service will not affect whether you receive or are served with other types of ads"
 * [Ads on Samsung phones](https://www.samsung.com/us/account/privacy-policy/samsungads/)
-* Basically, go through every option menu on any Samsung device you own. Also, realize that competitors offer more and easier privacy choices than Samsung.
-* [Policy](https://www.samsung.com/us/account/privacy-policy/), which is significantly more offensive than its peer companies. If it can be retained or shared, it probably is.
+* Basically, read every setting or menu choice on any Samsung device you own. [Policy](https://www.samsung.com/us/account/privacy-policy/) is more offensive than its peer companies. If it can be retained and shared, it probably is.
 
 
 ### Sprint
 
-* [Privacy choices](http://www.sprint.com/mychoices)
-* [Policy](https://www.sprint.com/en/legal/sprint-corporation-privacy-policy?INTNAV=Footer:Privacy#infoshare)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Ad targeting | [Opt-out](http://www.sprint.com/mychoices) | [Policy: Sharing](https://www.sprint.com/en/legal/sprint-corporation-privacy-policy?INTNAV=Footer:Privacy#infoshare)
 
 
 ### Target
 
-* Rents/sells customer information, with arguably the worst opt out process of its peers: "If you do not wish us to share the personal information we have collected with other unaffiliated companies (for their marketing purposes), call Guest Relations at 800-440-0680 to opt-out." Per [privacy policy](https://www.target.com/c/target-privacy-policy/-/N-4sr7p#PP_YourChoices), "We may share your personal information with other companies, or organizations which are not part of Target." … 
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Rents/sells customer data to third parties | Call 800-440-0680 | [Policy](https://www.target.com/c/target-privacy-policy/-/N-4sr7p#PP_YourChoices): "We may share your personal information with other companies, or organizations which are not part of Target." Arguably the worst opt-out (phone only) process of its peers.
 
 
-### Taunton Press (magazines)
+### Taunton Press
 
-* Includes Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.com/)
-* Per [policy](http://www.taunton.com/privacy-policy/): "we may rent your name and mailing address and certain other information with reputable companies that provide marketing offers through direct mail…  If you do not want us to… email us at [privacy@taunton.com](mailto:privacy@taunton.com). If you are a current print subscriber, please remember to include your account number, mailing address, and phone number in the body of your email"
+Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.com/).
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Subscriber data to third parties | Email [privacy@taunton.com](mailto:privacy@taunton.com) | [Policy](http://www.taunton.com/privacy-policy/): "we may rent your name and mailing address and certain other information with reputable companies that provide marketing offers through direct mail … If you are a current print subscriber, please remember to include your account number, mailing address, and phone number in the body of your email"
 
 
 ### T-Mobile
 
-* [Settings](https://www.t-mobile.com/responsibility/privacy/privacy-choice/marketing-choice), easily the best of its large-carrier peers
-* [Policy](https://www.t-mobile.com/responsibility/privacy/privacy-policy#infochoices)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Marketing preferences | [Opt-out](https://www.t-mobile.com/responsibility/privacy/privacy-choice/marketing-choice) | The best of its large-carrier peers. [Policy: Choices](https://www.t-mobile.com/responsibility/privacy/privacy-policy#infochoices).
 
 
 ### Twitter
 
-* [Data sharing and cross-site tracking](https://twitter.com/personalization) (part of [account settings](https://twitter.com/settings/safety))
-* [Policy](https://twitter.com/en/privacy)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Data sharing and cross-site tracking | [Opt-out](https://twitter.com/personalization) | Part of [account settings](https://twitter.com/settings/safety). [Policy](https://twitter.com/en/privacy).
 
 
 ### Verizon
 
-* [Data sharing for marketing, Fios TV ads, credit, and more](https://www.verizon.com/about/privacy/full-privacy-policy#limit-section)
-* [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#information_shared)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Data sharing for marketing, Fios TV ads, credit, more | [Opt-out](https://www.verizon.com/about/privacy/full-privacy-policy#limit-section) | [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#information_shared)
 
 
 ### Visa
 
-* [Aggregated consumer spending reports](https://usa.visa.com/legal/privacy-policy-opt-out.html)
-* [Policy](https://usa.visa.com/legal/privacy-policy.html#3)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Aggregated consumer spending reports | [Opt-out](https://usa.visa.com/legal/privacy-policy-opt-out.html) | [Policy](https://usa.visa.com/legal/privacy-policy.html#3)
 
 
 ### Vizio
@@ -221,38 +303,46 @@
 
 ### Wells Fargo
 
-* To opt out of some data sharing for marketing: Visit Privacy Preferences](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) or call 1-888-528-8460
-* [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Personal data & transactions to affiliates | [Opt-out](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) or call 1-888-528-8460 | [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/), which is incrementally better than peer banks
 
 
 ### Williams-Sonoma
 
-* Includes **Pottery Barn, West Elm, Rejuvenation**
-* "we might rent, exchange, share and/or cross-reference information, including contact information about you … to opt out of our rental or exchange of your information with other marketers, please let us know by… email to [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com). Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive."
-* [Policy](https://www.williams-sonomainc.com/privacy/)
+Includes **Pottery Barn, West Elm, Rejuvenation**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Rents/sells customer data to third parties | Email [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com) | [Policy](https://www.williams-sonomainc.com/privacy/): "we might rent, exchange, share and/or cross-reference information, including contact information about you … include your full name, email address, mailing address, and specifically what information you do not want to receive."
 
 
 ### Yahoo/Oath
 
-* [Privacy controls](https://policies.oath.com/us/en/oath/privacy/controls/index.html)
-* [Yahoo policy](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm), [Oath policy](https://policies.oath.com/)
-* Also see [Verizon](#verizon)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Privacy controls | [Opt-out](https://policies.oath.com/us/en/oath/privacy/controls/index.html) | [Yahoo policy](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm). [Oath policy](https://policies.oath.com/).
+
+Also see [Verizon](#verizon)
 
 
 ### Yelp
 
-* [Activity data sharing with businesses](https://www.yelp.com/profile_privacy) ("The following settings govern how businesses will see actions you take on Yelp including bookmarks, website clicks, calls, directions, and check-ins")
-* [Policy](https://www.yelp.com/tos/privacy_en_us_20180525#control-personal-data)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares name & click data with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | "The following settings govern how businesses will see actions you take on Yelp including bookmarks, website clicks, calls, directions, and check-ins." [Policy](https://www.yelp.com/tos/privacy_en_us_20180525#control-personal-data).
 
 
-### YouTube (including logged-out users)
+### YouTube
 
-* [Watch history & search history](https://www.youtube.com/feed/history) (pause Watch History, clear Watch History, repeat for Search History)
+**Includes visitors who are not logged in to a YouTube account.**
+
+* [Watch history & search history](https://www.youtube.com/feed/history) | Pause Watch History, clear Watch History, repeat for Search History. If you browse YouTube without logging in, do this while not logged in.
 * Also see [Google](#google)
 
 
 
-# Miscellaneous
+# Suggestions
 
 ## Your other relationships
 
@@ -264,7 +354,7 @@ Think about your other…
 * Financial services: Banks and anyone involved with your money or extending credit probably shares some data.
 
 
-### How to find opt out choices quickly
+### How to find opt-out choices quickly
 
 For companies not listed here:
 
@@ -273,7 +363,7 @@ For companies not listed here:
 3. If you don't see a "Your Choices" link, use your browser to find within the page (Control-F/Command-F). Find for each of these 3 words: "`opt`" (such as "opt-out" and "optout"), "shar" (such as "sharing" and "shared"), and "`disclos`" (such as "disclose" and "disclosure").
 
 
-### Ready-made opt out request
+### Ready-made opt-out request
 
 If you need to email a vendor, here's a request which can be copy-and-pasted:
 
@@ -285,7 +375,7 @@ Please ensure I'm not contacted again except regarding an action that I initiate
 
 Please reply when this is complete.
 
-Finally, please pass this on to the company's management team or your supervisor: I expect and deserve opt-in, self-service choices about how my data is used and how I'm marketed to. I shouldn't need to opt out, let alone by sending an email like this. I'm disappointed that the company chose to violate my privacy rather than ensuring it has my informed consent. Because the company puts its own preferences above my own (and even above simple transparency), I can't trust it. I'll be much less likely to make a future purchase. Please move to opt-in, user-facing privacy and marketing choices.
+Finally, please pass this on to the company's management team or your supervisor: I expect and deserve opt-in, self-service choices about how my data is used and how I'm marketed to. I shouldn't need to opt-out, let alone by sending an email like this. I'm disappointed that the company chose to violate my privacy rather than ensuring it has my informed consent. Because the company puts its own preferences above my own (and even above simple transparency), I can't trust it. I'll be much less likely to make a future purchase. Please move to opt-in, user-facing privacy and marketing choices.
 
 
 ## Install uBlock Origin
@@ -297,13 +387,13 @@ Finally, please pass this on to the company's management team or your supervisor
 
 ## Additions and updates
 
-To submit deep links to opt out choices for a new organization, or corrections for existing organizations, send a GitHub pull request with the links. This process may improve.
+To submit opt-out pages for a new company, or corrections about existing companies, send a [GitHub pull request](https://github.com/troy/simpleoptout) or create an [issue](https://github.com/troy/simpleoptout/issues) with the URLs. This process may improve over time.
 
 This site is concerned with practices that:
 
 * require opting out, not opting in, and
-* do not inherently disclose a way to opt out (for example, emails generally contain unsubscribe links), and
-* are not addressed by industry-wide opt out like [NAI](http://optout.networkadvertising.org/) and [DAA](http://optout.aboutads.info/) (which are focused on ad targeting), and
+* do not inherently disclose a way to opt-out (for example, emails generally contain unsubscribe links), and
+* are not addressed by industry-wide opt-out like [NAI](http://optout.networkadvertising.org/) and [DAA](http://optout.aboutads.info/) (which are focused on ad targeting), and
 * probably affect at least 1,000 people
 
 

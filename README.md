@@ -1,4 +1,4 @@
-title: Deep links to opt-out of data sharing by 40+ companies – SimpleOptOut.com
+title: Deep links to opt-out of data sharing by 40+ companies – Simple Opt Out
 ---
 
 
@@ -317,7 +317,7 @@ Includes **Pottery Barn, West Elm, Rejuvenation**
 | :-          | :-      | :-
 | Privacy controls | [Opt-out](https://policies.oath.com/us/en/oath/privacy/controls/index.html) | [Yahoo policy](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm). [Oath policy](https://policies.oath.com/).
 
-Also see [Verizon](#verizon)
+Also see [Verizon](#verizon).
 
 
 ### Yelp
@@ -331,10 +331,14 @@ Also see [Verizon](#verizon)
 
 **Includes visitors who are not logged in to a YouTube account.**
 
-* [Watch history & search history](https://www.youtube.com/feed/history) | Pause Watch History, clear Watch History, repeat for Search History. If you browse YouTube without logging in, do this while not logged in.
-* Also see [Google](#google)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Watch history & search history | [Opt-out](https://www.youtube.com/feed/history) | Pause "Watch History," clear it, repeat for "Search History." If you browse YouTube without logging in, do this while not logged in.
+
+Also see [Google](#google).
 
 
+<br />
 
 # Suggestions
 

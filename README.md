@@ -324,7 +324,7 @@ Also see [Verizon](#verizon).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares name & click data with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | "The following settings govern how businesses will see actions you take on Yelp including bookmarks, website clicks, calls, directions, and check-ins." [Policy](https://www.yelp.com/tos/privacy_en_us_20180525#control-personal-data).
+| Shares name & click data with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | "The following settings govern how businesses will see actions you take on Yelp including bookmarks, website clicks, calls, directions, and check-ins." [Policy](https://www.yelp.com/tos/privacy_policy#control-personal-data).
 
 
 ### YouTube

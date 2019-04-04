@@ -238,6 +238,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 * Basically, read every setting or menu choice on any Samsung device you own. [Policy](https://www.samsung.com/us/account/privacy-policy/) is more offensive than its peer companies. If it can be retained and shared, it probably is.
 
 
+### Saatchi Art
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Rents/sells customer purchases to third parties | [Opt-out](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
+
+
 ### Sprint
 
 | What?       | Opt-out | Details

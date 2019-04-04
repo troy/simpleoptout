@@ -110,6 +110,13 @@ Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit
 | Subscriber data to third parties | Email [Privacy_administration@condenast.com](mailto:Privacy_administration@condenast.com) "and state which of these items you wish to opt-out of sharing with third parties." | [Policy](https://www.condenast.com/privacy-policy/). Shares subscibers' "name, email address, postal address or phone number shared with third parties for their marketing purposes"
 
 
+### Costco
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Member data to third parties | Email [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com) | [Policy](https://www.costco.com/privacy-policy.html#D): "We may share your name, postal address, email address and [membership information]" with third parties
+
+
 ### Crate & Barrel
 
 | What?       | Opt-out | Details

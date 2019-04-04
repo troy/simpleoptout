@@ -79,6 +79,16 @@ This site makes it easier to opt out of data sharing by 40+ companies (or [add a
 | Personal data & transactions to third parties | Call 888-817-2970 | [How your data is shared](https://www.capitalone.com/bank/privacy/)
 
 
+### CB2
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Customer & purchase history | [Opt-out](https://www.cb2.com/customer-service/contact-us) | [Policy](https://www.cb2.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline."
+| Postal ads | [Opt-out](https://www.cb2.com/customer-service/opt-out)
+
+Also see [Crate & Barrel](#crate-&-barrel).
+
+
 ### CenturyLink
 
 | What?       | Opt-out | Details
@@ -123,6 +133,8 @@ Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit
 | :-          | :-      | :-
 | Customer & purchase history | [Opt-out](https://www.crateandbarrel.com/customer-service/contact-us) | [Policy](https://www.crateandbarrel.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline."
 | Postal ads | [Opt-out](https://www.crateandbarrel.com/customer-service/opt-out)
+
+Also see [CB2](#CB2).
 
 
 ### Facebook

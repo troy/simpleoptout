@@ -178,6 +178,13 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | Subscriber data to third parties | [Opt-out](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES) | Includes this distinctly terrible opt-out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at…"
 
 
+### Home Depot
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Customer &amp; purchase history to third parties | [Opt-out](https://www.homedepot.com/c/Manage_Privacy_Preferences) | [Policy](https://www.homedepot.com/c/Privacy_Security#Information_Sharing): "We may share your name, address and transactional information … with third party companies"
+
+
 ### Hulu
 
 | What?       | Opt-out | Details

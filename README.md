@@ -133,6 +133,13 @@ Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit
 | Ads and location data | [Opt-out](https://www.facebook.com/about/ads)
 
 
+### Frontier Communications
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Phone data ("CPNI") sharing       | [Opt-out](https://frontier.com/resources/cpni) | [Policy](https://frontier.com/~/media/corporate/policies/privacy-policy.ashx)
+
+
 ### Google
 
 **Includes visitors who are not logged in to a Google account.**

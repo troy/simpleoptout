@@ -134,7 +134,7 @@ Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit
 | Customer & purchase history | [Opt-out](https://www.crateandbarrel.com/customer-service/contact-us) | [Policy](https://www.crateandbarrel.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline."
 | Postal ads | [Opt-out](https://www.crateandbarrel.com/customer-service/opt-out)
 
-Also see [CB2](#CB2).
+Also see [CB2](#cb2).
 
 
 ### Facebook

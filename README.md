@@ -256,6 +256,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy)
 
 
+### People Search Now
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://www.peoplesearchnow.com/opt-out) |
+
+
 ### Reddit
 
 | What?       | Opt-out | Details

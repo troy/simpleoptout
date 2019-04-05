@@ -342,6 +342,13 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | Personal data & transactions to affiliates | [Opt-out](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) or call 1-888-528-8460 | [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/), which is incrementally better than peer banks
 
 
+### Whitepages.com
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing-) | Follow both "Removing the listing via our opt-out service" and "How to Remove your Premium Listing."
+
+
 ### Williams-Sonoma
 
 Includes **Pottery Barn, West Elm, Rejuvenation**

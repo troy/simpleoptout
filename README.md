@@ -31,6 +31,13 @@ This site makes it easier to opt out of data sharing by 40+ companies (or [add a
 | DNA sharing | [Opt-out](https://you.23andme.com/user/edit/privacy/) | [Policy: Your choices](https://www.23andme.com/about/privacy/#jump-link-content-your-choices). [Instructions](https://customercare.23andme.com/hc/en-us/articles/212170838-Privacy-and-display-settings-in-DNA-Relatives).
 
 
+### AAA
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Members' personal data to third parties | Call 888-243-9815 | [Policy](https://wa.aaa.com/about/privacy-notice)
+
+
 ### Adobe
 
 | What?       | Opt-out | Details

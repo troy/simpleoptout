@@ -251,6 +251,15 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | Rents/sells print subscriber data | Email [privacy@nytimes.com](mailto:privacy@nytimes.com) | On [Policy](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy), see "Sharing With Other Third Parties" for instructions. Per Policy: "If you are a U.S. print subscriber, we may exchange or rent your name and postal mailing address…".
 
 
+### OptOutPrescreen.com
+
+Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransUnion**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Unsolicited credit offers | [Opt-out](https://www.optoutprescreen.com/) | Industry organization. 5 year or permanent opt-out.
+
+
 ### PayPal
 
 | What?       | Opt-out | Details

@@ -480,11 +480,11 @@ Finally, please pass this on to the company's management team or your supervisor
 
 To submit opt-out pages for a new company, or corrections about existing companies, send a [GitHub pull request](https://github.com/troy/simpleoptout) or create an [issue](https://github.com/troy/simpleoptout/issues) with the URLs. This process may improve over time.
 
-This site is concerned with practices that:
+This site is generally concerned with practices that:
 
 * require opting out, not opting in, and
 * do not inherently disclose a way to opt-out (for example, emails generally contain unsubscribe links), and
-* are not addressed by industry-wide opt-out like [NAI](http://optout.networkadvertising.org/) and [DAA](http://optout.aboutads.info/) (which are focused on ad targeting), and
+* are not addressed by industry-wide opt-out like [DMAchoice](https://dmachoice.thedma.org/) (for direct mail), [NAI](http://optout.networkadvertising.org/) and [DAA](http://optout.aboutads.info/) (for ad targeting)
 * probably affect at least 1,000 people
 
 

@@ -249,6 +249,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | Data sharing with third parties | Cannot opt out | [Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full#8) (in "Consumer Privacy Notice"): Data is shared "For joint marketing with other financial companies" and/or "For our affiliates’ everyday business purposes"
 
 
+### PeekYou
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://www.peekyou.com/about/contact/optout/)
+
+
 ### Pinterest
 
 | What?       | Opt-out | Details

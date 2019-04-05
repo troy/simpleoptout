@@ -292,6 +292,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | Rents/sells customer purchases to third parties | [Opt-out](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
 
 
+### Spokeo
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://www.spokeo.com/optout)
+
+
 ### Sprint
 
 | What?       | Opt-out | Details

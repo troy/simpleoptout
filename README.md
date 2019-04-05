@@ -24,6 +24,14 @@ This site makes it easier to opt out of data sharing by 40+ companies (or [add a
 
 # Opt-out of data sharing by…
 
+
+### 1stdibs
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| User activity with sellers | [Opt-out](https://www.1stdibs.com/my/account/profile/) | [Policy](https://www.1stdibs.com/about/privacy-policy/): "1stdibs may share your search terms, or items you have viewed, saved, or purchased with that seller"
+
+
 ### 23andMe
 
 | What?       | Opt-out | Details

@@ -199,6 +199,15 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | Reverse lookup entry | [Opt-out](https://www.instantcheckmate.com/opt-out/) |
 
 
+### Lexis-Nexis
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](hhttps://optout.lexisnexis.com/) | [Docs](https://risk.lexisnexis.com/consumer-and-data-access-policies). Excludes [this database](https://www.lexisnexis.com/en-us/privacy/for-consumers/opt-out-of-lexisnexis.page).
+| Direct marketing services | [Opt-out](https://www.lexisnexis.com/privacy/directmarketingopt-out.aspx) | [Docs](https://risk.lexisnexis.com/consumer-and-data-access-policies)
+| Credit offers ("Risk Solutions") | [Opt-out](https://risk.lexisnexis.com/prescreened-offers-optout) | [Docs](https://risk.lexisnexis.com/consumer-and-data-access-policies)
+
+
 ### LinkedIn
 
 | What?       | Opt-out | Details

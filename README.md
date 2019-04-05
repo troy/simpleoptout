@@ -80,6 +80,16 @@ This site makes it easier to opt out of data sharing by 40+ companies (or [add a
 | Ad targeting                      | [Opt-out](https://cprodmasx.att.com/commonLogin/igate_wam/controller.do?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fpkmsvouchfor%3FATT%26https%3A%2F%2Fcprodx.att.com%2Fcmp%2Fcmpa%2Flogin.jsp&REFERER=https%3A%2F%2Fwww.att.com%2FCommon%2Fabout_us%2Fprivacy_policy%2Fprint_policy.html&HOSTNAME=cprodmasx.att.com&AUTHNLEVEL=&FAILREASON=&OLDSESSION)
 
 
+
+### Backcountry.com
+
+Also includes: CompetitiveCyclist.com, Motosport.com, SteepandCheap.com
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Customer data to third parties | Email [info@backcountry.com](mailto:info@backcountry.com?subject=sharing+opt+out) with subject "sharing opt out" | [Policy](https://www.backcountry.com/sc/privacy-policy): "We may share information about you … With third parties for their direct marketing purposes"
+
+
 ### Bank of America
 
 | What?       | Opt-out | Details

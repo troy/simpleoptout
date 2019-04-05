@@ -259,7 +259,7 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| [Ads, browsing data, and services] | [Opt-out](https://account.microsoft.com/account/privacy) | Sites covers Xbox, Skype, Office, Bing. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/).
+| Ads, browsing data, and services | [Opt-out](https://account.microsoft.com/account/privacy) | Sites covers Xbox, Skype, Office, Bing. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/).
 
 
 ### Netflix
@@ -516,4 +516,5 @@ This site is generally concerned with practices that:
 # Related work
 
 * [EFF: Privacy](https://www.eff.org/issues/privacy)
+* [uBlock Origin](https://github.com/gorhill/uBlock#installation)
 * [UsablePrivacy.org](https://usableprivacy.org/)

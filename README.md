@@ -192,6 +192,13 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | Ad targeting | [Opt-out](https://secure.hulu.com/privacy#YourChoices)
 
 
+### Instant Checkmate
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://www.instantcheckmate.com/opt-out/) |
+
+
 ### LinkedIn
 
 | What?       | Opt-out | Details

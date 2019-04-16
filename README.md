@@ -70,6 +70,13 @@ This site makes it easier to opt out of data sharing by 40+ companies (or [add a
 | Ad personalization | [Opt-out](https://www.amazon.com/adprefs/)
 
 
+### Apple
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Interest- and location-based ads | [iOS/Apple TV](https://support.apple.com/en-us/HT202074), [macOS](https://support.apple.com/en-us/HT205223) | 
+
+
 ### AT&T
 
 | What?       | Opt-out | Details

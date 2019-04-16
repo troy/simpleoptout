@@ -74,7 +74,8 @@ This site makes it easier to opt out of data sharing by 40+ companies (or [add a
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Interest- and location-based ads | [iOS/Apple TV](https://support.apple.com/en-us/HT202074), [macOS](https://support.apple.com/en-us/HT205223) | 
+| Interest- and location-based ads (iOS &amp; TV) | [Opt-out](https://support.apple.com/en-us/HT202074)
+| Interest- and location-based ads (macOS) | [Opt-out](https://support.apple.com/en-us/HT205223)
 
 
 ### AT&T

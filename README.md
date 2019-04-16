@@ -1,4 +1,4 @@
-title: Deep links to opt-out of data sharing by 40+ companies – Simple Opt Out
+title: Deep links to opt-out of data sharing by 50+ companies – Simple Opt Out
 ---
 
 
@@ -17,7 +17,7 @@ title: Deep links to opt-out of data sharing by 40+ companies – Simple Opt Ou
    * **[Chase](#chase)** may share your "account balances and transaction history … For nonaffiliates to market to you."
    * **[Crate & Barrel](#crate-&-barrel)** may share "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
 
-This site makes it easier to opt out of data sharing by 40+ companies (or [add a company](#suggestions)). Enjoy!
+This site makes it easier to opt out of data sharing by 50+ companies (or [add a company](#suggestions)). Enjoy!
 
 <br />
 

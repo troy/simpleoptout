@@ -270,6 +270,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | Ads, browsing data, and services | [Opt-out](https://account.microsoft.com/account/privacy) | Sites covers Xbox, Skype, Office, Bing. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/).
 
 
+### National Geographic
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| User data with third parties | [Opt-out](https://help.nationalgeographic.com/customer/portal/emails/new?t=638080) | [Policy](https://www.nationalgeographic.com/legal/privacy/#access).
+
+
 ### Netflix
 
 | What?       | Opt-out | Details

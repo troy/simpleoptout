@@ -268,6 +268,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | Magazine-specific policies | n/a | See [Entertainment Weekly](https://www.meredith.com/legal-ti/ew/generic_privacy_new.html#options), [Fortune](https://www.meredith.com/legal-ti/fortune/generic_privacy_new.html#options), [People](https://www.meredith.com/legal-ti/people/generic_privacy_new.html#options), [Sports Illustrated](https://www.meredith.com/legal-ti/si/generic_privacy_new.html#options), or [our tips](#how-to-find-opt-out-choices-quickly)
 
 
+### MetLife
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Customer information | [Opt-out](https://www.metlife.com/about-us/privacy-policy/opting-out/online-opt-out/) | [Policy](https://www.metlife.com/about-us/privacy-policy/opting-out/)
+
+
 ### Microsoft
 
 **Includes visitors who are not logged in to a Microsoft account.**

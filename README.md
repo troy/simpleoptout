@@ -167,6 +167,13 @@ Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit
 | Member data to third parties | Email [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com) | [Policy](https://www.costco.com/privacy-policy.html#D): "We may share your name, postal address, email address and [membership information]" with third parties
 
 
+### CoreLogic
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Teletrack pre-approved offers | Call 1-877-309-5226 or [Opt-out](https://www.corelogic.com/downloadable-docs/teletrack-out-opt-form.pdf) | [Instructions](https://www.corelogic.com/solutions/corelogic-teletrack-consumer-assistance.aspx). Telephone requests last 5 years; postal mail requests are permanent.
+
+
 ### Crate & Barrel
 
 | What?       | Opt-out | Details

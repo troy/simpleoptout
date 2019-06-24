@@ -512,7 +512,7 @@ For companies not listed here:
 
 1. Navigate to a company's privacy policy by searching the Web for `companyname privacy policy`. Example: [at&t privacy policy](https://www.google.com/search?q=at%26t+privacy+policy)
 2. Once viewing the privacy policy, skim it for a section called "Your Choices."
-3. If you don't see a "Your Choices" link, use your browser to find within the page (Control-F/Command-F). Find for each of these 3 words: "`opt`" (such as "opt-out" and "optout"), "shar" (such as "sharing" and "shared"), and "`disclos`" (such as "disclose" and "disclosure").
+3. If you don't see a "Your Choices" link, use your browser to find within the page (Control-F/Command-F). Find for each of these 3 words: "`opt`" (such as "opt-out" and "optout"), "`shar`" (such as "sharing" and "shared"), and "`disclos`" (such as "disclose" and "disclosure").
 
 
 ### Ready-made opt-out request

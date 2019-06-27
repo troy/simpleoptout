@@ -375,7 +375,7 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Rents/sells customer purchases to third parties | [Opt-out](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
+| Rents/sells customer purchases to third parties | Email [legal@leafgroup.com](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
 
 
 ### Spokeo

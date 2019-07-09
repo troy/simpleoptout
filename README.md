@@ -225,15 +225,6 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | Subscriber data to third parties | [Opt-out](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES) | Includes this distinctly terrible opt-out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at…"
 
 
-### InterContinental Hotels
-
-Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/content/us/en/about/brands)
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Customer data to third parties | [Opt-out](https://www.ihg.com/hotels/us/en/customer-care/contact-us) or email [mailto:privacyoffice@ihg.com](privacyoffice@ihg.com) | [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "We may also share your information with third parties … to extend special offers about their own products and services to you."
-
-
 ### Home Depot
 
 | What?       | Opt-out | Details
@@ -253,6 +244,15 @@ Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/conte
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Reverse lookup entry | [Opt-out](https://www.instantcheckmate.com/opt-out/) |
+
+
+### InterContinental Hotels
+
+Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/content/us/en/about/brands)
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Customer data to third parties | [Opt-out](https://www.ihg.com/hotels/us/en/customer-care/contact-us) or email [mailto:privacyoffice@ihg.com](privacyoffice@ihg.com) | [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "We may also share your information with third parties … to extend special offers about their own products and services to you."
 
 
 ### Lexis-Nexis
@@ -275,6 +275,8 @@ Also see [Microsoft](#microsoft).
 
 
 ### Marriott Hotels
+
+Includes: Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, Ritz-Carlton, Sheraton, SpringHill Suites, St. Regis, W Hotels, Westin, [others](https://www.marriott.com/marriott-brands.mi)
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-

@@ -374,6 +374,13 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | Ad personalization | [Opt-out](https://www.reddit.com/personalization) | [Policy](https://www.redditinc.com/policies/privacy-policy#text-content5)
 
 
+### REI
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Discloses customer data to third parties | Email [privacy@rei.com](mailto:privacy@rei.com) | [Policy](https://help.rei.com/app/answers/detail/a_id/50/~/privacy-policy#Sharing_of_Information): "we may make our postal mailing list and general shopping information available to selected companies"
+
+
 ### Roomba (iRobot)
 
 * "We may share your personal information… with selected third parties who we think may offer you products or services you may enjoy"

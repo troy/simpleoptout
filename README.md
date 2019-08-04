@@ -209,6 +209,15 @@ Also see [CB2](#cb2).
 | Most services                       | [Opt-out](https://myaccount.google.com/privacycheckup/)        | Includes Gmail, Google Apps, & location data. [Policy: Choices](https://policies.google.com/privacy?hl=en#infochoices).
 
 
+### Guitar Center
+
+Includes: MusiciansFriend.com
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Customer postal addresses with third parties | Call 866-498-7882 (Guitar Center) or 800-449-9128 (Musician's Friend) | [Policy](https://www.guitarcenter.com/pages/privacy-rights-policy): "may occasionally share its postal mailing list … with other organizations"
+
+
 ### HBO
 
 | What?       | Opt-out | Details

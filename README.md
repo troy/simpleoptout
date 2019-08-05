@@ -1,4 +1,4 @@
-title: Deep links to opt-out of data sharing by 50+ companies – Simple Opt Out
+title: Deep links to opt-out of data sharing by 60+ companies – Simple Opt Out
 ---
 
 

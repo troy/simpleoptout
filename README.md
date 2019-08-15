@@ -477,8 +477,12 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 ### Vizio
 
-* "At any time you may turn ACR (Viewing Data) collection off or on directly from the menu of your VIZIO TV or video display. Turning ACR (Viewing Data) off will disable all future Viewing Data collection."
-* [Policy](https://www.vizio.com/privacy)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Discloses detailed viewing history | [Opt-out](http://www.vizio.com/viewingdata) | [Policy](https://www.vizio.com/privacy): Viewing Data Supplement: "We may share Personal Information …  with some third party companies … [for] marketing assistance"
+| Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy): SmartCast Supplement
+
+* Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/)
 
 
 ### Wells Fargo

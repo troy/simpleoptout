@@ -273,6 +273,17 @@ Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/conte
 | Credit offers ("Risk Solutions") | [Opt-out](https://risk.lexisnexis.com/prescreened-offers-optout) | [Docs](https://risk.lexisnexis.com/consumer-and-data-access-policies)
 
 
+### LG
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| TV | Don't agree to terms or policy on product UI, or don't buy product | [Policy](https://us.lgaccount.com/customer/terms_list?country=US&language=en-US&terms_div=update&terms_svcCode=SVC301&terms_type=A_PRV), [Policy](https://us.m.lgaccount.com/customer/terms_detail?country=US&language=en-US&terms_div=update&terms_svcCode=SVC202&terms_type=PRV_SMARTHOME)
+
+[Policy](https://www.lg.com/us/privacy): "We may share or disclose your Personally Identifiable Information … To strategic partners, agents, third party marketers or other unaffiliated parties"
+
+* Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), [LG Will Take The 'Smart' Out Of Your Smart TV If You Don't Agree To Share…](https://www.techdirt.com/articles/20140511/17430627199/lg-will-take-smart-out-your-smart-tv-if-you-dont-agree-to-share-your-viewing-search-data-with-third-parties.shtml)
+
+
 ### LinkedIn
 
 | What?       | Opt-out | Details
@@ -406,8 +417,8 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 
 * Televisions: "the IBA Service will collect information about your TV viewing history (including information about the networks, channels, websites visited and programs viewed on your Samsung Smart TV and the amount of time spent viewing them) and Samsung Smart TV usage information (such as how long and often you use the apps on your Smart TV). We may use automatic content recognition (ACR) and other technologies to capture your TV viewing history. We also may obtain other behavioral and demographic data from trusted third-party data sources." "We may share your personal information with … business partners" "your privacy choice with respect to the IBA Service will not affect whether or not you receive or are served with other types of ads and marketing" - [Policy](https://www.samsung.com/us/account/privacy-policy/) (which contains multiple policies concatenated into one page).
 * "You may, at any time, disable the Customization Service via the "Customization Service" option in the Settings menu of your Samsung Account" (or app/device), as well as [account.samsung.com](https://account.samsung.com)
-* Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/)
 * Basically, read every setting or menu choice on any Samsung device you own. [Policy](https://www.samsung.com/us/account/privacy-policy/) is distinctly less customer-friendly than its peer companies. If it can be retained and shared, it probably is.
+* Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/)
 
 
 ### Saatchi Art
@@ -482,7 +493,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | Discloses detailed viewing history | [Opt-out](http://www.vizio.com/viewingdata) | [Policy](https://www.vizio.com/privacy): Viewing Data Supplement: "We may share Personal Information …  with some third party companies … [for] marketing assistance"
 | Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy): SmartCast Supplement
 
-* Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/)
+Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), [What Vizio was doing behind the TV screen](https://www.ftc.gov/news-events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen)
 
 
 ### Wells Fargo

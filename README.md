@@ -399,10 +399,15 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 
 ### Samsung
 
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| TV: Discloses detailed viewing history | Menu > Support > Terms & Policy or Menu > Smart Hub > Terms & Policy | [Policy](https://www.samsung.com/us/account/privacy-policy/) (excerpted below)
+| Phones: Activity tracking | See Policy | [Policy](https://www.samsung.com/us/account/privacy-policy/samsungads/)
+
+* Televisions: "the IBA Service will collect information about your TV viewing history (including information about the networks, channels, websites visited and programs viewed on your Samsung Smart TV and the amount of time spent viewing them) and Samsung Smart TV usage information (such as how long and often you use the apps on your Smart TV). We may use automatic content recognition (ACR) and other technologies to capture your TV viewing history. We also may obtain other behavioral and demographic data from trusted third-party data sources." "We may share your personal information with … business partners" "your privacy choice with respect to the IBA Service will not affect whether or not you receive or are served with other types of ads and marketing" - [Policy](https://www.samsung.com/us/account/privacy-policy/) (which contains multiple policies concatenated into one page).
 * "You may, at any time, disable the Customization Service via the "Customization Service" option in the Settings menu of your Samsung Account" (or app/device), as well as [account.samsung.com](https://account.samsung.com)
-* "You may disable the IBA Service at any time by visiting the settings menu on your Samsung Smart TV… your privacy choice with respect to the IBA Service will not affect whether you receive or are served with other types of ads"
-* [Ads on Samsung phones](https://www.samsung.com/us/account/privacy-policy/samsungads/)
-* Basically, read every setting or menu choice on any Samsung device you own. [Policy](https://www.samsung.com/us/account/privacy-policy/) is more offensive than its peer companies. If it can be retained and shared, it probably is.
+* Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/)
+* Basically, read every setting or menu choice on any Samsung device you own. [Policy](https://www.samsung.com/us/account/privacy-policy/) is distinctly less customer-friendly than its peer companies. If it can be retained and shared, it probably is.
 
 
 ### Saatchi Art

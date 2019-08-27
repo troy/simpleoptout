@@ -69,6 +69,12 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [add a
 | Browsing history   | [Opt-out](https://www.amazon.com/gp/history) (click "Manage history") | [Policy: Choices](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-1B2BDAD4-7ACF-4D7A-8608-CBA6EA897FD3__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
 | Ad personalization | [Opt-out](https://www.amazon.com/adprefs/)
 
+### American Express
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Communication and Privacy Prefrences | [Opt-out](http://www.americanexpress.com/communications) | [Policy](https://www.americanexpress.com/us/legal-disclosures/privacy-center.html)
+
 
 ### Apple
 

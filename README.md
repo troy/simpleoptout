@@ -483,6 +483,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Data sharing and cross-site tracking | [Opt-out](https://twitter.com/personalization) | Part of [account settings](https://twitter.com/settings/safety). [Policy](https://twitter.com/en/privacy).
+| Tailored audiences | [Request advertiser list](https://twitter.com/settings/your_twitter_data/audiences) | [Intro to tailored audiences](https://business.twitter.com/en/help/campaign-setup/campaign-targeting/tailored-audiences.html). [Policy](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads). [Policy for advertisers](https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html).
 
 
 ### Verizon

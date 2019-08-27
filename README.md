@@ -301,6 +301,13 @@ Includes: Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, Rit
 | Personal data to affiliated third parties | [Opt-out](https://app.onetrust.com/app/#/webform/e4eef8ab-3071-4679-a374-5847fbe290de) | [Policy](https://www.marriott.com/about/privacy.mi): "We disclose Personal Data and Other Data with select Strategic Business Partners"
 
 
+### Mastercard
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Aggregated consumer spending reports | [Opt-out](https://www.mastercard.us/en-us/about-mastercard/what-we-do/privacy/data-analytics-opt-out.html) | [Policy](https://www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html#sharePersonalInfo)
+
+
 ### Meredith/Time Inc.
 
 Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Gardens, Country Life, Diabetic Living, EatingWell, Entertainment Weekly, Every Day with Rachael Ray, Family Circle, FamilyFun, Fitness, Food & Wine, InStyle, Living the Country Life, Midwest Living, Money, Parents, People, Practical Boat Owner, Real Simple, Shape, Siempre Mujer, Southern Living, Sports Illustrated, Successful Farming, and [others](https://www.meredith.com/national-media/brands).

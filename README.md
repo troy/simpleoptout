@@ -150,6 +150,13 @@ Also see [Crate & Barrel](#crate-&-barrel).
 | Personal data & transactions to third parties | [Opt-out](https://secure.chase.com/web/auth/nav?navKey=requestPublicPrivacyPreferences) or call 1–888–868–8618 | [How your data is shared](https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice)
 
 
+### Choice Hotels
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Personal data to third parties | [Email privacy@choicehotels.com](mailto:privacy@choicehotels.com) | [Policy](https://www.choicehotels.com/legal/privacy-policy): "Choice may partner with other companies to provide co-sponsored or co-branded promotions … products and services and may share your information with these companies."
+
+
 ### Comcast Xfinity
 
 | What?       | Opt-out | Details

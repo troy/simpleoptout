@@ -293,7 +293,7 @@ Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/conte
 | :-          | :-      | :-
 | TV | Don't agree to terms or policy on product UI, or don't buy product | [Policy](https://us.lgaccount.com/customer/terms_list?country=US&language=en-US&terms_div=update&terms_svcCode=SVC301&terms_type=A_PRV), [Policy](https://us.m.lgaccount.com/customer/terms_detail?country=US&language=en-US&terms_div=update&terms_svcCode=SVC202&terms_type=PRV_SMARTHOME)
 
-Also see [LG Will Take The 'Smart' Out Of Your Smart TV If You Don't Agree To Share…](https://www.techdirt.com/articles/20140511/17430627199/lg-will-take-smart-out-your-smart-tv-if-you-dont-agree-to-share-your-viewing-search-data-with-third-parties.shtml), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/).
+More information: [LG Will Take The 'Smart' Out Of Your Smart TV If You Don't Agree To Share…](https://www.techdirt.com/articles/20140511/17430627199/lg-will-take-smart-out-your-smart-tv-if-you-dont-agree-to-share-your-viewing-search-data-with-third-parties.shtml), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
 
 ### LinkedIn
@@ -426,8 +426,7 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | :-          | :-      | :-
 | Discloses detailed viewing history | Opt-out in device (Settings > Privacy menu) | [Policy](https://docs.roku.com/published/userprivacypolicy/en/us)
 
-Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/).
-
+More information: [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/) and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
 
 ### Roomba (iRobot)
@@ -448,7 +447,7 @@ Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.or
 * "You may, at any time, disable the Customization Service via the "Customization Service" option in the Settings menu of your Samsung Account" (or app/device), as well as [account.samsung.com](https://account.samsung.com)
 * Basically, read every setting or menu choice on any Samsung device you own. [Policy](https://www.samsung.com/us/account/privacy-policy/) is distinctly less customer-friendly than its peer companies. If it can be retained and shared, it probably is.
 
-Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/).
+More information: [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/) and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
 
 ### Saatchi Art
@@ -524,7 +523,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | Discloses detailed viewing history | [Opt-out](http://www.vizio.com/viewingdata) | [Policy](https://www.vizio.com/privacy): Viewing Data Supplement: "We may share Personal Information …  with some third party companies … [for] marketing assistance"
 | Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy): SmartCast Supplement
 
-Also see [What Vizio was doing behind the TV screen](https://www.ftc.gov/news-events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/).
+More information: [What Vizio was doing behind the TV screen](https://www.ftc.gov/news-events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
 
 ### Wells Fargo

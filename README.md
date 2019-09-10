@@ -420,6 +420,16 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | Discloses customer data to third parties | Email [privacy@rei.com](mailto:privacy@rei.com) | [Policy](https://help.rei.com/app/answers/detail/a_id/50/~/privacy-policy#Sharing_of_Information): "we may make our postal mailing list and general shopping information available to selected companies"
 
 
+### Roku
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Discloses detailed viewing history | Opt-out in device (Settings > Privacy menu) | [Policy](https://docs.roku.com/published/userprivacypolicy/en/us)
+
+Also see [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/).
+
+
+
 ### Roomba (iRobot)
 
 * "We may share your personal information… with selected third parties who we think may offer you products or services you may enjoy"

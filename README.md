@@ -112,18 +112,18 @@ Also includes: CompetitiveCyclist.com, Motosport.com, SteepandCheap.com
 | Personal data & transactions to third parties | [Opt-out](https://secure.bankofamerica.com/customer/public/privacy.go) (or call 888-341-5000) | [How your data is shared](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go)
 
 
-### Carnival Cruises
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Customer data with third parties | Email [dpo@carnival.com](mailto:dpo@carnival.com) (or call 1-888-CARNIVAL) | [Policy](https://www.carnival.com/about-carnival/legal-notice/privacy-notice.aspx#third-party-disclosure).
-
-
 ### CapitalOne 360
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Personal data & transactions to third parties | Call 888-817-2970 | [How your data is shared](https://www.capitalone.com/bank/privacy/)
+
+
+### Carnival Cruises
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Customer data with third parties | Email [dpo@carnival.com](mailto:dpo@carnival.com) (or call 1-888-CARNIVAL) | [Policy](https://www.carnival.com/about-carnival/legal-notice/privacy-notice.aspx#third-party-disclosure).
 
 
 ### CB2

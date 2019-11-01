@@ -1,6 +1,12 @@
 title: Deep links to opt-out of data sharing by 60+ companies – Simple Opt Out
 ---
 
+<style>
+  body {
+    max-width: 1500px;
+  }
+</style>
+
 
 <center>
   <h2>Opt out of all the data sharing you wouldn't opt in to.</h2>

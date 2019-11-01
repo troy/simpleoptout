@@ -91,6 +91,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [add a
 [Target](#target) •
 [Taunton Press](#taunton-press) •
 [T-Mobile](#t-mobile) •
+[Tuft & Needle](#tuft-&-needle) •
 [Twitter](#twitter) •
 [Verizon](#verizon) •
 [Visa](#visa) •
@@ -586,6 +587,13 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Marketing preferences | [Opt-out](https://www.t-mobile.com/responsibility/privacy/privacy-choice/marketing-choice) | The best of its large-carrier peers. [Policy: Choices](https://www.t-mobile.com/responsibility/privacy/privacy-policy#infochoices).
+
+
+### Tuft & Needle
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [support@tn.com](mailto:support@tn.com) | [Policy](https://www.tuftandneedle.com/legal/privacy/#vii): "We may share or disclose your Personal Information … with … third party marketers, or other unaffiliated parties"
 
 
 ### Twitter

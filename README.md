@@ -126,6 +126,13 @@ Also includes: CompetitiveCyclist.com, Motosport.com, SteepandCheap.com
 | Customer data with third parties | Email [dpo@carnival.com](mailto:dpo@carnival.com) (or call 1-888-CARNIVAL) | [Policy](https://www.carnival.com/about-carnival/legal-notice/privacy-notice.aspx#third-party-disclosure).
 
 
+### Casper
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer data with third parties | Email [privacy@casper.com](mailto:privacy@casper.com) within thirty (30) days of purchase | [Policy](https://casper.com/privacy/): your info "may be made available to select third parties who offer products or services"
+
+
 ### CB2
 
 | What?       | Opt-out | Details

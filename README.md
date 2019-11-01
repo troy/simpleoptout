@@ -86,6 +86,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [add a
 [Samsung](#samsung) •
 [Saatchi Art](#saatchi-art) •
 [Seattle Times](#seattle-times) •
+[Sleep Number](#sleep-number) •
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
 [Target](#target) •
@@ -550,6 +551,13 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info with third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://company.seattletimes.com/notices/notice2.html): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in."
+
+
+### Sleep Number
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [unsubscribe@sleepnumber.com](mailto:unsubscribe@sleepnumber.com) | [Policy](https://www.sleepnumber.com/legal-notices/privacy-policy#is-shared): "We may also disclose Your Non-SleepIQ Personal Information to trusted third parties so that they can offer products and/or services"
 
 
 ### Spokeo

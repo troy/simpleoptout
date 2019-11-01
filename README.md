@@ -457,6 +457,13 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 | Rents/sells customer purchases to third parties | Email [legal@leafgroup.com](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
 
 
+### Seattle Times
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info to third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://company.seattletimes.com/notices/notice2.html): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in."
+
+
 ### Spokeo
 
 | What?       | Opt-out | Details

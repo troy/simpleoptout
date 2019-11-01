@@ -30,6 +30,81 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [add a
 
 # Opt-out of data sharing by…
 
+[1stdibs](#1stdibs) •
+[23andMe](#23andme) •
+[AAA](#aaa) •
+[Adobe](#adobe) •
+[Ancestry.com](#ancestry.com) •
+[Amazon.com](amazon.com) •
+[American Express](#american-express) •
+[Apple](#apple) •
+[AT&T](#at&t) •
+[Backcountry.com](#backcountry.com) •
+[Bank of America](#bank-of-america) •
+[CapitalOne 360](#capitalone-360) •
+[Carnival Cruises](#carnival-cruises) •
+[Casper](#casper) •
+[CB2](#cb2) •
+[CenturyLink](#centurylink) •
+[Chase](#chase) •
+[Choice Hotels](#choice-hotels) •
+[Comcast Xfinity](#comcast-xfinity) •
+[Condé Nast](#condé-nast) •
+[Costco](#costco) •
+[CoreLogic](#corelogic) •
+[Crate & Barrel](crate-&-barrel) •
+[Facebook](#facebook) •
+[Frontier Communications](#frontier-communications) •
+[Google](#google) •
+[Guitar Center](#guitar-center) •
+[HBO](#hbo) •
+[Hearst](#hearst) •
+[Home Depot](#home-depot) •
+[Hulu](#hulu) •
+[Instant Checkmate](#instant-checkmate) •
+[InterContinental Hotels](#intercontinental-hotels) •
+[Lexis-Nexis](#lexis-nexis) •
+[LG](#lg) •
+[LinkedIn](#linkedin) •
+[Marriott Hotels](#marriott-hotels) •
+[Mastercard](#mastercard) •
+[Meredith/Time Inc.](#meredith/time-inc.) •
+[MetLife](#metlife) •
+[Microsoft](#microsoft) •
+[National Geographic](#national-geographic) •
+[Netflix](#netflix) •
+[NYTimes](#nytimes) •
+[OptOutPrescreen.com](#optoutprescreen.com) •
+[PayPal](#paypal) •
+[PeekYou](#peekyou) •
+[Pinterest](#pinterest) •
+[People Search Now](#people-search-now) •
+[Reddit](#reddit) •
+[REI](#rei) •
+[Roku](#roku) •
+[Roomba (iRobot)](#roomba-%28irobot%29) •
+[Samsung](#samsung) •
+[Saatchi Art](#saatchi-art) •
+[Seattle Times](#seattle-times) •
+[Spokeo](#spokeo) •
+[Sprint](#sprint) •
+[Target](#target) •
+[Taunton Press](#taunton-press) •
+[T-Mobile](#t-mobile) •
+[Twitter](#twitter) •
+[Verizon](#verizon) •
+[Visa](#visa) •
+[Vizio](#vizio) •
+[Wells Fargo](#wells-fargo) •
+[Whitepages.com](#whitepages.com) •
+[Wiliams-Sonoma](#williams-sonoma) •
+[Yahoo/Oath](#yahoo/oath) •
+[Yelp](#yelp) •
+[YouTube](#youtube)
+
+
+<br />
+
 
 ### 1stdibs
 

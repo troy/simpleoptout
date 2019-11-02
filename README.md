@@ -35,7 +35,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [add a
 [AAA](#aaa) •
 [Adobe](#adobe) •
 [Ancestry.com](#ancestry.com) •
-[Amazon.com](amazon.com) •
+[Amazon.com](#amazon.com) •
 [American Express](#american-express) •
 [Apple](#apple) •
 [AT&T](#at&t) •

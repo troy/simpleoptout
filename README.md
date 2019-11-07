@@ -77,6 +77,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [add a
 [OptOutPrescreen.com](#optoutprescreen.com) •
 [PayPal](#paypal) •
 [PeekYou](#peekyou) •
+[PictureFrames.com](#pictureframes.com) •
 [Pinterest](#pinterest) •
 [People Search Now](#people-search-now) •
 [Reddit](#reddit) •
@@ -479,6 +480,13 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Reverse lookup entry | [Opt-out](https://www.peekyou.com/about/contact/optout/)
+
+
+### PictureFrames.com
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Data sharing with third parties | Call 800-332-8884 | [Policy](https://www.pictureframes.com/customer-care/privacy-policy): Your information, including "information about your order(s)," "may also be shared with other marketers"
 
 
 ### Pinterest

@@ -77,9 +77,9 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [add a
 [OptOutPrescreen.com](#optoutprescreen.com) •
 [PayPal](#paypal) •
 [PeekYou](#peekyou) •
+[People Search Now](#people-search-now) •
 [PictureFrames.com](#pictureframes.com) •
 [Pinterest](#pinterest) •
-[People Search Now](#people-search-now) •
 [Reddit](#reddit) •
 [REI](#rei) •
 [Roku](#roku) •
@@ -482,6 +482,13 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | Reverse lookup entry | [Opt-out](https://www.peekyou.com/about/contact/optout/)
 
 
+### People Search Now
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://www.peoplesearchnow.com/opt-out) |
+
+
 ### PictureFrames.com
 
 | What?       | Opt-out | Details
@@ -494,13 +501,6 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy)
-
-
-### People Search Now
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Reverse lookup entry | [Opt-out](https://www.peoplesearchnow.com/opt-out) |
 
 
 ### Reddit

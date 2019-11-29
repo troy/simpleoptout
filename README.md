@@ -41,6 +41,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [add a
 [AT&T](#at&t) •
 [Backcountry.com](#backcountry.com) •
 [Bank of America](#bank-of-america) •
+[BeenVerified](#beenverified) •
 [CapitalOne 360](#capitalone-360) •
 [Carnival Cruises](#carnival-cruises) •
 [Casper](#casper) •
@@ -193,6 +194,13 @@ Also includes: CompetitiveCyclist.com, Motosport.com, SteepandCheap.com
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info & transactions with third parties | [Opt-out](https://secure.bankofamerica.com/customer/public/privacy.go) (or call 888-341-5000) | [How your data is shared](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go)
+
+
+### BeenVerified
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://www.beenverified.com/app/optout/search) |
 
 
 ### CapitalOne 360

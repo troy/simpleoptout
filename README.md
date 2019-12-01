@@ -200,7 +200,7 @@ Also includes: CompetitiveCyclist.com, Motosport.com, SteepandCheap.com
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Reverse lookup entry | [Opt-out](https://www.beenverified.com/app/optout/search) |
+| Reverse lookup entry | [Opt-out](https://www.beenverified.com/app/optout/search) | [Policy](https://www.beenverified.com/faq/privacy/)
 
 
 ### CapitalOne 360

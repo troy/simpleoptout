@@ -94,6 +94,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Target](#target) •
 [Taunton Press](#taunton-press) •
 [T-Mobile](#t-mobile) •
+[TruePeopleSearch](#truepeoplesearch) •
 [Tuft & Needle](#tuft-&-needle) •
 [Twitter](#twitter) •
 [Verizon](#verizon) •
@@ -618,6 +619,13 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info with third parties | Email [support@tn.com](mailto:support@tn.com) | [Policy](https://www.tuftandneedle.com/legal/privacy/#vii): "We may share or disclose your Personal Information … with … third party marketers, or other unaffiliated parties"
+
+
+### TruePeopleSearch
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://www.truepeoplesearch.com/removal) | [Policy](https://www.truepeoplesearch.com/privacy)
 
 
 ### Twitter

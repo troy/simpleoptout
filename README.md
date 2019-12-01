@@ -23,7 +23,7 @@ title: Deep links to opt-out of data sharing by 60+ companies – Simple Opt Ou
    * **[Chase](#chase)** may share your "account balances and transaction history … For nonaffiliates to market to you."
    * **[Crate & Barrel](#crate-&-barrel)** may share "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
 
-This site makes it easier to opt out of data sharing by 50+ companies (or [add a company](#changes), or see [opt-out tips](#suggestions)). Enjoy!
+This site makes it easier to opt out of data sharing by 50+ companies (or [request a company](#changes) or see [opt-out tips](#suggestions)). Enjoy!
 
 <br />
 
@@ -749,7 +749,7 @@ Finally, please pass this on to the company's management team or your supervisor
 
 ## Additions and updates
 
-To submit opt-out pages for a new company, or corrections about existing companies, send a [GitHub pull request](https://github.com/troy/simpleoptout) or create an [issue](https://github.com/troy/simpleoptout/issues) with the URLs. This process may improve over time.
+To submit opt-out pages for a new company, corrections about existing companies, or suggest an addition, please create a [GitHub issue](https://github.com/troy/simpleoptout/issues) (or send a [pull request](https://github.com/troy/simpleoptout)) or [tweet to @simpleoptout](https://twitter.com/simpleoptout).
 
 This site is generally concerned with practices that:
 

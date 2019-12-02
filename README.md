@@ -104,6 +104,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Wells Fargo](#wells-fargo) •
 [Whitepages.com](#whitepages.com) •
 [Wiliams-Sonoma](#williams-sonoma) •
+[Woodcraft](#woodcraft) •
 [Yahoo/Oath](#yahoo/oath) •
 [Yelp](#yelp) •
 [YouTube](#youtube)
@@ -689,6 +690,13 @@ Includes **Pottery Barn, West Elm, Rejuvenation**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info with third parties | Email [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com) | [Policy](https://www.williams-sonomainc.com/privacy/): "we might rent, exchange, share and/or cross-reference information, including contact information about you … include your full name, email address, mailing address, and specifically what information you do not want to receive."
+
+
+### Woodcraft
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [custserv@woodcraft.com](mailto:custserv@woodcraft.com) | [Policy](https://www.woodcraft.com/pages/privacypolicy): "We occasionally make our [postal mailing list] available to carefully screened companies"
 
 
 ### Yahoo/Oath

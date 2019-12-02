@@ -83,6 +83,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Pinterest](#pinterest) •
 [Reddit](#reddit) •
 [REI](#rei) •
+[Rockler](#rockler) •
 [Roku](#roku) •
 [Roomba (iRobot)](#roomba-%28irobot%29) •
 [Samsung](#samsung) •
@@ -524,6 +525,13 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info with third parties | Email [privacy@rei.com](mailto:privacy@rei.com) | [Policy](https://help.rei.com/app/answers/detail/a_id/50/~/privacy-policy#Sharing_of_Information): "we may make our postal mailing list and general shopping information available to selected companies"
+
+
+### Rockler
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [orders@rockler.com](mailto:orders@rockler.com) | [Policy](https://www.rockler.com/privacy-policy): "Occasionally, we make a portion of our mailing list available to respectable organizations that may interest our customers"
 
 
 ### Roku

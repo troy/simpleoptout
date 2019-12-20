@@ -54,6 +54,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Costco](#costco) •
 [CoreLogic](#corelogic) •
 [Crate & Barrel](crate-&-barrel) •
+[Disqus](#disqus) •
 [Facebook](#facebook) •
 [Frontier Communications](#frontier-communications) •
 [Google](#google) •
@@ -297,6 +298,13 @@ Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit
 | Postal ads | [Opt-out](https://www.crateandbarrel.com/customer-service/opt-out)
 
 Also see [CB2](#cb2).
+
+
+### Disqus
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells user info with third parties | [Email privacy@disqus.com](mailto:privacy@disqus.com) | [Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy): "we share certain categories of personal data with third parties for their direct marketing purposes"
 
 
 ### Facebook

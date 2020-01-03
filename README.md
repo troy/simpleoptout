@@ -125,14 +125,14 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| DNA sharing | [Opt-out](https://you.23andme.com/user/edit/privacy/) | [Policy: Your choices](https://www.23andme.com/about/privacy/#jump-link-content-your-choices). [Instructions](https://customercare.23andme.com/hc/en-us/articles/212170838-Privacy-and-display-settings-in-DNA-Relatives).
+| DNA sharing | [Opt-out](https://you.23andme.com/user/edit/privacy/), [Research](https://you.23andme.com/user/edit/preferences/) | [Policy: Your choices](https://www.23andme.com/about/privacy/#jump-link-content-your-choices). [Instructions](https://customercare.23andme.com/hc/en-us/articles/212170838-Privacy-and-display-settings-in-DNA-Relatives).
 
 
 ### AAA
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells members' info with third parties | Call 888-243-9815 | [Policy](https://wa.aaa.com/about/privacy-notice)
+| Shares/sells members' info with third parties | Call 888-243-9815 | [Policy](https://wa.aaa.com/general/privacy-notice.html)
 
 
 ### Adobe
@@ -178,19 +178,9 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Phone data ("CPNI") sharing       | [Opt-out](http://att.com/ecpnioptout) | [Policy: Your Choices](https://about.att.com/sites/privacy_policy/rights_choices)
-| Mobile calls, data, and targeting | [Opt-out](http://www.att.com/cmpchoice)
-| DirecTV                           | [Opt-out](https://www.directv.com/DTVAPP/content/support/DTVAPP_policy)
-| Ad targeting                      | [Opt-out](https://cprodmasx.att.com/commonLogin/igate_wam/controller.do?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fpkmsvouchfor%3FATT%26https%3A%2F%2Fcprodx.att.com%2Fcmp%2Fcmpa%2Flogin.jsp&REFERER=https%3A%2F%2Fwww.att.com%2FCommon%2Fabout_us%2Fprivacy_policy%2Fprint_policy.html&HOSTNAME=cprodmasx.att.com&AUTHNLEVEL=&FAILREASON=&OLDSESSION)
-
-
-### Backcountry.com
-
-Also includes: CompetitiveCyclist.com, Motosport.com, SteepandCheap.com
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [info@backcountry.com](mailto:info@backcountry.com?subject=sharing+opt+out) with subject "sharing opt out" | [Policy](https://www.backcountry.com/sc/privacy-policy): "We may share information about you … With third parties for their direct marketing purposes"
+| Phone data ("CPNI") sharing          | [Opt-out](http://att.com/ecpnioptout) | [Policy: Your Choices](https://about.att.com/sites/privacy_policy/rights_choices)
+| Mobile calls, data, and ad targeting | [Opt-out](http://www.att.com/cmpchoice)
+| DirecTV                              | [Opt-out](https://www.directv.com/DTVAPP/content/support/DTVAPP_policy) and in set-top box settings
 
 
 ### Bank of America
@@ -218,21 +208,14 @@ Also includes: CompetitiveCyclist.com, Motosport.com, SteepandCheap.com
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [dpo@carnival.com](mailto:dpo@carnival.com) (or call 1-888-CARNIVAL) | [Policy](https://www.carnival.com/about-carnival/legal-notice/privacy-notice.aspx#third-party-disclosure).
-
-
-### Casper
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [privacy@casper.com](mailto:privacy@casper.com) within thirty (30) days of purchase | [Policy](https://casper.com/privacy/): your info "may be made available to select third parties who offer products or services"
+| Shares/sells customer info with third parties | Email [dpo@carnival.com](mailto:dpo@carnival.com) (or call 1-888-CARNIVAL), or [delete personal data](https://www.carnival.com/request-forms/california-consumer-privacy-act-request-form.aspx) | [Policy](https://www.carnival.com/about-carnival/legal-notice/privacy-notice.aspx#third-party-disclosure): "We may share information … With select third parties, so that they can provide you with information and marketing messages"
 
 
 ### CB2
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.cb2.com/customer-service/contact-us) | [Policy](https://www.cb2.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline."
+| Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.cb2.com/customer-service/sellingandsharing-request) | [Policy](https://www.cb2.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline"
 | Postal ads | [Opt-out](https://www.cb2.com/customer-service/opt-out)
 
 Also see [Crate & Barrel](#crate-&-barrel).
@@ -256,14 +239,14 @@ Also see [Crate & Barrel](#crate-&-barrel).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells guest info with third parties | [Email privacy@choicehotels.com](mailto:privacy@choicehotels.com) | [Policy](https://www.choicehotels.com/legal/privacy-policy): "Choice may partner with other companies to provide co-sponsored or co-branded promotions … products and services and may share your information with these companies."
+| Shares/sells guest info with third parties | [Opt-out](https://www.choicehotels.com/choice-privileges/account/update) or email [privacy@choicehotels.com](mailto:privacy@choicehotels.com) | [Policy](https://www.choicehotels.com/legal/privacy-policy): "Choice may partner with other companies to provide co-sponsored or co-branded promotions, sweepstakes, contests, products and services and may share your information with these companies."
 
 
 ### Comcast Xfinity
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Targeted cable ads, sales mailings, more | [Opt-out](https://customer.xfinity.com/#/users/me/notifications) (scroll to end of page) | [Policy: Your choices](https://www.xfinity.com/corporate/customers/policies/customerprivacy#your-choices)
+| Targeted cable ads, sales mailings, more | [Opt-out](https://www.xfinity.com/privacy/manage-optouts) | [Policy: Your choices](https://www.xfinity.com/privacy/policy#info-control)
 | Postal mail ads | Call 800-COMCAST and ask to be added to "Do Not Mail" list | [Policy: Web site](https://www.xfinity.com/corporate/legal/privacystatement#section8)
 
 
@@ -273,28 +256,28 @@ Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells subscriber info with third parties | Email [Privacy_administration@condenast.com](mailto:Privacy_administration@condenast.com) "and state which of these items you wish to opt-out of sharing with third parties." | [Policy](https://www.condenast.com/privacy-policy/). Shares subscibers' "name, email address, postal address or phone number shared with third parties for their marketing purposes"
+| Shares/sells subscriber info with third parties | Email [privacy_administration@condenast.com](mailto:privacy_administration@condenast.com) | [Policy](https://www.condenast.com/privacy-policy/). "we rent, sell, share, and transfer Personal Information to" list buyers, advertising clients, "data coops," consumer data suppliers - basically, to everyone and anyone who will pay for it
 
 
 ### Costco
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells members' info with third parties | Email [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com) | [Policy](https://www.costco.com/privacy-policy.html#D): "We may share your name, postal address, email address and [membership information]" with third parties
+| Shares/sells members' info with third parties | Opt-out via costco.com support chat, membership counter, 1-800-774-2678, or opt-out checkbox on renewal form | [Policy](https://www.costco.com/privacy-policy.html#sharing): "We may share information about you with companies that offer their products and services for our and their marketing purposes"
 
 
 ### CoreLogic
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Teletrack pre-approved offers | Call 1-877-309-5226 or [Opt-out](https://www.corelogic.com/downloadable-docs/teletrack-out-opt-form.pdf) | [Instructions](https://www.corelogic.com/solutions/corelogic-teletrack-consumer-assistance.aspx). Telephone requests last 5 years; postal mail requests are permanent.
+| Teletrack pre-approved offers | Call 1-877-309-5226 or [Opt-out](https://www.corelogic.com/downloadable-docs/teletrack-out-opt-form.pdf) | [Instructions](https://www.corelogic.com/solutions/corelogic-teletrack-consumer-assistance.aspx). Phone opt-out lasts 5 years; postal mail opt-out is permanent.
 
 
 ### Crate & Barrel
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.crateandbarrel.com/customer-service/contact-us) | [Policy](https://www.crateandbarrel.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline."
+| Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.crateandbarrel.com/customer-service/sellingandsharing-request) | [Policy](https://www.crateandbarrel.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Websites or offline"
 | Postal ads | [Opt-out](https://www.crateandbarrel.com/customer-service/opt-out)
 
 Also see [CB2](#cb2).

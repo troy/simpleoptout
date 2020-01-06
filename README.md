@@ -107,6 +107,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Yahoo/Oath](#yahoo/oath) •
 [Yelp](#yelp) •
 [YouTube](#youtube)
+[Zeta Global](#zeta-global)
 
 
 <br />
@@ -285,16 +286,18 @@ Also see [CB2](#cb2).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells user info with third parties | [Email privacy@disqus.com](mailto:privacy@disqus.com) | [Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy): "we share certain categories of personal data with third parties for their direct marketing purposes"
+| Shares/sells user info with third parties | Email [privacy@disqus.com](mailto:privacy@disqus.com) | [Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy): "we share certain categories of personal data with third parties for their direct marketing purposes"
 
 Also see [Zeta Global](#zeta-global).
 
 
 ### Facebook
 
+**Includes Instagram.**
+
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Privacy settings | [Opt-out](https://www.facebook.com/settings?tab=privacy) | [Instructions](https://www.facebook.com/help/193677450678703?helpref=popular_topics). [Policy](https://www.facebook.com/privacy/explanation).
+| Privacy settings | [Opt-out](https://www.facebook.com/settings?tab=privacy) and [remove your phone number](https://www.eff.org/deeplinks/2019/03/facebook-doubles-down-misusing-your-phone-number) | [Instructions](https://www.facebook.com/help/193677450678703?helpref=popular_topics). [Policy](https://www.facebook.com/privacy/explanation).
 | Ads and location data | [Opt-out](https://www.facebook.com/about/ads)
 
 
@@ -302,7 +305,7 @@ Also see [Zeta Global](#zeta-global).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Phone data ("CPNI") sharing | [Opt-out](https://frontier.com/resources/cpni) | [Policy](https://frontier.com/~/media/corporate/policies/privacy-policy.ashx)
+| Phone data ("CPNI") sharing | [Opt-out](https://frontier.com/resources/cpni) | [Policy](https://frontier.com/corporate/privacy-policy)
 
 
 ### Google
@@ -312,7 +315,9 @@ Also see [Zeta Global](#zeta-global).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Search history & ad personalization | [Opt-out](https://myactivity.google.com/privacyadvisor/search) | If you browse Google without logging in, do this while not logged in.
-| Most services | [Opt-out](https://myaccount.google.com/privacycheckup/)        | Includes Gmail, Google Apps, & location data. [Policy: Choices](https://policies.google.com/privacy?hl=en#infochoices).
+| Most services | [Opt-out](https://myaccount.google.com/intro/privacycheckup/) | Includes Gmail, Google Apps, & location data. [Policy: Choices](https://policies.google.com/privacy?hl=en#infochoices).
+
+Also see [YouTube](#youtube).
 
 
 ### Guitar Center
@@ -328,7 +333,7 @@ Includes: MusiciansFriend.com
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | [Email contacthbo@hbo.com](mailto:contacthbo@hbo.com) | [Policy](https://play.hbonow.com/privacy): "sharing your personal information with our Affiliates to identify products and services of our Affiliates that may be of interest to you"
+| Shares/sells customer info with third parties | Email [WMPrivacy@warnermediagroup.com](mailto:WMPrivacy@warnermediagroup.com?subject=Your%20California%20Privacy%20Rights) with name, email/username, and postal address | [Policy](https://play.hbonow.com/privacy): "We may also share Information with business partners and third parties … that may want to market products or services to you"
 
 
 ### Hearst
@@ -337,21 +342,21 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells subscriber info with third parties | [Opt-out](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES) | Includes this distinctly terrible opt-out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at…"
+| Shares/sells subscriber info with third parties | [Opt-out](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES) via postal mail only | Includes this distinctly terrible opt-out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at [postal address]…"
 
 
 ### Home Depot
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info &amp; purchase history with third parties | [Opt-out](https://www.homedepot.com/c/Manage_Privacy_Preferences) | [Policy](https://www.homedepot.com/c/Privacy_Security#Information_Sharing): "We may share your name, address and transactional information … with third party companies"
+| Shares/sells customer info &amp; purchase history with third parties | [Opt-out](https://www.homedepot.com/c/Manage_Marketing_Preferences) | [Policy](https://www.homedepot.com/c/Privacy_Security#Information_Sharing): "We share information with [financial product] third parties so that they can provide you with tailored information about products and services and special offers" and "we may share information with joint marketing partners"
 
 
 ### Hulu
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Ad targeting | [Opt-out](https://secure.hulu.com/privacy#YourChoices)
+| Ad targeting | [Opt-out](https://secure.hulu.com/privacy#YourChoices) | [Policy](https://secure.hulu.com/privacy#SharingWithThirdParties)
 
 
 ### Instant Checkmate
@@ -367,7 +372,7 @@ Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/conte
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells guest info with third parties | [Opt-out](https://www.ihg.com/hotels/us/en/customer-care/contact-us) or email [mailto:privacyoffice@ihg.com](privacyoffice@ihg.com) | [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "We may also share your information with third parties … to extend special offers about their own products and services to you."
+| Shares/sells guest info with third parties | In Rewards Club portal, email [privacyoffice@ihg.com](mailto:privacyoffice@ihg.com), or [contact](https://www.ihg.com/content/us/en/customer-care/privacy_statement#how-to-contact) | [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "We may also share your information with third parties … to extend special offers about their own products and services"
 
 
 ### Lexis-Nexis

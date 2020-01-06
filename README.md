@@ -106,7 +106,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Woodcraft](#woodcraft) •
 [Yahoo/Oath](#yahoo/oath) •
 [Yelp](#yelp) •
-[YouTube](#youtube)
+[YouTube](#youtube) •
 [Zeta Global](#zeta-global)
 
 
@@ -231,7 +231,7 @@ Also see [Crate & Barrel](#crate-&-barrel).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & transactions with third parties | [Opt-out](https://secure.chase.com/web/auth/nav?navKey=requestPublicPrivacyPreferences) or call 1–888–868–8618 | [How your data is shared](https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice)
+| Shares/sells customer info & transactions with third parties | [Opt-out](https://secure.chase.com/web/auth/nav?navKey=requestPublicPrivacyPreferences) or call 1–888–868–8618 | [How your data is shared](https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice): "we collect and share … account balances and transaction history … For nonaffiliates to market to you"
 
 
 ### Choice Hotels
@@ -708,7 +708,7 @@ Also see [Verizon](#verizon).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares name & click data with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | "The following settings govern how businesses will see actions you take on Yelp including bookmarks, website clicks, calls, directions, and check-ins." [Policy](https://www.yelp.com/tos/privacy_policy#control-personal-data).
+| Shares name & click data with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | [Policy](https://www.yelp.com/tos/privacy_policy#control-personal-data): "The following settings govern how businesses will see actions you take on Yelp including bookmarks, website clicks, calls, directions, and check-ins."
 
 
 ### YouTube

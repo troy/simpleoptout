@@ -39,12 +39,10 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [American Express](#american-express) •
 [Apple](#apple) •
 [AT&T](#at&t) •
-[Backcountry.com](#backcountry.com) •
 [Bank of America](#bank-of-america) •
 [BeenVerified](#beenverified) •
 [CapitalOne 360](#capitalone-360) •
 [Carnival Cruises](#carnival-cruises) •
-[Casper](#casper) •
 [CB2](#cb2) •
 [CenturyLink](#centurylink) •
 [Chase](#chase) •
@@ -288,6 +286,8 @@ Also see [CB2](#cb2).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells user info with third parties | [Email privacy@disqus.com](mailto:privacy@disqus.com) | [Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy): "we share certain categories of personal data with third parties for their direct marketing purposes"
+
+Also see [Zeta Global](#zeta-global).
 
 
 ### Facebook
@@ -715,6 +715,13 @@ Also see [Verizon](#verizon).
 | Watch history & search history | [Opt-out](https://www.youtube.com/feed/history) | Pause "Watch History," clear it, repeat for "Search History." If you browse YouTube without logging in, do this while not logged in.
 
 Also see [Google](#google).
+
+
+### Zeta Global
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| "Zeta Data Cloud" data broker | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/d0720d0f-d427-4a7d-a773-5d6793229f15.html) (or call 1-800-515-3793) | [Policy](https://zetaglobal.com/privacy-policy/)
 
 
 <br />

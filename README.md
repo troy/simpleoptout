@@ -449,8 +449,7 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells user data with third parties (NGP) | [Opt-out](https://help.nationalgeographic.com/s/dataprivacyform) | NGP [Policy](https://www.nationalgeographic.com/legal/privacy/#access): "National Geographic Partners will disclose your personal information … with our business partners, such as travel operators."
-| Shares/sells user data with third parties (NGS) | Email [dataprivacy@ngs.org][mailto:dataprivacy@ngs.org?subject=Opt%20out%20of%20data%20sharing%20and%20marketing;%20request%20for%20personal%20data]
-"Your information may be shared with selected third parties so that they may send you promotional materials about goods and services that they offer."
+| Shares/sells user data with third parties (NGS) | Email [dataprivacy@ngs.org](mailto:dataprivacy@ngs.org?subject=Opt%20out%20of%20data%20sharing%20and%20marketing;%20request%20for%20personal%20data) | [Policy](https://www.nationalgeographic.com/legal/privacy/#disclosure): "Your information may be shared with selected third parties so that they may send you promotional materials about goods and services that they offer."
 
 
 ### Netflix

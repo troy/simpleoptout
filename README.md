@@ -388,7 +388,7 @@ Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/conte
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| TV | Don't agree to terms or policy on product UI, or don't buy product | [Policy](https://us.lgaccount.com/customer/terms_list?country=US&language=en-US&terms_div=update&terms_svcCode=SVC301&terms_type=A_PRV), [Policy](https://us.m.lgaccount.com/customer/terms_detail?country=US&language=en-US&terms_div=update&terms_svcCode=SVC202&terms_type=PRV_SMARTHOME)
+| TV | Don't agree to terms or policy on product UI, or don't buy product; California: [Opt-out](https://www.lg.com/us/caprivacy) or email [CAPrivacy@lge.com](mailto:CAPrivacy@lge.com) | [Policy](https://us.lgaccount.com/customer/terms_list?country=US&language=en-US&terms_div=update&terms_svcCode=SVC301&terms_type=A_PRV), [Policy](https://us.m.lgaccount.com/customer/terms_detail?country=US&language=en-US&terms_div=update&terms_svcCode=SVC202&terms_type=PRV_SMARTHOME)
 
 More information: [LG Will Take The 'Smart' Out Of Your Smart TV If You Don't Agree To Share…](https://www.techdirt.com/articles/20140511/17430627199/lg-will-take-smart-out-your-smart-tv-if-you-dont-agree-to-share-your-viewing-search-data-with-third-parties.shtml), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
@@ -397,7 +397,7 @@ More information: [LG Will Take The 'Smart' Out Of Your Smart TV If You Don't Ag
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Privacy settings | [Opt-out](https://www.linkedin.com/psettings/privacy)     | [Overview](https://www.linkedin.com/help/linkedin/answer/66?trk=microsites-frontend_legal_privacy-policy&lang=en). [Policy: Choices](https://www.linkedin.com/legal/privacy-policy#choices).
+| Privacy settings | [Opt-out](https://www.linkedin.com/psettings/privacy) | [Overview](https://www.linkedin.com/help/linkedin/answer/66?trk=microsites-frontend_legal_privacy-policy&lang=en). [Policy: Choices](https://www.linkedin.com/legal/privacy-policy#choices).
 | Ad targeting     | [Opt-out](https://www.linkedin.com/psettings/advertising)
 
 Also see [Microsoft](#microsoft).
@@ -409,7 +409,7 @@ Includes: Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, Rit
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells guest info to affiliated third parties | [Opt-out](https://app.onetrust.com/app/#/webform/e4eef8ab-3071-4679-a374-5847fbe290de) | [Policy](https://www.marriott.com/about/privacy.mi): "We disclose Personal Data and Other Data with select Strategic Business Partners"
+| Shares/sells guest info to affiliated third parties | [Opt-out](https://app.onetrust.com/app/#/webform/e4eef8ab-3071-4679-a374-5847fbe290de); [California residents](https://www.marriott.com/about/ccpa/do-not-sell.mi))| [Policy](https://www.marriott.com/about/privacy.mi): "We disclose Personal Data and Other Data with select Strategic Business Partners who provide goods, services and offers"
 
 
 ### Mastercard
@@ -425,8 +425,7 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells subscriber info with third parties | [Opt-out](http://www.meredith.com/offlinePrivacy.html) | [Policy](https://www.meredith.com/legal/privacy): "You can remove your name and postal address from lists we sell or rent to third parties for their direct marketing purposes"
-| Magazine-specific policies | n/a | See [Entertainment Weekly](https://www.meredith.com/legal-ti/ew/generic_privacy_new.html#options), [Fortune](https://www.meredith.com/legal-ti/fortune/generic_privacy_new.html#options), [People](https://www.meredith.com/legal-ti/people/generic_privacy_new.html#options), [Sports Illustrated](https://www.meredith.com/legal-ti/si/generic_privacy_new.html#options), or [our tips](#how-to-find-opt-out-choices-quickly)
+| Shares/sells subscriber info with third parties | Complete both [opt-out](http://www.meredith.com/offlinePrivacy.html) and [opt-out](https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/424d0d20-a84d-41ed-9a27-379d31f2551d.html) | [Policy](https://www.meredith.com/legal/privacy): "Some of our Brands share your personal information with third parties who we allow to use that information for their own commercial purposes."
 
 
 ### MetLife
@@ -442,14 +441,16 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Ads, browsing data, and services | [Opt-out](https://account.microsoft.com/account/privacy) | Sites covers Xbox, Skype, Office, Bing. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/).
+| Ads, browsing data, and services | [Opt-out](https://account.microsoft.com/privacy) | Sites covers Xbox, Skype, Office, Bing. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/).
 
 
 ### National Geographic
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells user data with third parties | [Opt-out](https://help.nationalgeographic.com/customer/portal/emails/new?t=638080) | [Policy](https://www.nationalgeographic.com/legal/privacy/#access).
+| Shares/sells user data with third parties (NGP) | [Opt-out](https://help.nationalgeographic.com/s/dataprivacyform) | NGP [Policy](https://www.nationalgeographic.com/legal/privacy/#access): "National Geographic Partners will disclose your personal information … with our business partners, such as travel operators."
+| Shares/sells user data with third parties (NGS) | Email [dataprivacy@ngs.org][mailto:dataprivacy@ngs.org?subject=Opt%20out%20of%20data%20sharing%20and%20marketing;%20request%20for%20personal%20data]
+"Your information may be shared with selected third parties so that they may send you promotional materials about goods and services that they offer."
 
 
 ### Netflix
@@ -463,7 +464,7 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells print subscriber info with third parties | Email [privacy@nytimes.com](mailto:privacy@nytimes.com) | On [Policy](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy), see "Sharing With Other Third Parties" for instructions. Per Policy: "If you are a U.S. print subscriber, we may exchange or rent your name and postal mailing address…".
+| Shares/sells print subscriber info with third parties | Email [privacy@nytimes.com](mailto:privacy@nytimes.com?subject=Shine%20the%20Light%20Opt%20Out) with account and phone number | [Policy](https://www.nytimes.com/subscription/privacy-policy#/privacy): "If you’re a U.S. print subscriber, we may share your name and mailing address (among other information) with other reputable companies…".
 
 
 ### OptOutPrescreen.com
@@ -652,15 +653,15 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregated consumer spending reports | [Opt-out](https://usa.visa.com/legal/privacy-policy-opt-out.html) | [Policy](https://usa.visa.com/legal/privacy-policy.html#3)
+| Aggregated consumer spending reports | [Opt-out](https://usa.visa.com/legal/privacy-policy-opt-out.html) | [Policy](https://usa.visa.com/legal/privacy-policy.html)
 
 
 ### Vizio
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Discloses detailed viewing history | [Opt-out](http://www.vizio.com/viewingdata) | [Policy](https://www.vizio.com/privacy): Viewing Data Supplement: "We may share Personal Information …  with some third party companies … [for] marketing assistance"
-| Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy): SmartCast Supplement
+| Discloses detailed viewing history | [Opt-out](http://www.vizio.com/viewingdata) (California residents: [request or request deletion](https://privacyportal-cdn.onetrust.com/dsarwebform/41aebd10-58ee-4c98-9dd5-aa66c9be664a/0099df9c-c0aa-4bf7-bd5f-7f4ff46768f6.html) of data)| [Policy](https://www.vizio.com/privacy) [Viewing Data Supplement](https://www.vizio.com/en/terms/viewing-data-privacy-policy): "licenses Viewing Data to analytics companies, media companies, advertisers, ad agencies, and other ad technology companies"
+| Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy) [SmartCast Supplement](https://www.vizio.com/en/terms/smartcast-privacy-policy)
 
 More information: [What Vizio was doing behind the TV screen](https://www.ftc.gov/news-events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 

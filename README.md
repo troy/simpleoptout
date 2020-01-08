@@ -448,7 +448,7 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells user data with third parties (NGP) | [Opt-out](https://help.nationalgeographic.com/s/dataprivacyform) | NGP [Policy](https://www.nationalgeographic.com/legal/privacy/#access): "National Geographic Partners will disclose your personal information … with our business partners, such as travel operators."
+| Shares/sells user data with third parties (NGP) | [Opt-out](https://help.nationalgeographic.com/s/dataprivacyform) | [Policy](https://www.nationalgeographic.com/legal/privacy/#access): "National Geographic Partners will disclose your personal information … with our business partners, such as travel operators."
 | Shares/sells user data with third parties (NGS) | Email [dataprivacy@ngs.org](mailto:dataprivacy@ngs.org?subject=Opt%20out%20of%20data%20sharing%20and%20marketing;%20request%20for%20personal%20data) | [Policy](https://www.nationalgeographic.com/legal/privacy/#disclosure): "Your information may be shared with selected third parties so that they may send you promotional materials about goods and services that they offer."
 
 
@@ -659,8 +659,8 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Discloses detailed viewing history | [Opt-out](http://www.vizio.com/viewingdata) (California residents: [request or request deletion](https://privacyportal-cdn.onetrust.com/dsarwebform/41aebd10-58ee-4c98-9dd5-aa66c9be664a/0099df9c-c0aa-4bf7-bd5f-7f4ff46768f6.html) of data)| [Policy](https://www.vizio.com/privacy) [Viewing Data Supplement](https://www.vizio.com/en/terms/viewing-data-privacy-policy): "licenses Viewing Data to analytics companies, media companies, advertisers, ad agencies, and other ad technology companies"
-| Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy) [SmartCast Supplement](https://www.vizio.com/en/terms/smartcast-privacy-policy)
+| Discloses detailed viewing history | [Opt-out](http://www.vizio.com/viewingdata) (California residents: [request or request deletion](https://privacyportal-cdn.onetrust.com/dsarwebform/41aebd10-58ee-4c98-9dd5-aa66c9be664a/0099df9c-c0aa-4bf7-bd5f-7f4ff46768f6.html) of data)| [Policy](https://www.vizio.com/privacy) - [Viewing Data Supplement](https://www.vizio.com/en/terms/viewing-data-privacy-policy): "licenses Viewing Data to analytics companies, media companies, advertisers, ad agencies, and other ad technology companies"
+| Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy) - [SmartCast Supplement](https://www.vizio.com/en/terms/smartcast-privacy-policy)
 
 More information: [What Vizio was doing behind the TV screen](https://www.ftc.gov/news-events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 

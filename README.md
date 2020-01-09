@@ -349,7 +349,7 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info &amp; purchase history with third parties | [Opt-out](https://www.homedepot.com/c/Manage_Marketing_Preferences) | [Policy](https://www.homedepot.com/c/Privacy_Security#Information_Sharing): "We share information with [financial product] third parties so that they can provide you with tailored information about products and services and special offers" and "we may share information with joint marketing partners"
+| Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.homedepot.com/c/Manage_Marketing_Preferences) | [Policy](https://www.homedepot.com/c/Privacy_Security#Information_Sharing): "We share information with [financial product] third parties so that they can provide you with tailored information about products and services and special offers" and "we may share information with joint marketing partners"
 
 
 ### Hulu
@@ -479,14 +479,14 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Data sharing with third parties | Cannot opt out | [Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full#8) (in "Consumer Privacy Notice"): Data is shared "For joint marketing with other financial companies" and/or "For our affiliates’ everyday business purposes"
+| Data sharing with third parties | Cannot opt out | [Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full#05) (in "Consumer Privacy Notice"): Data is shared "For joint marketing with other financial companies" and/or "For our affiliates’ everyday business purposes"
 
 
 ### PeekYou
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Reverse lookup entry | [Opt-out](https://www.peekyou.com/about/contact/optout/)
+| Reverse lookup entry | [Opt-out](https://www.peekyou.com/about/contact/optout/) |
 
 
 ### People Search Now
@@ -500,14 +500,14 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Data sharing with third parties | Call 800-332-8884 | [Policy](https://www.pictureframes.com/customer-care/privacy-policy): Your information, including "information about your order(s)," "may also be shared with other marketers"
+| Shares/sells customer info & purchase history with third parties | Call 800-332-8884 | [Policy](https://www.pictureframes.com/customer-care/privacy-policy): Your information, including "information about your order(s)," "may also be shared with other marketers to bring you offers of interest"
 
 
 ### Pinterest
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy)
+| Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy#section-how-and-when-we-share-information):
 
 
 ### Reddit
@@ -517,44 +517,39 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | Ad personalization | [Opt-out](https://www.reddit.com/personalization) | [Policy](https://www.redditinc.com/policies/privacy-policy#text-content5)
 
 
-### REI
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [privacy@rei.com](mailto:privacy@rei.com) | [Policy](https://help.rei.com/app/answers/detail/a_id/50/~/privacy-policy#Sharing_of_Information): "we may make our postal mailing list and general shopping information available to selected companies"
-
-
 ### Rockler
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [orders@rockler.com](mailto:orders@rockler.com) | [Policy](https://www.rockler.com/privacy-policy): "Occasionally, we make a portion of our mailing list available to respectable organizations that may interest our customers"
+| Shares/sells customer info with third parties | Email [orders@rockler.com](mailto:orders@rockler.com) with your postal address | [Policy](https://www.rockler.com/privacy-policy): "Occasionally, we make a portion of our mailing list available to respectable organizations that may interest our customers"
 
 
 ### Roku
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Discloses detailed viewing history | Opt-out in device (Settings > Privacy menu) | [Policy](https://docs.roku.com/published/userprivacypolicy/en/us)
+| Analysis of what you're watching, ad targeting based on what you watched, and sharing de-identified viewing history | Opt-out in device (Settings > Privacy menu) | [Policy](https://docs.roku.com/published/userprivacypolicy/en/us)
 
 More information: [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/) and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
 
 ### Roomba (iRobot)
 
-* "We may share your personal information… with selected third parties who we think may offer you products or services you may enjoy"
-* "You can control or stop the collection of usage data from your registered iRobot device by disconnecting your WiFi or Bluetooth from the app, for example, by changing your WiFi password. … You may contact us at [global.irobot.com](https://global.irobot.com/) to request your personal information be deleted from our systems"
-* [Policy](https://www.irobot.com/legal/privacy-policy)
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | None; don't buy the product | [Policy](https://www.irobot.com/legal/privacy-policy): "We may share your personal information… with selected third parties who we think may offer you products or services you may enjoy"
+
+* "You may contact us at [global.irobot.com](https://global.irobot.com/) to request your personal information be deleted from our systems", but no ongoing opt-out is available.
 
 
 ### Samsung
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| TV: Discloses detailed viewing history | Menu > Support > Terms & Policy or Menu > Smart Hub > Terms & Policy | [Policy](https://www.samsung.com/us/account/privacy-policy/) (excerpted below)
-| Phones: Activity tracking | See Policy | [Policy](https://www.samsung.com/us/account/privacy-policy/samsungads/)
+| TV: Analysis of what you're watching, ad targeting based on what you watched, and sharing de-identified viewing history | Menu > Support > Terms & Policy or Menu > Smart Hub > Terms & Policy, and submit [California Do Not Sell, access, and deletion requests](https://www.samsung.com/us/privacy/ccpa) | [Policy](https://www.samsung.com/us/account/privacy-policy/) (excerpted below)
+| Phones & TVs: Activity tracking & ad personalization | See Policy | [Policy](https://www.samsung.com/us/account/privacy-policy/samsungads/)
 
-* Televisions: "the IBA Service will collect information about your TV viewing history (including information about the networks, channels, websites visited and programs viewed on your Samsung Smart TV and the amount of time spent viewing them) and Samsung Smart TV usage information (such as how long and often you use the apps on your Smart TV). We may use automatic content recognition (ACR) and other technologies to capture your TV viewing history. We also may obtain other behavioral and demographic data from trusted third-party data sources." "We may share your personal information with … business partners" "your privacy choice with respect to the IBA Service will not affect whether or not you receive or are served with other types of ads and marketing" - [Policy](https://www.samsung.com/us/account/privacy-policy/) (which contains multiple policies concatenated into one page - scroll to "Smart TV Supplement").
+* Televisions: "the IBA Service will collect information about your TV viewing history (including information about the networks, channels, websites visited and programs viewed on your Samsung Smart TV and the amount of time spent viewing them) and Samsung Smart TV usage information (such as how long and often you use the apps on your Smart TV). We may use automatic content recognition (ACR) and other technologies to capture your TV viewing history. We also may obtain other behavioral and demographic data from trusted third-party data sources." "We may share your personal information with … business partners" - [Policy](https://www.samsung.com/us/account/privacy-policy/) (which contains multiple policies concatenated into one page - scroll to "Smart TV Supplement").
 * "You may, at any time, disable the Customization Service via the "Customization Service" option in the Settings menu of your Samsung Account" (or app/device), as well as [account.samsung.com](https://account.samsung.com)
 * Basically, read every setting or menu choice on any Samsung device you own. [Policy](https://www.samsung.com/us/account/privacy-policy/) is distinctly less customer-friendly than its peer companies. If it can be retained and shared, it probably is.
 
@@ -565,21 +560,14 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer purchases with third parties | Email [legal@leafgroup.com](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
+| Shares/sells customer info & purchase history with third parties | Email [legal@leafgroup.com](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
 
 
 ### Seattle Times
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://company.seattletimes.com/notices/notice2.html): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in."
-
-
-### Sleep Number
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [unsubscribe@sleepnumber.com](mailto:unsubscribe@sleepnumber.com) | [Policy](https://www.sleepnumber.com/legal-notices/privacy-policy#is-shared): "We may also disclose Your Non-SleepIQ Personal Information to trusted third parties so that they can offer products and/or services"
+| Shares/sells customer info with third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://company.seattletimes.com/notices/notice2.html#provide): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in."
 
 
 ### Spokeo
@@ -593,7 +581,7 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Ad targeting | [Opt-out](http://www.sprint.com/mychoices) | [Policy: Sharing](https://www.sprint.com/en/legal/sprint-corporation-privacy-policy?INTNAV=Footer:Privacy#infoshare)
+| Ad targeting | [Opt-out](http://www.sprint.com/mychoices) and in phone settings | [Policy](https://www.sprint.com/en/legal/sprint-corporation-privacy-policy?INTNAV=Footer:Privacy#infoshare): [Mobile Advertising](https://www.sprint.com/en/legal/sprint-analytics-and-behavioral-marketing.html) supplement
 
 
 ### Target

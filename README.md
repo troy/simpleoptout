@@ -21,7 +21,7 @@ title: Deep links to opt-out of data sharing by 60+ companies – Simple Opt Ou
 
    * **[Chase](#chase)** may share your "account balances and transaction history … For nonaffiliates to market to you."
    * **[Crate & Barrel](#crate-&-barrel)** may share "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
-   * **[InterContinental Hotels](#intercontinental-hotels) may share "your information with third parties … to extend special offers about their own products and services"
+   * **[InterContinental Hotels](#intercontinental-hotels)** may share "your information with third parties … to extend special offers about their own products and services"
 
 This site makes it easier to opt out of data sharing by 50+ companies (or [request a company](#changes) or see [opt-out tips](#suggestions)). Enjoy!
 

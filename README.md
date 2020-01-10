@@ -19,9 +19,9 @@ title: Deep links to opt-out of data sharing by 60+ companies – Simple Opt Ou
 
 **Simple Opt Out** is drawing attention to opt-out data sharing and marketing practices that many people aren't aware of (and most people don't want), then making it easier to opt out. For example:
 
-   * **[Target](#target)** "may share your personal information with other companies which are not part of Target."
    * **[Chase](#chase)** may share your "account balances and transaction history … For nonaffiliates to market to you."
    * **[Crate & Barrel](#crate-&-barrel)** may share "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
+   * **[InterContinental Hotels](#intercontinental-hotels) may share "your information with third parties … to extend special offers about their own products and services"
 
 This site makes it easier to opt out of data sharing by 50+ companies (or [request a company](#changes) or see [opt-out tips](#suggestions)). Enjoy!
 
@@ -81,7 +81,6 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [PictureFrames.com](#pictureframes.com) •
 [Pinterest](#pinterest) •
 [Reddit](#reddit) •
-[REI](#rei) •
 [Rockler](#rockler) •
 [Roku](#roku) •
 [Roomba (iRobot)](#roomba-%28irobot%29) •
@@ -91,7 +90,6 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Sleep Number](#sleep-number) •
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
-[Target](#target) •
 [Taunton Press](#taunton-press) •
 [T-Mobile](#t-mobile) •
 [TruePeopleSearch](#truepeoplesearch) •
@@ -409,7 +407,7 @@ Includes: Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, Rit
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells guest info to affiliated third parties | [Opt-out](https://app.onetrust.com/app/#/webform/e4eef8ab-3071-4679-a374-5847fbe290de); [California residents](https://www.marriott.com/about/ccpa/do-not-sell.mi))| [Policy](https://www.marriott.com/about/privacy.mi): "We disclose Personal Data and Other Data with select Strategic Business Partners who provide goods, services and offers"
+| Shares/sells guest info to third parties | [Opt-out](https://app.onetrust.com/app/#/webform/e4eef8ab-3071-4679-a374-5847fbe290de); [California residents](https://www.marriott.com/about/ccpa/do-not-sell.mi))| [Policy](https://www.marriott.com/about/privacy.mi): "We disclose Personal Data and Other Data with select Strategic Business Partners who provide goods, services and offers … that we believe will be of interest to you."
 
 
 ### Mastercard
@@ -584,34 +582,28 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 | Ad targeting | [Opt-out](http://www.sprint.com/mychoices) and in phone settings | [Policy](https://www.sprint.com/en/legal/sprint-corporation-privacy-policy?INTNAV=Footer:Privacy#infoshare): [Mobile Advertising](https://www.sprint.com/en/legal/sprint-analytics-and-behavioral-marketing.html) supplement
 
 
-### Target
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares/sells customer info with third parties | Call 800-440-0680 | [Policy](https://www.target.com/c/target-privacy-policy/-/N-4sr7p#PP_YourChoices): "We may share your personal information with other companies, or organizations which are not part of Target." Arguably the worst opt-out (phone only) process of its peers.
-
-
 ### Taunton Press
 
 Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.com/).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells subscriber info with third parties | Email [privacy@taunton.com](mailto:privacy@taunton.com) | [Policy](http://www.taunton.com/privacy-policy/): "we may rent your name and mailing address and certain other information with reputable companies that provide marketing offers through direct mail … If you are a current print subscriber, please remember to include your account number, mailing address, and phone number in the body of your email"
+| Shares/sells subscriber info with third parties | Email [privacy@taunton.com](mailto:privacy@taunton.com?subject=Direct%20Mail%20Opt-Out) with account number, mailing address, phone | [Policy](http://www.taunton.com/privacy-policy/): "We may also rent your name, mailing address, and other information to reputable companies that provide marketing offers through direct mail … If you are a current print subscriber, please remember to include your account number, mailing address, and phone number in the body of your email"
 
 
 ### T-Mobile
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Marketing preferences | [Opt-out](https://www.t-mobile.com/responsibility/privacy/privacy-choice/marketing-choice) | The best of its large-carrier peers. [Policy: Choices](https://www.t-mobile.com/responsibility/privacy/privacy-policy#infochoices).
+| Marketing preferences | [Opt-out](https://www.t-mobile.com/responsibility/privacy/privacy-choice/marketing-choice) | [Policy: Choices](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy#infochoices)
+| De-identified usage data for reports | [Opt-out](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy#section7-insights) |
 
 
 ### Tuft & Needle
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [support@tn.com](mailto:support@tn.com) | [Policy](https://www.tuftandneedle.com/legal/privacy/#vii): "We may share or disclose your Personal Information … with … third party marketers, or other unaffiliated parties"
+| Shares/sells customer info with third parties | Call 1-800-216-6741 | [Policy](https://www.tuftandneedle.com/legal/privacy/#vii): "We may share or disclose your Personal Information … With our affiliated and unaffiliated service providers who are offering products or services that we believe may be of interest to you"
 
 
 ### TruePeopleSearch
@@ -625,7 +617,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Data sharing and cross-site tracking | [Opt-out](https://twitter.com/personalization) | Part of [account settings](https://twitter.com/settings/safety). [Policy](https://twitter.com/en/privacy).
+| Data sharing and cross-site tracking | [Opt-out](https://twitter.com/personalization) | Part of [account settings](https://twitter.com/settings/safety). [Policy](https://twitter.com/en/privacy)
 | Tailored audiences | [Request advertiser list](https://twitter.com/settings/your_twitter_data/audiences) | [Intro to tailored audiences](https://business.twitter.com/en/help/campaign-setup/campaign-targeting/tailored-audiences.html). [Policy](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads). [Policy for advertisers](https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html).
 
 

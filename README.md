@@ -588,7 +588,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells subscriber info with third parties | Email [privacy@taunton.com](mailto:privacy@taunton.com?subject=Direct%20Mail%20Opt-Out) with account number, mailing address, phone | [Policy](http://www.taunton.com/privacy-policy/): "We may also rent your name, mailing address, and other information to reputable companies that provide marketing offers through direct mail … If you are a current print subscriber, please remember to include your account number, mailing address, and phone number in the body of your email"
+| Shares/sells subscriber info with third parties | Email [privacy@taunton.com](mailto:privacy@taunton.com?subject=Direct%20Mail%20Opt-Out) with account number, mailing address, phone | [Policy](http://www.taunton.com/privacy-policy/): "We may also rent your name, mailing address, and other information to reputable companies that provide marketing offers through direct mail"
 
 
 ### T-Mobile
@@ -603,7 +603,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Call 1-800-216-6741 | [Policy](https://www.tuftandneedle.com/legal/privacy/#vii): "We may share or disclose your Personal Information … With our affiliated and unaffiliated service providers who are offering products or services that we believe may be of interest to you"
+| Shares/sells customer info with third parties | Call 1-800-216-6747 | [Policy](https://www.tuftandneedle.com/legal/privacy/#vii): "We may share or disclose your Personal Information … With our affiliated and unaffiliated service providers who are offering products or services that we believe may be of interest to you"
 
 
 ### TruePeopleSearch
@@ -625,7 +625,9 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Data sharing for marketing, Fios TV ads, credit, more | [Opt-out](https://www.verizon.com/about/privacy/full-privacy-policy#limit-section) | [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#information_shared)
+| Phone data ("CPNI") sharing | Wireless: [Opt-out](https://www.vzw.com/myprivacy); wired and business: Call 1-866-483-9700 | [Policy](https://www.verizon.com/about/privacy/customer-proprietary-network-information): "We may use and share your CPNI among our affiliates and agents to offer you services that are different from the services you currently purchase from us"
+| Data sharing for personalizing TV, mobile, and Internet ads | [Opt-out](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34) (scroll through entire section) | [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-32); also see [Dashboard](https://www.verizon.com/privacy/your-data)
+| Credit data for marketing | Call 1-844-366-2879 | [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34): "Wireline customers can limit the sharing of credit information within Verizon for the marketing of new products and services"
 
 
 ### Visa
@@ -633,6 +635,8 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Aggregated consumer spending reports | [Opt-out](https://usa.visa.com/legal/privacy-policy-opt-out.html) | [Policy](https://usa.visa.com/legal/privacy-policy.html)
+
+"In some countries, Visa enhances Card Transaction Data and uses it to generate data products that companies use to improve their marketing programs and identify interested consumers."
 
 
 ### Vizio
@@ -649,7 +653,7 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares customer info & transactions with affiliates | [Opt-out](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) or call 1-888-528-8460 | [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/), which is incrementally better than peer banks
+| Shares customer info & transactions with affiliates | [Opt-out](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) (Security & Support -> Change Privacy Preferences) or call 1-888-528-8460 | [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/)
 
 
 ### Whitepages.com
@@ -665,21 +669,21 @@ Includes **Pottery Barn, West Elm, Rejuvenation**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com) | [Policy](https://www.williams-sonomainc.com/privacy/): "we might rent, exchange, share and/or cross-reference information, including contact information about you … include your full name, email address, mailing address, and specifically what information you do not want to receive."
+| Shares/sells customer info with third parties | Email [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com?subject=Opt%20out%20of%20all%20data%20sharing%20all%20marketing) with name, postal address, email | [Policy](https://www.williams-sonomainc.com/privacy/): "we might rent, exchange, share and/or cross-reference information, including contact information about you"
 
 
 ### Woodcraft
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [custserv@woodcraft.com](mailto:custserv@woodcraft.com) | [Policy](https://www.woodcraft.com/pages/privacypolicy): "We occasionally make our [postal mailing list] available to carefully screened companies"
+| Shares/sells customer info with third parties | Email [custserv@woodcraft.com](mailto:custserv@woodcraft.com) | [Policy](https://www.woodcraft.com/pages/privacypolicy): "We occasionally make our customer list (postal mailing list only) available to carefully screened companies whose products may interest you"
 
 
 ### Yahoo/Oath
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Privacy controls | [Opt-out](https://policies.oath.com/us/en/oath/privacy/controls/index.html) | [Yahoo policy](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm). [Oath policy](https://policies.oath.com/).
+| Privacy controls | [Opt-out](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/controls/index.html) | [Yahoo policy](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm). [Verizon Media policy](https://www.verizonmedia.com/policies/index.html).
 
 Also see [Verizon](#verizon).
 
@@ -688,7 +692,7 @@ Also see [Verizon](#verizon).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares name & click data with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | [Policy](https://www.yelp.com/tos/privacy_policy#control-personal-data): "The following settings govern how businesses will see actions you take on Yelp including bookmarks, website clicks, calls, directions, and check-ins."
+| Shares first name and individual site activity with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | [Policy](https://www.yelp.com/tos/privacy_policy#control-personal-data): "We may share information from or about you (such as [city, age, and gender, businesses you bookmark or call, or if you visit a business’s URL] … with businesses on Yelp." By default, shares first name and last initial with businesses.
 
 
 ### YouTube

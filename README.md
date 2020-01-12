@@ -63,6 +63,8 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Hulu](#hulu) •
 [Instant Checkmate](#instant-checkmate) •
 [InterContinental Hotels](#intercontinental-hotels) •
+[Kustomer](#kustomer) •
+[LendingClub](#lendingclub) •
 [Lexis-Nexis](#lexis-nexis) •
 [LG](#lg) •
 [LinkedIn](#linkedin) •
@@ -81,6 +83,8 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [PictureFrames.com](#pictureframes.com) •
 [Pinterest](#pinterest) •
 [Reddit](#reddit) •
+[Retail Equation](#retail-equation) •
+[Riskified](#riskified) •
 [Rockler](#rockler) •
 [Roku](#roku) •
 [Roomba (iRobot)](#roomba-%28irobot%29) •
@@ -314,6 +318,7 @@ Also see [Zeta Global](#zeta-global).
 | :-          | :-      | :-
 | Search history & ad personalization | [Opt-out](https://myactivity.google.com/privacyadvisor/search) | If you browse Google without logging in, do this while not logged in.
 | Most services | [Opt-out](https://myaccount.google.com/intro/privacycheckup/) | Includes Gmail, Google Apps, & location data. [Policy: Choices](https://policies.google.com/privacy?hl=en#infochoices).
+| Interest- and location-based ads (Android) | [Opt-out](https://www.androidguys.com/tips-tools/how-to-disable-personalized-ads-on-android/)
 
 Also see [YouTube](#youtube).
 
@@ -371,6 +376,22 @@ Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/conte
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells guest info with third parties | In Rewards Club portal, email [privacyoffice@ihg.com](mailto:privacyoffice@ihg.com), or [contact](https://www.ihg.com/content/us/en/customer-care/privacy_statement#how-to-contact) | [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "We may also share your information with third parties … to extend special offers about their own products and services"
+
+
+### Kustomer
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Aggregates information from retailers about customers | To obtain or request deletion of your data, email [privacy@kustomer.com](mailto:privacy@kustomer.com) | [Policy](https://www.kustomer.com/privacy/)
+
+Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
+
+
+### LendingClub
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [privacy@lendingclub.com](mailto:privacy@lendingclub.com) or call 1-888-596-3157 | [Policy](https://www.lendingclub.com/legal/privacy-policy). Includes SSN, income, account balances, transaction history, credit scores, and employment information
 
 
 ### Lexis-Nexis
@@ -440,6 +461,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Ads, browsing data, and services | [Opt-out](https://account.microsoft.com/privacy) | Sites covers Xbox, Skype, Office, Bing. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/).
+
+
+### MindBodyOnline
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares user data with third parties | Email [privacy@mindbodyonline.com](mailto:privacy@mindbodyonline.com?subject=Opt%20out%20of%20data%20sharing%20for%20marketing) | [Policy](https://company.mindbodyonline.com/legal/privacy-policy): "We may disclose your Personal Information … To third parties to permit them (or their own customers) to send you marketing communications, consistent with your choices. "
 
 
 ### National Geographic
@@ -515,6 +543,25 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | Ad personalization | [Opt-out](https://www.reddit.com/personalization) | [Policy](https://www.redditinc.com/policies/privacy-policy#text-content5)
 
 
+### Retail Equation
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Aggregates information from retailers about returned products | To obtain or request deletion of your data, email [returnactivityreport@theretailequation.com](mailto:returnactivityreport@theretailequation.com) | [Policy](https://www.theretailequation.com/privacy-policy-us-canada/#types-of-data)
+
+Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
+
+
+### Riskified
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Aggregates customer information from retailers | To obtain or request deletion of your data, email [support@riskified.com](mailto:support@riskified.com) | [Policy](https://www.riskified.com/privacy/)
+
+Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
+
+
+
 ### Rockler
 
 | What?       | Opt-out | Details
@@ -566,6 +613,15 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info with third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://company.seattletimes.com/notices/notice2.html#provide): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in."
+
+
+### Sift
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Aggregates information from retailers about customers | To obtain or request deletion of your data, email [privacy@sift.com](mailto:privacy@privacy@sift.com) | [Policy](https://sift.com/service-privacy#access-review)
+
+Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
 
 
 ### Spokeo

@@ -41,6 +41,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [AT&T](#at&t) •
 [Bank of America](#bank-of-america) •
 [BeenVerified](#beenverified) •
+[Biden 2020 Campaign](#biden-2020-campaign) •
 [CapitalOne 360](#capitalone-360) •
 [Carnival Cruises](#carnival-cruises) •
 [CB2](#cb2) •
@@ -97,6 +98,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Taunton Press](#taunton-press) •
 [T-Mobile](#t-mobile) •
 [TruePeopleSearch](#truepeoplesearch) •
+[Trump 2020 Campaign](#trump-2020-campaign) •
 [Tuft & Needle](#tuft-&-needle) •
 [Twitter](#twitter) •
 [Verizon](#verizon) •
@@ -196,6 +198,11 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Reverse lookup entry | [Opt-out](https://www.beenverified.com/app/optout/search) | [Policy](https://www.beenverified.com/faq/privacy/)
+
+
+### Biden 2020 Campaign
+
+| Shares/sells donor info with third parties | Email [copyrightcomplaints@joebiden.com](mailto:copyrightcomplaints@joebiden.com) | [Policy](https://joebiden.com/privacy-policy/): "We may share information about you … With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals"
 
 
 ### CapitalOne 360
@@ -667,6 +674,11 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Reverse lookup entry | [Opt-out](https://www.truepeoplesearch.com/removal) | [Policy](https://www.truepeoplesearch.com/privacy)
+
+
+### Trump 2020 Campaign
+
+| Shares/sells donor info with third parties | Email [privacy@donaldtrump.com](mailto:privacy@donaldtrump.com) | [Policy](https://www.donaldjtrump.com/privacy-policy): "we may use information we collect for … sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity"
 
 
 ### Twitter

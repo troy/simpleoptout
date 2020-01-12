@@ -91,6 +91,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Roomba (iRobot)](#roomba-%28irobot%29) •
 [Samsung](#samsung) •
 [Saatchi Art](#saatchi-art) •
+[Seattle Art Museum](#seattle-art-museum) •
 [Seattle Times](#seattle-times) •
 [Sleep Number](#sleep-number) •
 [Spokeo](#spokeo) •
@@ -202,6 +203,8 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 
 ### Biden 2020 Campaign
 
+| What?       | Opt-out | Details
+| :-          | :-      | :-
 | Shares/sells donor info with third parties | Email [copyrightcomplaints@joebiden.com](mailto:copyrightcomplaints@joebiden.com) | [Policy](https://joebiden.com/privacy-policy/): "We may share information about you … With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals"
 
 
@@ -615,6 +618,13 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 | Shares/sells customer info & purchase history with third parties | Email [legal@leafgroup.com](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
 
 
+### Seattle Art Museum
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/trades customer info with third parties | Email [membership@seattleartmuseum.org](mailto:membership@seattleartmuseum.org) | [Policy](http://www.seattleartmuseum.org/about-sam/privacy-policy#use): "we occasionally trade our membership mailing list with sister arts organizations"
+
+
 ### Seattle Times
 
 | What?       | Opt-out | Details
@@ -678,6 +688,8 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 ### Trump 2020 Campaign
 
+| What?       | Opt-out | Details
+| :-          | :-      | :-
 | Shares/sells donor info with third parties | Email [privacy@donaldtrump.com](mailto:privacy@donaldtrump.com) | [Policy](https://www.donaldjtrump.com/privacy-policy): "we may use information we collect for … sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity"
 
 
@@ -699,6 +711,8 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 
 ### Visa
+
+**Note**: As of 2020-01-12, Visa's opt-out form is serving a 404 not found. Visa's privacy email alias has been emailed. This entry will be updated as soon as the opt-out URL works.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-

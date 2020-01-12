@@ -75,6 +75,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [MetLife](#metlife) •
 [Microsoft](#microsoft) •
 [National Geographic](#national-geographic) •
+[Nature Conservancy](#nature-conservancy) •
 [Netflix](#netflix) •
 [NYTimes](#nytimes) •
 [OptOutPrescreen.com](#optoutprescreen.com) •
@@ -552,6 +553,13 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy#section-how-and-when-we-share-information):
+
+
+### Prosper
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Account settings -> “Communication Preferences" -> disable "Optional Information Sharing" or email [privacy@prosper.com](mailto:privacy@prosper.com) | [Policy](https://www.prosper.com/plp/legal/privacy-policy/) ("Federal Privacy Notice"). Includes SSN, income, account balances, transaction history, credit scores, and employment information
 
 
 ### Reddit

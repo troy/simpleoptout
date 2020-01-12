@@ -259,7 +259,7 @@ Also see [Crate & Barrel](#crate-&-barrel).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Targeted cable ads, sales mailings, more | [Opt-out](https://www.xfinity.com/privacy/manage-optouts) | [Policy: Your choices](https://www.xfinity.com/privacy/policy#info-control)
-| Postal mail ads | Call 800-COMCAST and ask to be added to "Do Not Mail" list | [Policy: Web site](https://www.xfinity.com/corporate/legal/privacystatement#section8)
+| Postal mail ads | Call 1-800-COMCAST and ask to be added to "Do Not Mail" list | [Policy: Web site](https://www.xfinity.com/corporate/legal/privacystatement#section8)
 
 
 ### Condé Nast
@@ -340,7 +340,7 @@ Includes: MusiciansFriend.com
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer postal addresses with third parties | Call 866-498-7882 (Guitar Center) or 800-449-9128 (Musician's Friend) | [Policy](https://www.guitarcenter.com/pages/privacy-rights-policy): "may occasionally share its postal mailing list … with other organizations"
+| Shares/sells customer postal addresses with third parties | Call 866-498-7882 (Guitar Center) or 1-800-449-9128 (Musician's Friend) | [Policy](https://www.guitarcenter.com/pages/privacy-rights-policy): "may occasionally share its postal mailing list … with other organizations"
 
 
 ### HBO
@@ -489,6 +489,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | Shares/sells user data with third parties (NGS) | Email [dataprivacy@ngs.org](mailto:dataprivacy@ngs.org?subject=Opt%20out%20of%20data%20sharing%20and%20marketing;%20request%20for%20personal%20data) | [Policy](https://www.nationalgeographic.com/legal/privacy/#disclosure): "Your information may be shared with selected third parties so that they may send you promotional materials about goods and services that they offer."
 
 
+### Nature Conservancy
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells donor data with third parties | Email [member@tnc.org](mailto:member@tnc.org) or call 1-800-628-6860 | [Policy](https://www.nature.org/en-us/about-us/who-we-are/accountability/privacy-policy/): "for the purpose of renting or exchanging with unaffiliated third party organizations for their own uses"
+
+
 ### Netflix
 
 | What?       | Opt-out | Details
@@ -537,7 +544,7 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & purchase history with third parties | Call 800-332-8884 | [Policy](https://www.pictureframes.com/customer-care/privacy-policy): Your information, including "information about your order(s)," "may also be shared with other marketers to bring you offers of interest"
+| Shares/sells customer info & purchase history with third parties | Call 1-800-332-8884 | [Policy](https://www.pictureframes.com/customer-care/privacy-policy): Your information, including "information about your order(s)," "may also be shared with other marketers to bring you offers of interest"
 
 
 ### Pinterest

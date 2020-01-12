@@ -741,9 +741,7 @@ Related: [How can this be?](https://www.forbes.com/sites/adamtanner/2013/07/08/h
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregated consumer spending reports | [Opt-out](https://usa.visa.com/legal/privacy-policy-opt-out.html) | [Policy](https://usa.visa.com/legal/privacy-policy.html)
-
-"In some countries, Visa enhances Card Transaction Data and uses it to generate data products that companies use to improve their marketing programs and identify interested consumers."
+| Aggregated consumer spending reports | [Opt-out](https://usa.visa.com/legal/privacy-policy-opt-out.html) | [Policy](https://usa.visa.com/legal/global-privacy-notice/additional-privacy-information.html): "in some countries, Visa uses Card Transaction Data to generate data products that companies use to improve their marketing programs and identify interested consumers"
 
 
 ### Vizio

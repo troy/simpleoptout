@@ -102,6 +102,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Trump 2020 Campaign](#trump-2020-campaign) •
 [Tuft & Needle](#tuft-&-needle) •
 [Twitter](#twitter) •
+[US Postal Service](#us-postal-service) •
 [Verizon](#verizon) •
 [Visa](#visa) •
 [Vizio](#vizio) •
@@ -699,6 +700,15 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | :-          | :-      | :-
 | Data sharing and cross-site tracking | [Opt-out](https://twitter.com/personalization) | Part of [account settings](https://twitter.com/settings/safety). [Policy](https://twitter.com/en/privacy)
 | Tailored audiences | [Request advertiser list](https://twitter.com/settings/your_twitter_data/audiences) | [Intro to tailored audiences](https://business.twitter.com/en/help/campaign-setup/campaign-targeting/tailored-audiences.html). [Policy](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads). [Policy for advertisers](https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html).
+
+
+### US Postal Service
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Sells change-of-address requests to third paries | Can't opt-out. Request "Temporary" (6 month) forwarding to prevent disclosure | [Policy](https://moversguide.usps.com/mgo): Information is sold "to individuals or companies already in possession of your name and old mailing address, as an address correction service" and "to licensed service providers of the USPS to perform mailing list correction service of lists containing your name and old address."
+
+Related: [How can this be?](https://www.forbes.com/sites/adamtanner/2013/07/08/how-the-post-office-sells-your-new-address-with-anyone-who-pays-and-the-little-known-loophole-to-opt-out/)
 
 
 ### Verizon

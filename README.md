@@ -737,11 +737,9 @@ Related: [How can this be?](https://www.forbes.com/sites/adamtanner/2013/07/08/h
 
 ### Visa
 
-**Note**: As of 2020-01-12, Visa's opt-out form is serving a 404 not found. Visa's privacy email alias has been emailed. This entry will be updated as soon as the opt-out URL works.
-
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregated consumer spending reports | [Opt-out](https://usa.visa.com/legal/privacy-policy-opt-out.html) | [Policy](https://usa.visa.com/legal/global-privacy-notice/additional-privacy-information.html): "in some countries, Visa uses Card Transaction Data to generate data products that companies use to improve their marketing programs and identify interested consumers"
+| Aggregated consumer spending reports | [Opt-out](https://marketingreportoptout.visa.com/OPTOUT/request.do) | [Policy](https://usa.visa.com/legal/global-privacy-notice/additional-privacy-information.html): "in some countries, Visa uses Card Transaction Data to generate data products that companies use to improve their marketing programs and identify interested consumers"
 
 
 ### Vizio

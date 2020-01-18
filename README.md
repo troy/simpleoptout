@@ -94,7 +94,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Saatchi Art](#saatchi-art) •
 [Seattle Art Museum](#seattle-art-museum) •
 [Seattle Times](#seattle-times) •
-[Sleep Number](#sleep-number) •
+[Slashdot Media](#slashdot-media) •
 [Southwest Airlines](#southwest-airlines) •
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
@@ -309,7 +309,7 @@ Also see [Zeta Global](#zeta-global).
 
 ### Facebook
 
-**Includes Instagram.**
+Includes: **Instagram**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
@@ -339,7 +339,7 @@ Also see [YouTube](#youtube).
 
 ### Guitar Center
 
-Includes: MusiciansFriend.com
+Includes: **MusiciansFriend.com**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
@@ -385,7 +385,7 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 
 ### InterContinental Hotels
 
-Includes: Crowne Plaza, Holiday Inn, Kimpton, [others](https://www.ihg.com/content/us/en/about/brands)
+Includes: **Crowne Plaza, Holiday Inn, Kimpton,** [others](https://www.ihg.com/content/us/en/about/brands)
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
@@ -438,7 +438,7 @@ Also see [Microsoft](#microsoft).
 
 ### Marriott Hotels
 
-Includes: Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, Ritz-Carlton, Sheraton, SpringHill Suites, St. Regis, W Hotels, Westin, [others](https://www.marriott.com/marriott-brands.mi)
+Includes: **Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, Ritz-Carlton, Sheraton, SpringHill Suites, St. Regis, W Hotels, Westin,** [others](https://www.marriott.com/marriott-brands.mi)
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
@@ -657,6 +657,15 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 | Aggregates information from retailers about customers | To obtain or request deletion of your data, email [privacy@sift.com](mailto:privacy@privacy@sift.com) | [Policy](https://sift.com/service-privacy#access-review)
 
 Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
+
+
+### Slashdot Media
+
+Includes: **SourceForge**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells user info with third parties | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/611e70e2-1994-43ff-b07b-646df870db4b/c1c0acac-ab24-4dac-b3e6-43421a684626.html) | [Policy](https://slashdotmedia.com/privacy-statement/#C): "We may also share your Personal Information with our advertisers, vendors, and customers, including data profiling companies, business-to-business lead buyers, and data aggregation companies"
 
 
 ### Southwest Airlines

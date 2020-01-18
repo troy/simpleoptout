@@ -104,6 +104,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Trump 2020 Campaign](#trump-2020-campaign) •
 [Tuft & Needle](#tuft-&-needle) •
 [Twitter](#twitter) •
+[United Airlines](#united-airlines) •
 [US Postal Service](#us-postal-service) •
 [Verizon](#verizon) •
 [Visa](#visa) •
@@ -725,6 +726,13 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | Tailored audiences | [Request advertiser list](https://twitter.com/settings/your_twitter_data/audiences) | [Intro to tailored audiences](https://business.twitter.com/en/help/campaign-setup/campaign-targeting/tailored-audiences.html). [Policy](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads). [Policy for advertisers](https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html).
 
 
+### United Airlines
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells passenger information with third parties | Not provided ([requested 2020-01-17](https://twitter.com/simpleoptout/status/1218335017824215040)) | [Policy](https://www.united.com/ual/en/us/fly/privacy.html#how_use_information): "may also share your information with third parties for marketing purposes including but not limited to the third party’s own marketing or promotional purposes or other companies’ marketing purposes"
+
+
 ### US Postal Service
 
 | What?       | Opt-out | Details
@@ -780,7 +788,7 @@ Includes **Pottery Barn, West Elm, Rejuvenation**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com?subject=Opt%20out%20of%20all%20data%20sharing%20all%20marketing) with name, postal address, email | [Policy](https://www.williams-sonomainc.com/privacy/): "we might rent, exchange, share and/or cross-reference information, including contact information about you"
+| Shares/sells customer info with third parties | Email [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com?subject=Opt%20out%20of%20all%20data%20sharing%20and%20marketing%20by%20all%20WS%20entities) with name, postal address, email | [Policy](https://www.williams-sonomainc.com/privacy/): "we might rent, exchange, share and/or cross-reference information, including contact information about you"
 
 
 ### Woodcraft

@@ -95,6 +95,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Seattle Art Museum](#seattle-art-museum) •
 [Seattle Times](#seattle-times) •
 [Sleep Number](#sleep-number) •
+[Southwest Airlines](#southwest-airlines) •
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
 [Taunton Press](#taunton-press) •
@@ -655,6 +656,13 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 | Aggregates information from retailers about customers | To obtain or request deletion of your data, email [privacy@sift.com](mailto:privacy@privacy@sift.com) | [Policy](https://sift.com/service-privacy#access-review)
 
 Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
+
+
+### Southwest Airlines
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells passenger information with third parties | [Opt-out](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_OptOut) | [Policy](https://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html#Sharing_of_Information): "We may also share information about you … With our business partners, affiliates and other third parties for purposes of sending their own marketing."
 
 
 ### Spokeo

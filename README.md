@@ -888,9 +888,7 @@ Finally, please pass this on to the company's management team or your supervisor
 
 ## Additions and updates
 
-To submit an opt-out policy for a new company, correction about an existing company, or suggest a feature, please submit the form below. Form submissions can be anonymous and are deleted after they are processed.
-
-Alternatively, if you prefer, create a [GitHub issue](https://github.com/troy/simpleoptout/issues), send a [pull request](https://github.com/troy/simpleoptout), or [tweet to @simpleoptout](https://twitter.com/simpleoptout) instead.
+To submit an opt-out policy for a new company, correction about an existing company, or suggest a feature, please  [tweet to @simpleoptout](https://twitter.com/simpleoptout), or create a [GitHub issue](https://github.com/troy/simpleoptout/issues) (or send a [pull request](https://github.com/troy/simpleoptout)).
 
 This site is generally concerned with practices that:
 
@@ -898,10 +896,6 @@ This site is generally concerned with practices that:
 * do not inherently disclose a way to opt-out (for example, emails generally contain unsubscribe links), and
 * are not addressed by industry-wide opt-out like [DMAchoice](https://dmachoice.thedma.org/) (for direct mail), [NAI](http://optout.networkadvertising.org/) and [DAA](http://optout.aboutads.info/) (for ad targeting)
 * probably affect at least 1,000 people
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSff9pyDtjNwCu0BTMlBYeYppYecQP-ylpcCtHJnOfO6VcwbFw/viewform?embedded=true" width="640" height="770" frameborder="0" marginheight="0" marginwidth="0">Loading form to suggest a new opt-out policy…</iframe>
-
 
 
 # Related work

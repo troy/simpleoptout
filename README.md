@@ -20,7 +20,7 @@ title: Deep links to opt-out of data sharing by 60+ companies – Simple Opt Ou
 **Simple Opt Out** is drawing attention to opt-out data sharing and marketing practices that many people aren't aware of (and most people don't want), then making it easier to opt out. For example:
 
    * **[Chase](#chase)** may share your "account balances and transaction history … For nonaffiliates to market to you."
-   * **[Crate & Barrel](#crate-&-barrel)** may share "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
+   * **[Crate & Barrel](#crate-&-barrel)** shares "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
    * **[InterContinental Hotels](#intercontinental-hotels)** may share "your information with third parties … to extend special offers about their own products and services"
 
 This site makes it easier to opt out of data sharing by 50+ companies (or [request a company](#changes) or see [opt-out tips](#suggestions)). Enjoy!
@@ -140,7 +140,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells members' info with third parties | Call 888-243-9815 | [Policy](https://wa.aaa.com/general/privacy-notice.html)
+| Shares/sells members' info with third parties | Call 888-243-9815 | [Policy](https://wa.aaa.com/general/privacy-notice.html) (varies [by state](https://www.google.com/search?q=site%3Aaaa.com+%22privacy+policy%22))
 
 
 ### Adobe
@@ -155,7 +155,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Family tree | [Instructions](https://support.ancestry.com/s/article/Family-Tree-Privacy) | [Privacy Philosophy](https://www.ancestry.com/cs/privacyphilosophy)
-| DNA Match   | [Instructions](https://support.ancestry.com/s/article/Opting-out-of-DNA-Matches)
+| DNA Match   | [Instructions](https://support.ancestry.com/s/article/Choosing-not-to-be-Listed-as-an-AncestryDNA-Match)
 | Research    | [Instructions](https://support.ancestry.com/s/article/AncestryDNA-Research-Project)
 
 
@@ -163,7 +163,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Browsing history   | [Opt-out](https://www.amazon.com/gp/history) (click "Manage history") | [Policy: Choices](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-1B2BDAD4-7ACF-4D7A-8608-CBA6EA897FD3__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
+| Browsing history   | [Opt-out](https://www.amazon.com/gp/history) (click "Manage history") | [Policy: Choices](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
 | Ad personalization | [Opt-out](https://www.amazon.com/adprefs/)
 
 
@@ -178,15 +178,14 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Interest- and location-based ads (iOS &amp; TV) | [Opt-out](https://support.apple.com/en-us/HT202074)
-| Interest- and location-based ads (macOS) | [Opt-out](https://support.apple.com/en-us/HT205223)
+| Interest- and location-based ads (iOS, macOS, TV) | [Opt-out](https://support.apple.com/en-us/HT202074)
 
 
 ### AT&T
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Phone data ("CPNI") sharing          | [Opt-out](http://att.com/ecpnioptout) | [Policy: Your Choices](https://about.att.com/sites/privacy_policy/rights_choices)
+| Phone data ("CPNI") sharing          | [Opt-out](https://att.com/cpni/optout) | [Policy: Your Choices](https://about.att.com/sites/privacy_policy/rights_choices)
 | Mobile calls, data, and ad targeting | [Opt-out](http://www.att.com/cmpchoice)
 | DirecTV                              | [Opt-out](https://www.directv.com/DTVAPP/content/support/DTVAPP_policy) and in set-top box settings
 
@@ -209,7 +208,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells donor info with third parties | Email [copyrightcomplaints@joebiden.com](mailto:copyrightcomplaints@joebiden.com) | [Policy](https://joebiden.com/privacy-policy/): "We may share information about you … With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals"
+| Shares/sells donor info with third parties | Email [privacy@joebiden.com](mailto:privacy@joebiden.com) | [Policy](https://joebiden.com/privacy-policy/): "We may share information about you … With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals"
 
 
 ### CapitalOne 360
@@ -247,7 +246,7 @@ Also see [Crate & Barrel](#crate-&-barrel).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & transactions with third parties | [Opt-out](https://secure.chase.com/web/auth/nav?navKey=requestPublicPrivacyPreferences) or call 1–888–868–8618 | [How your data is shared](https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice): "we collect and share … account balances and transaction history … For nonaffiliates to market to you"
+| Shares/sells customer info & transactions with third parties | [Opt-out](https://www.chase.com/privacypreferences) or call 1–888–868–8618 | [How your data is shared](https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice): "we collect and share … account balances and transaction history … For nonaffiliates to market to you"
 
 
 ### Choice Hotels
@@ -302,7 +301,7 @@ Also see [CB2](#cb2).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells user info with third parties | Email [privacy@disqus.com](mailto:privacy@disqus.com) | [Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy): "we share certain categories of personal data with third parties for their direct marketing purposes"
+| Shares/sells user info with third parties | [Account settings](https://help.disqus.com/en/articles/1717117-how-to-edit-your-data-sharing-settings) or email [privacy@disqus.com](mailto:privacy@disqus.com) | [Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy): "we share certain categories of personal data with third parties for their direct marketing purposes"
 
 Also see [Zeta Global](#zeta-global).
 
@@ -355,7 +354,7 @@ Includes: **MusiciansFriend.com**
 
 ### Hearst
 
-Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, Food Network Magazine, Good Housekeeping, Harper's Bazaar, HGTV Magazine, House Beautiful, Marie Claire, O, The Oprah Magazine, Popular Mechanics, Redbook, Road & Track, Seventeen, Town&Country, Veranda, Prevention, Men's Health, Woman's Day, Women's Health, and [others](http://www.hearst.com/magazines#BreakerInfoCard_36).
+Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, Food Network Magazine, Good Housekeeping, Harper's Bazaar, HGTV Magazine, House Beautiful, Marie Claire, O, The Oprah Magazine, Popular Mechanics, Redbook, Road & Track, Seventeen, Town&Country, Veranda, Prevention, Men's Health, Woman's Day, Women's Health, and [others](https://www.hearst.com/magazines).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
@@ -373,7 +372,7 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Ad targeting | [Opt-out](https://secure.hulu.com/privacy#YourChoices) | [Policy](https://secure.hulu.com/privacy#SharingWithThirdParties)
+| Ad targeting | [Opt-out](https://secure.hulu.com/privacy#YourChoices) | [Policy](https://www.hulu.com/privacy#SharingWithOthers)
 
 
 ### Instant Checkmate
@@ -389,7 +388,7 @@ Includes: **Crowne Plaza, Holiday Inn, Kimpton,** [others](https://www.ihg.com/c
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells guest info with third parties | In Rewards Club portal, email [privacyoffice@ihg.com](mailto:privacyoffice@ihg.com), or [contact](https://www.ihg.com/content/us/en/customer-care/privacy_statement#how-to-contact) | [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "We may also share your information with third parties … to extend special offers about their own products and services"
+| Shares/sells guest info with third parties | In Rewards Club portal, [form](https://www.ihg.com/hotels/us/en/customer-care/forms/privacy?hideBack=true&option=doNotSell), or email [privacyoffice@ihg.com](mailto:privacyoffice@ihg.com) | [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "We may also share your information with third parties … to extend special offers about their own products and services"
 
 
 ### Kustomer

@@ -70,6 +70,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Lexis-Nexis](#lexis-nexis) •
 [LG](#lg) •
 [LinkedIn](#linkedin) •
+[LiveRamp](#liveramp) •
 [Marriott Hotels](#marriott-hotels) •
 [Mastercard](#mastercard) •
 [Meredith/Time Inc.](#meredith/time-inc.) •
@@ -444,6 +445,13 @@ More information: [LG Will Take The 'Smart' Out Of Your Smart TV If You Don't Ag
 | Ad targeting     | [Opt-out](https://www.linkedin.com/psettings/advertising)
 
 Also see [Microsoft](#microsoft).
+
+
+### LiveRamp
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Aggregates personal information from many merchants | [Opt-out](https://optout.liveramp.com/opt_out) | [Policy](https://liveramp.com/privacy/service-privacy-policy/): "LiveRamp enables advertisers to display relevant ads to specific individuals through websites, mobile apps, email, and addressable TVs"
 
 
 ### Marriott Hotels

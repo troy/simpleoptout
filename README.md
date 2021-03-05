@@ -65,6 +65,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [HBO](#hbo) •
 [Hearst](#hearst) •
 [Home Depot](#home-depot) •
+[Honda Motors](#honda-motors) •
 [Hoover](#hoover) •
 [Hulu](#hulu) •
 [Hyundai Motors](#hyundai-motors) •
@@ -407,6 +408,13 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.homedepot.com/c/Manage_Marketing_Preferences) | [Policy](https://www.homedepot.com/c/Privacy_Security#Information_Sharing): "We share information with [financial product] third parties so that they can provide you with tailored information about products and services and special offers" and "we may share information with joint marketing partners"
+
+
+### Honda Motors
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells owner info and car/driving data with third parties | [Opt-out](https://crrs.secure.force.com/service/CCPA_Request_W2C) or call 1-800-999-1009, as well as in in-car interface | [Policy](https://www.honda.com/privacy/privacy-policy.pdf): "We may share or sell limited elements of your Personal Information with other companies who do not provide services to us (“Third Parties”)." [Vehicle data policy](http://www.honda.com/privacy/connected-product-privacy-policy.pdf): "We share Covered Information with third parties who provide goods or services that may benefit vehicle owners, including insurance companies, Honda/Acura dealerships, and consumer goods or services companies, such as satellite radio providers and connected vehicle data services and analytics platforms"
 
 
 ### Hoover

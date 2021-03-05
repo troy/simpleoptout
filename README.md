@@ -831,13 +831,6 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | De-identified usage data for reports | [Opt-out](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy#section7-insights) |
 
 
-### Tuft & Needle
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares/sells customer info with third parties | Call 1-800-216-6747 | [Policy](https://www.tuftandneedle.com/legal/privacy/#vii): "We may share or disclose your Personal Information … With our affiliated and unaffiliated service providers who are offering products or services that we believe may be of interest to you"
-
-
 ### TruePeopleSearch
 
 | What?       | Opt-out | Details
@@ -850,6 +843,13 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells donor info with third parties | Email [privacy@donaldtrump.com](mailto:privacy@donaldtrump.com) | [Policy](https://www.donaldjtrump.com/privacy-policy): "we may use information we collect for … sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity"
+
+
+### Tuft & Needle
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Call 1-800-216-6747 | [Policy](https://www.tuftandneedle.com/legal/privacy/#vii): "We may share or disclose your Personal Information … With our affiliated and unaffiliated service providers who are offering products or services that we believe may be of interest to you"
 
 
 ### Twitter

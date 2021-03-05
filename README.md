@@ -90,6 +90,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [National Geographic](#national-geographic) •
 [Nature Conservancy](#nature-conservancy) •
 [Netflix](#netflix) •
+[NRS](#nrs) •
 [NYTimes](#nytimes) •
 [Omaha Steaks](#omaha-steaks) •
 [OptOutPrescreen.com](#optoutprescreen.com) •
@@ -608,6 +609,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Disable "Matched Identifier Communications" | [Opt-out](https://www.netflix.com/MarketingCommunications) | Also see [Account](https://www.netflix.com/YourAccount). [Policy](https://help.netflix.com/legal/privacy).
+
+
+### NRS
+
+What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [service@nrs.com](mailto:service@nrs.com) or call 1-877-677-4327 | [Policy](https://www.nrs.com/privacy): "From time to time NRS may share your name with other high-quality companies"
 
 
 ### NYTimes

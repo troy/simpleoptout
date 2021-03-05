@@ -799,7 +799,7 @@ More information: [How to Turn Off Smart TV Snooping Features](https://consumerr
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://company.seattletimes.com/notices/notice2.html#provide): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in."
+| Shares/sells customer info with third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://www.seattletimes.com/notices/privacy.html): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in."
 
 
 ### Sift

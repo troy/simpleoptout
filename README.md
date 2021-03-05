@@ -86,6 +86,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Meredith/Time Inc.](#meredith/time-inc.) •
 [MetLife](#metlife) •
 [Microsoft](#microsoft) •
+[MindBodyOnline](#mindbodyonline) •
 [National Geographic](#national-geographic) •
 [Nature Conservancy](#nature-conservancy) •
 [Netflix](#netflix) •
@@ -125,6 +126,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Visa](#visa) •
 [Vizio](#vizio) •
 [Vox](#vox) •
+[Walmart](#walmart) •
 [Wells Fargo](#wells-fargo) •
 [Whitepages.com](#whitepages.com) •
 [Whole Foods](#whole-foods) •
@@ -905,6 +907,15 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells user info with third parties | [Opt-out](https://www.voxmedia.com/contact#donotsell) | [Policy](https://www.voxmedia.com/legal/privacy-notice#our-information-sharing-practice): "we may also share your information (including Personal Data) with third parties for their own direct marketing purposes"
+
+
+### Walmart
+
+Includes: **Hayneedle, Jet.com, Moosejaw, Sam's Club**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with co-branding partners | [Opt-out](https://cpa-ui.walmart.com/affirmation?brandCode=WMT&requestType=OPTOUT) | [Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy): "We may share your personal information with companies that offer co-branded products or services"
 
 
 ### Wells Fargo

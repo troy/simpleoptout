@@ -42,6 +42,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Bank of America](#bank-of-america) •
 [BeenVerified](#beenverified) •
 [Biden 2020 Campaign](#biden-2020-campaign) •
+[Bose](#bose) •
 [CapitalOne 360](#capitalone-360) •
 [Carlton Farms](#carlton-farms) •
 [Carnival Cruises](#carnival-cruises) •
@@ -224,6 +225,13 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells donor info with third parties | Email [privacy@joebiden.com](mailto:privacy@joebiden.com) | [Policy](https://joebiden.com/privacy-policy/): "We may share information about you … With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals"
+
+
+### Bose
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Collects unnecessary, extremely personal usage data | In Bose Connect Application, "Privacy Policy & Settings" screen | [Policy](https://www.bose.com/en_us/legal/privacy_policy.html) | "If you connect your Bose product (such as headphones or speakers) to the Internet or to a Bose mobile application or software … Usage data, such as time spent using different features/settings of the product, the day and time you used the product, sensor data (e.g. head orientation and movement), button presses, the media and other external sources to which you connect your product, and, as applicable, your product’s power spectrum, sound pressure level, volume levels and streaming information (including content stored on system presets, stations played, playlists, artists, albums, songs or podcasts)"
 
 
 ### CapitalOne 360

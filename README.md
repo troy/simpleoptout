@@ -49,6 +49,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [CenturyLink](#centurylink) •
 [Chase](#chase) •
 [Choice Hotels](#choice-hotels) •
+[ChowNow](#chownow) •
 [Comcast Xfinity](#comcast-xfinity) •
 [The Company Store](#the-company-store) •
 [Condé Nast](#condé-nast) •
@@ -275,6 +276,13 @@ Also see [Crate & Barrel](#crate-&-barrel).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells guest info with third parties | [Opt-out](https://www.choicehotels.com/choice-privileges/account/update) or email [privacy@choicehotels.com](mailto:privacy@choicehotels.com) | [Policy](https://www.choicehotels.com/legal/privacy-policy): "Choice may partner with other companies to provide co-sponsored or co-branded promotions, sweepstakes, contests, products and services and may share your information with these companies."
+
+
+### ChowNow
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [privacy@chownow.com](mailto:privacy@chownow.com) | [Policy](https://get.chownow.com/privacy-policy): "We may from time to time share Contact Information and/or Other Information with other companies who may provide you information about the products and services they offer"
 
 
 ### Comcast Xfinity

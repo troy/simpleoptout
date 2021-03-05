@@ -186,7 +186,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 
 ### Ally
 
-** Includes: **GMAC Mortgage**
+Includes: **GMAC Mortgage**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
@@ -222,7 +222,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Interest- and location-based ads (iOS, macOS, TV) | [Opt-out](https://support.apple.com/en-us/HT202074)
-| iOS prompt for app tracking | Settings → Privacy → Tracking → disable "Allow Apps to Request to Track" | [More information](https://developer.apple.com/app-store/user-privacy-and-data-use/). Disabling the option is equivalent to answering "No," without ever being prompted.
+| iOS prompt for app tracking | Settings → Privacy → Tracking → disable "Allow Apps to Request to Track" | [More information](https://developer.apple.com/app-store/user-privacy-and-data-use/). Disabling the option is equivalent to answering "No" without being prompted.
 
 
 ### AT&T
@@ -389,7 +389,7 @@ Also see [Zeta Global](#zeta-global).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares de-identified data for competitive research | [Opt-out] | [Policy](https://www.edison.tech/privacy)
+| Shares de-identified data for competitive research | In email app settings, "Manage Privacy" page | [Policy](https://www.edison.tech/privacy)
 
 
 ### Facebook
@@ -609,8 +609,7 @@ Includes: **Bloomingdale's**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & purchase history with third parties | Call 1-888-529-2254 | [Policy](https://www.customerservice-macys.com/app/answers/detail/a_id/595#how%20we%20share%20your%20information):
-"We may share your information … With Third Parties for Marketing Purposes. This may include third parties whose products or services we believe you may be interested. These third parties may also share your information with others."
+| Shares/sells customer info & purchase history with third parties | Call 1-888-529-2254 | [Policy](https://www.customerservice-macys.com/app/answers/detail/a_id/595#how%20we%20share%20your%20information): "We may share your information … With Third Parties for Marketing Purposes. This may include third parties whose products or services we believe you may be interested. These third parties may also share your information with others."
 
 
 ### Marriott Hotels
@@ -766,7 +765,7 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Account settings -> “Communication Preferences" -> disable "Optional Information Sharing" or email [privacy@prosper.com](mailto:privacy@prosper.com) | [Policy](https://www.prosper.com/plp/legal/privacy-policy/) ("Federal Privacy Notice"). Includes SSN, income, account balances, transaction history, credit scores, and employment information
+| Shares/sells customer info with third parties | Account settings → “Communication Preferences" → disable "Optional Information Sharing" or email [privacy@prosper.com](mailto:privacy@prosper.com) | [Policy](https://www.prosper.com/plp/legal/privacy-policy/) ("Federal Privacy Notice"). Includes SSN, income, account balances, transaction history, credit scores, and employment information
 
 
 ### Reddit
@@ -1018,7 +1017,7 @@ Includes: **Hayneedle, Jet.com, Moosejaw, Sam's Club**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares customer info & transactions with affiliates | [Opt-out](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) (Security & Support -> Change Privacy Preferences) or call 1-888-528-8460 | [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/)
+| Shares customer info & transactions with affiliates | [Opt-out](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) (Security & Support → Change Privacy Preferences) or call 1-888-528-8460 | [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/)
 
 
 ### Whitepages.com

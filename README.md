@@ -603,6 +603,16 @@ Also see [Microsoft](#microsoft).
 | Aggregates personal information from many merchants | [Opt-out](https://optout.liveramp.com/opt_out) | [Policy](https://liveramp.com/privacy/service-privacy-policy/): "LiveRamp enables advertisers to display relevant ads to specific individuals through websites, mobile apps, email, and addressable TVs"
 
 
+#### Macy's
+
+Includes: **Bloomingdale's**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info & purchase history with third parties | Call 1-888-529-2254 | [Policy](https://www.customerservice-macys.com/app/answers/detail/a_id/595#how%20we%20share%20your%20information):
+"We may share your information … With Third Parties for Marketing Purposes. This may include third parties whose products or services we believe you may be interested. These third parties may also share your information with others."
+
+
 ### Marriott Hotels
 
 Includes: **Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, Ritz-Carlton, Sheraton, SpringHill Suites, St. Regis, W Hotels, Westin,** [others](https://www.marriott.com/marriott-brands.mi)

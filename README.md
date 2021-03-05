@@ -49,6 +49,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Chase](#chase) •
 [Choice Hotels](#choice-hotels) •
 [Comcast Xfinity](#comcast-xfinity) •
+[The Company Store](#the-company-store) •
 [Condé Nast](#condé-nast) •
 [Costco](#costco) •
 [CoreLogic](#corelogic) •
@@ -265,6 +266,13 @@ Also see [Crate & Barrel](#crate-&-barrel).
 | :-          | :-      | :-
 | Targeted cable ads, sales mailings, more | [Opt-out](https://www.xfinity.com/privacy/manage-optouts) | [Policy: Your choices](https://www.xfinity.com/privacy/policy#info-control)
 | Postal mail ads | Call 1-800-COMCAST and ask to be added to "Do Not Mail" list | [Policy: Web site](https://www.xfinity.com/corporate/legal/privacystatement#section8)
+
+
+### The Company Store
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares customer info with third parties | [Opt-out](https://www.thecompanystore.com/exercise-my-privacy-rights/ccpa_form.html) | [Policy](https://www.thecompanystore.com/privacy-information-sharing.html): "we may share information with joint marketing partners"
 
 
 ### Condé Nast

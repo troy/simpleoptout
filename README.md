@@ -462,6 +462,7 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells subscriber info with third parties | [Opt-out](http://www.hearst.com/newsroom/us-magazines-privacy-notice#_YOUR_CHOICES) via postal mail only | Includes this distinctly terrible opt-out process: "We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at [postal address]…"
+| Shares/sells digital user info with third parties | [Opt-out](https://optout.hearstmags.com/) (form 2) | [Policy](https://www.hearst.com/-/us-magazines-privacy-notice)
 
 
 ### Home Depot

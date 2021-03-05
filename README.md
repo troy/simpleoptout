@@ -67,6 +67,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Home Depot](#home-depot) •
 [Hoover](#hoover) •
 [Hulu](#hulu) •
+[Hyundai Motors](#hyundai-motors) •
 [Instant Checkmate](#instant-checkmate) •
 [InterContinental Hotels](#intercontinental-hotels) •
 [Kroger](#kroger) •
@@ -420,6 +421,13 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Ad targeting | [Opt-out](https://secure.hulu.com/privacy#YourChoices) | [Policy](https://www.hulu.com/privacy#SharingWithOthers)
+
+
+### Hyundai Motors
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells owner info and car/driving data with third parties | [Opt-out](https://owners.hyundaiusa.com/us/en/contact-us.html) | [Policy](https://www.hyundaiusa.com/us/en/owner-privacy-policy): "We may share certain Covered Information with dealers so that they and we may better respond to your requests, send your relevant and personalized offers and information"
 
 
 ### Instant Checkmate

@@ -63,6 +63,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [HBO](#hbo) •
 [Hearst](#hearst) •
 [Home Depot](#home-depot) •
+[Hoover](#hoover) •
 [Hulu](#hulu) •
 [Instant Checkmate](#instant-checkmate) •
 [InterContinental Hotels](#intercontinental-hotels) •
@@ -385,6 +386,13 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.homedepot.com/c/Manage_Marketing_Preferences) | [Policy](https://www.homedepot.com/c/Privacy_Security#Information_Sharing): "We share information with [financial product] third parties so that they can provide you with tailored information about products and services and special offers" and "we may share information with joint marketing partners"
+
+
+### Hoover
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| [Opt-out](https://hoover.com/pages/do-not-sell-my-personal-information) | [Policy](https://hoover.com/pages/terms-of-use-privacy-policy): "we will continue to share your information among our business units, our affiliates and unaffiliated third parties"
 
 
 ### Hulu

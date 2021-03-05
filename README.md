@@ -391,6 +391,15 @@ Includes: **Crowne Plaza, Holiday Inn, Kimpton,** [others](https://www.ihg.com/c
 | Shares/sells guest info with third parties | In Rewards Club portal, [form](https://www.ihg.com/hotels/us/en/customer-care/forms/privacy?hideBack=true&option=doNotSell), or email [privacyoffice@ihg.com](mailto:privacyoffice@ihg.com) | [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "We may also share your information with third parties … to extend special offers about their own products and services"
 
 
+### Kroger
+
+Includes: Fred Meyer, Harris Teeter, QFC, Ralphs, [others](https://www.kroger.com/i/kroger-family-of-companies)
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer purchase history with third parties | Email [KrogerPrivacyOffice@Kroger.com](mailto:KrogerPrivacyOffice@Kroger.com) or call 1-800-576-4377 | [Policy](https://www.kroger.com/i/privacy-policy/how-we-share-information): "We may share your information to develop and provide special services or offers that may interest you."
+
+
 ### Kustomer
 
 | What?       | Opt-out | Details

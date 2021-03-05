@@ -35,9 +35,10 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [AAA](#aaa) •
 [Ace Hardware](#ace-hardware) •
 [Adobe](#adobe) •
-[Ancestry.com](#ancestry.com) •
+[Ally](#ally) •
 [Amazon.com](#amazon.com) •
 [American Express](#american-express) •
+[Ancestry.com](#ancestry.com) •
 [Apple](#apple) •
 [AT&T](#at&t) •
 [Bank of America](#bank-of-america) •
@@ -181,13 +182,13 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | Ad targeting & data collection | [Opt-out](https://www.adobe.com/privacy/opt-out.html) | [Policy: Your rights](https://www.adobe.com/privacy/policy.html#rights)
 
 
-### Ancestry.com
+### Ally
+
+** Includes: **GMAC Mortgage**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Family tree | [Instructions](https://support.ancestry.com/s/article/Family-Tree-Privacy) | [Privacy Philosophy](https://www.ancestry.com/cs/privacyphilosophy)
-| DNA Match   | [Instructions](https://support.ancestry.com/s/article/Choosing-not-to-be-Listed-as-an-AncestryDNA-Match)
-| Research    | [Instructions](https://support.ancestry.com/s/article/AncestryDNA-Research-Project)
+| Shares/sells customer info & transactions with third parties | Call 1–800-204-2197 | [What does Ally do with your personal information?): "we collect and share … [income, account balance and transaction history] … For nonaffiliates to market to you"
 
 
 ### Amazon.com
@@ -203,6 +204,15 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells cardholder info with third parties | [Opt-out](http://www.americanexpress.com/communications) | [Policy](https://www.americanexpress.com/us/legal-disclosures/online-privacy-statement.html#ShareInfo): "We may share Personal Information … with financial institutions or Co-brand Partners with whom we jointly offer or develop products and services"
+
+
+### Ancestry.com
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Family tree | [Instructions](https://support.ancestry.com/s/article/Family-Tree-Privacy) | [Privacy Philosophy](https://www.ancestry.com/cs/privacyphilosophy)
+| DNA Match   | [Instructions](https://support.ancestry.com/s/article/Choosing-not-to-be-Listed-as-an-AncestryDNA-Match)
+| Research    | [Instructions](https://support.ancestry.com/s/article/AncestryDNA-Research-Project)
 
 
 ### Apple

@@ -84,6 +84,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Nature Conservancy](#nature-conservancy) •
 [Netflix](#netflix) •
 [NYTimes](#nytimes) •
+[Omaha Steaks](#omaha-steaks) •
 [OptOutPrescreen.com](#optoutprescreen.com) •
 [PayPal](#paypal) •
 [PeekYou](#peekyou) •
@@ -561,6 +562,13 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells print subscriber info with third parties | Email [privacy@nytimes.com](mailto:privacy@nytimes.com?subject=Shine%20the%20Light%20Opt%20Out) with account and phone number | [Policy](https://www.nytimes.com/subscription/privacy-policy#/privacy): "If you’re a U.S. print subscriber, we may share your name and mailing address (among other information) with other reputable companies…".
+
+
+### Omaha Steaks
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | [Opt-out](https://www.omahasteaks.com/servlet/OnlineShopping?Dsp=5744) | [Policy](https://www.omahasteaks.com/info/Privacy-Policy#c6): "we may share personally identifiable information with unaffiliated third parties … [which] provide goods or services that we believe may be of interest to you"
 
 
 ### OptOutPrescreen.com

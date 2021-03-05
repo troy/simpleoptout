@@ -75,6 +75,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Hoover](#hoover) •
 [Hulu](#hulu) •
 [Hyundai Motors](#hyundai-motors) •
+[InfoTracer](#infotracer) •
 [Instant Checkmate](#instant-checkmate) •
 [InterContinental Hotels](#intercontinental-hotels) •
 [Kroger](#kroger) •
@@ -489,6 +490,13 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Dr. Oz, Elle, Esquire, 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells owner info and car/driving data with third parties | [Opt-out](https://owners.hyundaiusa.com/us/en/contact-us.html) | [Policy](https://www.hyundaiusa.com/us/en/owner-privacy-policy): "We may share certain Covered Information with dealers so that they and we may better respond to your requests, send your relevant and personalized offers and information"
+
+
+### InfoTracer
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://infotracer.com/optout/) |
 
 
 ### Instant Checkmate

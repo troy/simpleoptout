@@ -43,6 +43,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [BeenVerified](#beenverified) •
 [Biden 2020 Campaign](#biden-2020-campaign) •
 [CapitalOne 360](#capitalone-360) •
+[Carlton Farms](#carlton-farms) •
 [Carnival Cruises](#carnival-cruises) •
 [CB2](#cb2) •
 [CenturyLink](#centurylink) •
@@ -224,6 +225,13 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info & transactions with third parties | Call 888-817-2970 | [How your data is shared](https://www.capitalone.com/bank/privacy/)
+
+
+### Carlton Farms
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [info@carltonfarms.com](mailto:info@carltonfarms.com) | [Policy](https://www.carltonfarms.com/privacy-policy/): "we may share personally identifiable information with unaffiliated third parties … [which] provide goods or services that we believe may be of interest to you"
 
 
 ### Carnival Cruises

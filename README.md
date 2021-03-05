@@ -117,6 +117,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Verizon](#verizon) •
 [Visa](#visa) •
 [Vizio](#vizio) •
+[Vox](#vox) •
 [Wells Fargo](#wells-fargo) •
 [Whitepages.com](#whitepages.com) •
 [Whole Foods](#whole-foods) •
@@ -841,6 +842,13 @@ Related: [How can this be?](https://www.forbes.com/sites/adamtanner/2013/07/08/h
 | Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy) - [SmartCast Supplement](https://www.vizio.com/en/terms/smartcast-privacy-policy)
 
 More information: [What Vizio was doing behind the TV screen](https://www.ftc.gov/news-events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
+
+
+### Vox
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells user info with third parties | [Opt-out](https://www.voxmedia.com/contact#donotsell) | [Policy](https://www.voxmedia.com/legal/privacy-notice#our-information-sharing-practice): "we may also share your information (including Personal Data) with third parties for their own direct marketing purposes"
 
 
 ### Wells Fargo

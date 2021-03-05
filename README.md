@@ -66,6 +66,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Gardener's Supply](#gardeners-supply) •
 [Google](#google) •
 [Guitar Center](#guitar-center) •
+[Hanes](#hanes) •
 [HBO](#hbo) •
 [Hearst](#hearst) •
 [Home Depot](#home-depot) •
@@ -420,6 +421,13 @@ Includes: **MusiciansFriend.com**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer postal addresses with third parties | Call 866-498-7882 (Guitar Center) or 1-800-449-9128 (Musician's Friend) | [Policy](https://www.guitarcenter.com/pages/privacy-rights-policy): "may occasionally share its postal mailing list … with other organizations"
+
+
+### Hanes
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [consumer.privacy@hanes.com](mailto:consumer.privacy@hanes.com) | [Policy](https://www.hanes.com/privacy-policy): "Sending catalogs, printed materials, offers and other announcements to postal addresses and allowing our affiliates and other reputable third-party marketers to do the same"
 
 
 ### HBO

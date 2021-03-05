@@ -85,6 +85,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Lexis-Nexis](#lexis-nexis) •
 [LG](#lg) •
 [LinkedIn](#linkedin) •
+[Little League](#little-league) •
 [LiveRamp](#liveramp) •
 [Marriott Hotels](#marriott-hotels) •
 [Mastercard](#mastercard) •
@@ -97,6 +98,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Netflix](#netflix) •
 [NRS](#nrs) •
 [NYTimes](#nytimes) •
+[Office Depot OfficeMax](#office-depot-officemax) •
 [Omaha Steaks](#omaha-steaks) •
 [OptOutPrescreen.com](#optoutprescreen.com) •
 [Oracle Data Cloud](#oracle-data-cloud) •
@@ -539,7 +541,7 @@ Includes: Fred Meyer, Harris Teeter, QFC, Ralphs, [others](https://www.kroger.co
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer purchase history with third parties | Email [KrogerPrivacyOffice@Kroger.com](mailto:KrogerPrivacyOffice@Kroger.com) or call 1-800-576-4377 | [Policy](https://www.kroger.com/i/privacy-policy/how-we-share-information): "We may share your information to develop and provide special services or offers that may interest you."
+| Shares/sells customer info & purchase history with third parties | Email [KrogerPrivacyOffice@Kroger.com](mailto:KrogerPrivacyOffice@Kroger.com) or call 1-800-576-4377 | [Policy](https://www.kroger.com/i/privacy-policy/how-we-share-information): "We may share your information to develop and provide special services or offers that may interest you."
 
 
 ### Kustomer
@@ -584,6 +586,13 @@ More information: [LG Will Take The 'Smart' Out Of Your Smart TV If You Don't Ag
 | Ad targeting     | [Opt-out](https://www.linkedin.com/psettings/advertising)
 
 Also see [Microsoft](#microsoft).
+
+
+### Little League
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares participant info with third parties | Email [Privacy@LittleLeague.org](mailto:Privacy@LittleLeague.org) | [Policy](https://www.littleleague.org/privacy-policy/): "We may share personal information with … organizations that sponsor or associate with Little League to offer information, coupons, special discounts, contests, games, promotions, and special events"
 
 
 ### LiveRamp
@@ -675,6 +684,13 @@ What?       | Opt-out | Details
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells print subscriber info with third parties | Email [privacy@nytimes.com](mailto:privacy@nytimes.com?subject=Shine%20the%20Light%20Opt%20Out) with account and phone number | [Policy](https://www.nytimes.com/subscription/privacy-policy#/privacy): "If you’re a U.S. print subscriber, we may share your name and mailing address (among other information) with other reputable companies…".
+
+
+### Office Depot OfficeMax
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info & purchase history with third parties | Email [mailoptout@officedepot.com](mailto:mailoptout@officedepot.com) | [Policy](https://www.officedepot.com/cm/help/privacy-statement): "We share information [can include purchase history, name, contact information, and more] with our business and marketing partners."
 
 
 ### Omaha Steaks

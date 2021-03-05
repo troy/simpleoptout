@@ -33,6 +33,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [1stdibs](#1stdibs) •
 [23andMe](#23andme) •
 [AAA](#aaa) •
+[Ace Hardware](#ace-hardware) •
 [Adobe](#adobe) •
 [Ancestry.com](#ancestry.com) •
 [Amazon.com](#amazon.com) •
@@ -161,6 +162,13 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells members' info with third parties | Call 888-243-9815 | [Policy](https://wa.aaa.com/general/privacy-notice.html) (varies [by state](https://www.google.com/search?q=site%3Aaaa.com+%22privacy+policy%22))
+
+
+### Ace Hardware
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info & transactions with third parties | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/08fcfb30-e571-44e6-a1de-eb62fe3d7b00/7e4cbc3a-3f48-4d53-9626-84f43245ca3a.html) | [Policy](https://www.acehardware.com/customer-service#mz-cs-top): "We may make your personal information, together with information regarding your preferences, activity, purchases, and demographics, available to affiliates for purposes of conducting marketing activities on behalf of Ace, the affiliates, and/or or any other service providers."
 
 
 ### Adobe

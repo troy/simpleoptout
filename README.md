@@ -55,6 +55,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [CoreLogic](#corelogic) •
 [Crate & Barrel](crate-&-barrel) •
 [Disqus](#disqus) •
+[Edison](#edison) •
 [Facebook](#facebook) •
 [Frontier Communications](#frontier-communications) •
 [Google](#google) •
@@ -315,6 +316,13 @@ Also see [CB2](#cb2).
 | Shares/sells user info with third parties | [Account settings](https://help.disqus.com/en/articles/1717117-how-to-edit-your-data-sharing-settings) or email [privacy@disqus.com](mailto:privacy@disqus.com) | [Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy): "we share certain categories of personal data with third parties for their direct marketing purposes"
 
 Also see [Zeta Global](#zeta-global).
+
+
+### Edison
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares de-identified data for competitive research | [Opt-out] | [Policy](https://www.edison.tech/privacy)
 
 
 ### Facebook

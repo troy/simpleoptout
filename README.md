@@ -64,6 +64,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Hulu](#hulu) •
 [Instant Checkmate](#instant-checkmate) •
 [InterContinental Hotels](#intercontinental-hotels) •
+[Kroger](#kroger) •
 [Kustomer](#kustomer) •
 [LendingClub](#lendingclub) •
 [Lexis-Nexis](#lexis-nexis) •
@@ -111,6 +112,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Vizio](#vizio) •
 [Wells Fargo](#wells-fargo) •
 [Whitepages.com](#whitepages.com) •
+[Whole Foods](#whole-foods) •
 [Wiliams-Sonoma](#williams-sonoma) •
 [Woodcraft](#woodcraft) •
 [Yahoo/Oath](#yahoo/oath) •
@@ -797,6 +799,13 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Reverse lookup entry | [Opt-out](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing-) | Follow both "Removing the listing via our opt-out service" and "How to Remove your Premium Listing."
+
+
+### Whole Foods
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer purchase history with third parties | Email [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com?subject=Opt%20out%20of%20all%20data%20sharing%20and%20marketing&body=California%20Privacy%20Rights%20Request) | [Policy](https://www.wholefoodsmarket.com/site-information/privacy-notice): "we may share Personal Information/Personal Data about you … With our business partners, affiliates and other third parties for purposes of sending their own marketing."
 
 
 ### Williams-Sonoma

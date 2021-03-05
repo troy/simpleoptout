@@ -42,6 +42,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Bank of America](#bank-of-america) •
 [BeenVerified](#beenverified) •
 [Biden 2020 Campaign](#biden-2020-campaign) •
+[Blick Art](#blick-art) •
 [Bose](#bose) •
 [CapitalOne 360](#capitalone-360) •
 [Carlton Farms](#carlton-farms) •
@@ -225,6 +226,13 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells donor info with third parties | Email [privacy@joebiden.com](mailto:privacy@joebiden.com) | [Policy](https://joebiden.com/privacy-policy/): "We may share information about you … With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals"
+
+
+### Blick Art
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | [Opt-out](https://www.dickblick.com/california-privacy-rights/#Opt-Out) or email [privacy@dickblick.com](mailto:privacy@dickblick.com) | [Policy](https://www.dickblick.com/privacy/). "we may rent, exchange, or otherwise share names and mailing addresses with companies offering products or services that we think may be of interest to you"
 
 
 ### Bose

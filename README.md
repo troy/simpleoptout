@@ -58,6 +58,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Edison](#edison) •
 [Facebook](#facebook) •
 [Frontier Communications](#frontier-communications) •
+[Gardener's Supply](#gardeners-supply) •
 [Google](#google) •
 [Guitar Center](#guitar-center) •
 [HBO](#hbo) •
@@ -341,6 +342,13 @@ Includes: **Instagram**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Phone data ("CPNI") sharing | [Opt-out](https://frontier.com/resources/cpni) | [Policy](https://frontier.com/corporate/privacy-policy)
+
+
+### Gardener's Supply
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | [Opt-out](https://www.gardeners.com/forms/consumer-privacy) | [Policy](https://www.gardeners.com/help/privacy-policy#CA). "Gardener’s Supply may exchange, rent or sell certain personal information with third parties"
 
 
 ### Google

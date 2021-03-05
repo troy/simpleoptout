@@ -831,6 +831,15 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | De-identified usage data for reports | [Opt-out](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy#section7-insights) |
 
 
+### TransUnion
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| "TLOxp" data broker | [Opt-out](https://www.transunion.com/optout) | [Policy](https://www.transunion.com/privacy/risk-alternative-data-solutions)
+
+Also see [OptOutPrescreen.com](#optoutprescreen.com).
+
+
 ### TruePeopleSearch
 
 | What?       | Opt-out | Details

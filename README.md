@@ -222,6 +222,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Interest- and location-based ads (iOS, macOS, TV) | [Opt-out](https://support.apple.com/en-us/HT202074)
+| iOS prompt for app tracking | Settings → Privacy → Tracking → disable "Allow Apps to Request to Track" | [More information](https://developer.apple.com/app-store/user-privacy-and-data-use/). Disabling the option is equivalent to answering "No," without ever being prompted.
 
 
 ### AT&T

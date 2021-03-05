@@ -405,6 +405,13 @@ Includes: **Lincoln**
 | Phone data ("CPNI") sharing | [Opt-out](https://frontier.com/resources/cpni) | [Policy](https://frontier.com/corporate/privacy-policy)
 
 
+### Galls
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | Email [help-desk@galls.com](mailto:help-desk@galls.com) or call 1-866-673-7643 | [Policy](https://www.galls.com/pages/privacy): "personally identifiable information you submit to us is generally used to  … providing you promotional information for special offers or our products or for those of our parent company, subsidiaries, or other affiliated companies"
+
+
 ### Gardener's Supply
 
 | What?       | Opt-out | Details

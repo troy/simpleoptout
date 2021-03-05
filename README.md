@@ -107,6 +107,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Southwest Airlines](#southwest-airlines) •
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
+[Staples](#staples) •
 [Taunton Press](#taunton-press) •
 [T-Mobile](#t-mobile) •
 [TruePeopleSearch](#truepeoplesearch) •
@@ -762,6 +763,13 @@ Includes: **SourceForge**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Ad targeting | [Opt-out](http://www.sprint.com/mychoices) and in phone settings | [Policy](https://www.sprint.com/en/legal/sprint-corporation-privacy-policy?INTNAV=Footer:Privacy#infoshare): [Mobile Advertising](https://www.sprint.com/en/legal/sprint-analytics-and-behavioral-marketing.html) supplement
+
+
+### Staples
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | [Opt-out](https://submit-irm.trustarc.com/services/validation/2394f394-3df4-4051-bfa1-50c2cfa45f02) | [Policy](https://www.staples.com/hc?id=dbb94c10-973c-478b-a078-00e58f66ba32#How%20We%20Share%20Your%20Personal%20Information): "We may share your Personal Information with other parties … To notify you of offers for products or services that may be of interest to you."
 
 
 ### Taunton Press

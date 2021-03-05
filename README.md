@@ -62,6 +62,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Disqus](#disqus) •
 [Edison](#edison) •
 [Facebook](#facebook) •
+[Ford](#ford) •
 [Frontier Communications](#frontier-communications) •
 [Gardener's Supply](#gardeners-supply) •
 [Google](#google) •
@@ -385,6 +386,15 @@ Includes: **Instagram**
 | :-          | :-      | :-
 | Privacy settings | [Opt-out](https://www.facebook.com/settings?tab=privacy) and [remove your phone number](https://www.eff.org/deeplinks/2019/03/facebook-doubles-down-misusing-your-phone-number) | [Instructions](https://www.facebook.com/help/193677450678703?helpref=popular_topics). [Policy](https://www.facebook.com/privacy/explanation).
 | Ads and location data | [Opt-out](https://www.facebook.com/about/ads)
+
+
+### Ford
+
+Includes: **Lincoln**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells owner info and car/driving data with third parties | [Opt-out](https://www.ford.com/help/privacy/ccpa/?ccpatype=donotsellmypi) and in FordPass or Lincoln Way apps | [Policy](https://www.ford.com/help/privacy/): "We share information with partners with which we offer co-branded service or engage in joint marketing activities." "
 
 
 ### Frontier Communications

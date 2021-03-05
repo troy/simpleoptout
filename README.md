@@ -5,6 +5,11 @@ title: Deep links to opt-out of data sharing by 100+ companies – Simple Opt O
   body {
     max-width: 1500px;
   }
+
+  sup {
+    color: #ceae31;
+    margin-left: 2px;
+  }
 </style>
 
 
@@ -33,9 +38,9 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [1stdibs](#1stdibs) •
 [23andMe](#23andme) •
 [AAA](#aaa) •
-[Ace Hardware](#ace-hardware) •
+[Ace Hardware](#ace-hardware)<sup>new</sup> •
 [Adobe](#adobe) •
-[Ally](#ally) •
+[Ally](#ally)<sup>new</sup> •
 [Amazon.com](#amazon.com) •
 [American Express](#american-express) •
 [Ancestry.com](#ancestry.com) •
@@ -44,49 +49,49 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Bank of America](#bank-of-america) •
 [BeenVerified](#beenverified) •
 [Biden 2020 Campaign](#biden-2020-campaign) •
-[Blick Art](#blick-art) •
-[Bose](#bose) •
+[Blick Art](#blick-art)<sup>new</sup> •
+[Bose](#bose)<sup>new</sup> •
 [CapitalOne 360](#capitalone-360) •
-[Carlton Farms](#carlton-farms) •
+[Carlton Farms](#carlton-farms)<sup>new</sup> •
 [Carnival Cruises](#carnival-cruises) •
 [CB2](#cb2) •
 [CenturyLink](#centurylink) •
 [Chase](#chase) •
 [Choice Hotels](#choice-hotels) •
-[ChowNow](#chownow) •
+[ChowNow](#chownow)<sup>new</sup> •
 [Comcast Xfinity](#comcast-xfinity) •
-[The Company Store](#the-company-store) •
+[The Company Store](#the-company-store)<sup>new</sup> •
 [Condé Nast](#condé-nast) •
 [Costco](#costco) •
 [CoreLogic](#corelogic) •
 [Crate & Barrel](crate-&-barrel) •
 [Disqus](#disqus) •
-[Edison](#edison) •
+[Edison](#edison)<sup>new</sup> •
 [Facebook](#facebook) •
-[Ford](#ford) •
+[Ford](#ford)<sup>new</sup> •
 [Frontier Communications](#frontier-communications) •
-[Gardener's Supply](#gardeners-supply) •
+[Gardener's Supply](#gardeners-supply)<sup>new</sup> •
 [Google](#google) •
 [Guitar Center](#guitar-center) •
-[Hanes](#hanes) •
+[Hanes](#hanes)<sup>new</sup> •
 [HBO](#hbo) •
 [Hearst](#hearst) •
 [Home Depot](#home-depot) •
-[Honda Motors](#honda-motors) •
-[Hoover](#hoover) •
+[Honda Motors](#honda-motors)<sup>new</sup> •
+[Hoover](#hoover)<sup>new</sup> •
 [Hulu](#hulu) •
-[Hyundai Motors](#hyundai-motors) •
-[InfoTracer](#infotracer) •
+[Hyundai Motors](#hyundai-motors)<sup>new</sup> •
+[InfoTracer](#infotracer)<sup>new</sup> •
 [Instant Checkmate](#instant-checkmate) •
 [InterContinental Hotels](#intercontinental-hotels) •
-[Kroger](#kroger) •
+[Kroger](#kroger)<sup>new</sup> •
 [Kustomer](#kustomer) •
 [LendingClub](#lendingclub) •
 [Lexis-Nexis](#lexis-nexis) •
 [LG](#lg) •
 [LinkedIn](#linkedin) •
-[Little League](#little-league) •
-[LiveRamp](#liveramp) •
+[Little League](#little-league)<sup>new</sup> •
+[LiveRamp](#liveramp)<sup>new</sup> •
 [Marriott Hotels](#marriott-hotels) •
 [Mastercard](#mastercard) •
 [Meredith/Time Inc.](#meredith/time-inc.) •
@@ -96,12 +101,12 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [National Geographic](#national-geographic) •
 [Nature Conservancy](#nature-conservancy) •
 [Netflix](#netflix) •
-[NRS](#nrs) •
+[NRS](#nrs)<sup>new</sup> •
 [NYTimes](#nytimes) •
-[Office Depot OfficeMax](#office-depot-officemax) •
-[Omaha Steaks](#omaha-steaks) •
+[Office Depot OfficeMax](#office-depot-officemax)<sup>new</sup> •
+[Omaha Steaks](#omaha-steaks)<sup>new</sup> •
 [OptOutPrescreen.com](#optoutprescreen.com) •
-[Oracle Data Cloud](#oracle-data-cloud) •
+[Oracle Data Cloud](#oracle-data-cloud)<sup>new</sup> •
 [PayPal](#paypal) •
 [PeekYou](#peekyou) •
 [People Search Now](#people-search-now) •
@@ -121,9 +126,10 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Southwest Airlines](#southwest-airlines) •
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
-[Staples](#staples) •
+[Staples](#staples)<sup>new</sup> •
 [Taunton Press](#taunton-press) •
 [T-Mobile](#t-mobile) •
+[TransUnion](#transunion)<sup>new</sup> •
 [TruePeopleSearch](#truepeoplesearch) •
 [Trump 2020 Campaign](#trump-2020-campaign) •
 [Tuft & Needle](#tuft-&-needle) •
@@ -133,11 +139,11 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Verizon](#verizon) •
 [Visa](#visa) •
 [Vizio](#vizio) •
-[Vox](#vox) •
-[Walmart](#walmart) •
+[Vox](#vox)<sup>new</sup> •
+[Walmart](#walmart)<sup>new</sup> •
 [Wells Fargo](#wells-fargo) •
 [Whitepages.com](#whitepages.com) •
-[Whole Foods](#whole-foods) •
+[Whole Foods](#whole-foods)<sup>new</sup> •
 [Wiliams-Sonoma](#williams-sonoma) •
 [Woodcraft](#woodcraft) •
 [Yahoo/Oath](#yahoo/oath) •

@@ -269,6 +269,13 @@ Includes: **GMAC Mortgage**
 | Collects unnecessary, extremely personal usage data | In Bose Connect Application, "Privacy Policy & Settings" screen | [Policy](https://www.bose.com/en_us/legal/privacy_policy.html) | "If you connect your Bose product (such as headphones or speakers) to the Internet or to a Bose mobile application or software … Usage data, such as time spent using different features/settings of the product, the day and time you used the product, sensor data (e.g. head orientation and movement), button presses, the media and other external sources to which you connect your product, and, as applicable, your product’s power spectrum, sound pressure level, volume levels and streaming information (including content stored on system presets, stations played, playlists, artists, albums, songs or podcasts)"
 
 
+### BizJournals.com
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells subscriber info with third parties | Email [PrivacyPolicyCoordinator@bizjournals.com](mailto:PrivacyPolicyCoordinator@bizjournals.com) | [Policy](https://www.bizjournals.com/privacy#IVC): "we rent, sell, share, and transfer Personal Information to [a giant list that is effectively anyone who will buy it]"
+
+
 ### CapitalOne 360
 
 | What?       | Opt-out | Details

@@ -87,6 +87,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [NYTimes](#nytimes) •
 [Omaha Steaks](#omaha-steaks) •
 [OptOutPrescreen.com](#optoutprescreen.com) •
+[Oracle Data Cloud](#oracle-data-cloud) •
 [PayPal](#paypal) •
 [PeekYou](#peekyou) •
 [People Search Now](#people-search-now) •
@@ -587,6 +588,13 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Unsolicited credit offers | [Opt-out](https://www.optoutprescreen.com/) | Industry organization. 5 year or permanent opt-out.
+
+
+### Oracle Data Cloud
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Aggregates personal information from for ad targeting | [Opt-out](https://datacloudoptout.oracle.com/) | [Policy](https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html). "Offline information about you is obtained by Oracle from its offline partners such as brick-and-mortar retail stores, grocery stores and their associated loyalty card programs, payment card brands, catalog orders and consumer survey programs, and third parties who may not have a relationship with you and collect offline information from their offline partners." (previously BlueKai, Moat, Datalogix, and AddThis)
 
 
 ### PayPal

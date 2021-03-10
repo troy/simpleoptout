@@ -903,7 +903,7 @@ Includes: **SourceForge**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Targeted ads and de-identified usage data for reports | [Opt-out](http://www.sprint.com/mychoices) and in phone settings | [Policy](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy): [Mobile Advertising](https://www.sprint.com/en/legal/sprint-analytics-and-behavioral-marketing.html) supplement
+| Targeted ads and de-identified usage data for reports | [Opt-out](http://www.sprint.com/mychoices) and in phone settings | [Policy](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy): "We use your personal data [including Web browsing history] to … Advertise and market products and services from T‑Mobile and other companies to you, including through targeted advertising." [Advertising addendum](https://www.t-mobile.com/privacy-center/education-and-resources/advertising-analytics).
 
 Also see [T-Mobile](#t-mobile).
 
@@ -929,7 +929,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Marketing preferences | [Opt-out](https://www.t-mobile.com/responsibility/privacy/privacy-choice/marketing-choice) | [Policy: Choices](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy#infochoices)
-| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.t-mobile.com/content/t-mobile/corporate/privacy-center/take-control-of-your-data/modal-dns.html) | [Policy](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy#section7-insights)
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.t-mobile.com/content/t-mobile/corporate/privacy-center/take-control-of-your-data/modal-dns.html) and in phone settings | [Policy](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy): "We use your personal data [including Web browsing history] to … Advertise and market products and services from T‑Mobile and other companies to you, including through targeted advertising." [Advertising addendum](https://www.t-mobile.com/privacy-center/education-and-resources/advertising-analytics).
 
 
 ### TransUnion

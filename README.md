@@ -1087,7 +1087,7 @@ Also see [Verizon](#verizon).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Watch history & search history | [Opt-out](https://www.youtube.com/feed/history) | Pause "Watch History," clear it, repeat for "Search History." If you browse YouTube without logging in, do this while not logged in.
+| Watch history & search history | [Opt-out](https://www.youtube.com/feed/history) | Turn on "Pause Watch History," clear existing history, and repeat for "Pause Search History." If you browse YouTube without logging in, do this while not logged in.
 
 Also see [Google](#google).
 

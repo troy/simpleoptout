@@ -41,11 +41,11 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Ace Hardware](#ace-hardware) •
 [Adobe](#adobe) •
 [Ally](#ally) •
-[Amazon.com](#amazon.com) •
+[Amazon.com](#amazoncom) •
 [American Express](#american-express) •
-[Ancestry.com](#ancestry.com) •
+[Ancestry.com](#ancestrycom) •
 [Apple](#apple) •
-[AT&T](#at&t) •
+[AT&T](#att) •
 [Bank of America](#bank-of-america) •
 [BeenVerified](#beenverified) •
 [Biden 2020 Campaign](#biden-2020-campaign) •
@@ -64,7 +64,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Condé Nast](#condé-nast) •
 [Costco](#costco) •
 [CoreLogic](#corelogic) •
-[Crate & Barrel](crate-&-barrel) •
+[Crate & Barrel](#crate--barrel) •
 [Disqus](#disqus) •
 [Edison](#edison) •
 [Facebook](#facebook) •
@@ -94,7 +94,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [LiveRamp](#liveramp) •
 [Marriott Hotels](#marriott-hotels) •
 [Mastercard](#mastercard) •
-[Meredith/Time Inc.](#meredith/time-inc.) •
+[Meredith/Time Inc.](#meredithtime-inc.) •
 [MetLife](#metlife) •
 [Microsoft](#microsoft) •
 [MindBodyOnline](#mindbodyonline) •
@@ -110,7 +110,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [PayPal](#paypal) •
 [PeekYou](#peekyou) •
 [People Search Now](#people-search-now) •
-[PictureFrames.com](#pictureframes.com) •
+[PictureFrames.com](#pictureframescom) •
 [Pinterest](#pinterest) •
 [Reddit](#reddit) •
 [Retail Equation](#retail-equation) •
@@ -132,7 +132,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [TransUnion](#transunion) •
 [TruePeopleSearch](#truepeoplesearch) •
 [Trump 2020 Campaign](#trump-2020-campaign) •
-[Tuft & Needle](#tuft-&-needle) •
+[Tuft & Needle](#tuft--needle) •
 [Twitter](#twitter) •
 [United Airlines](#united-airlines) •
 [US Postal Service](#us-postal-service) •
@@ -142,11 +142,11 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Vox](#vox) •
 [Walmart](#walmart) •
 [Wells Fargo](#wells-fargo) •
-[Whitepages.com](#whitepages.com) •
+[Whitepages.com](#whitepagescom) •
 [Whole Foods](#whole-foods) •
 [Wiliams-Sonoma](#williams-sonoma) •
 [Woodcraft](#woodcraft) •
-[Yahoo/Oath](#yahoo/oath) •
+[Yahoo/Oath](#yahoooath) •
 [Yelp](#yelp) •
 [YouTube](#youtube) •
 [Zeta Global](#zeta-global)
@@ -310,7 +310,7 @@ Includes: **GMAC Mortgage**
 | Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.cb2.com/customer-service/sellingandsharing-request) | [Policy](https://www.cb2.com/customer-service/privacy-policy): "We share your customer information with other select companies whose products and services you may find useful. This information includes your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline"
 | Postal ads | [Opt-out](https://www.cb2.com/customer-service/opt-out)
 
-Also see [Crate & Barrel](#crate-&-barrel).
+Also see [Crate & Barrel](#crate--barrel).
 
 
 ### CenturyLink

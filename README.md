@@ -38,9 +38,9 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [1stdibs](#1stdibs) •
 [23andMe](#23andme) •
 [AAA](#aaa) •
-[Ace Hardware](#ace-hardware)<sup>new</sup> •
+[Ace Hardware](#ace-hardware) •
 [Adobe](#adobe) •
-[Ally](#ally)<sup>new</sup> •
+[Ally](#ally) •
 [Amazon.com](#amazon.com) •
 [American Express](#american-express) •
 [Ancestry.com](#ancestry.com) •
@@ -49,49 +49,49 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Bank of America](#bank-of-america) •
 [BeenVerified](#beenverified) •
 [Biden 2020 Campaign](#biden-2020-campaign) •
-[Blick Art](#blick-art)<sup>new</sup> •
-[Bose](#bose)<sup>new</sup> •
+[Blick Art](#blick-art) •
+[Bose](#bose) •
 [CapitalOne 360](#capitalone-360) •
-[Carlton Farms](#carlton-farms)<sup>new</sup> •
+[Carlton Farms](#carlton-farms) •
 [Carnival Cruises](#carnival-cruises) •
 [CB2](#cb2) •
 [CenturyLink](#centurylink) •
 [Chase](#chase) •
 [Choice Hotels](#choice-hotels) •
-[ChowNow](#chownow)<sup>new</sup> •
+[ChowNow](#chownow) •
 [Comcast Xfinity](#comcast-xfinity) •
-[The Company Store](#the-company-store)<sup>new</sup> •
+[The Company Store](#the-company-store) •
 [Condé Nast](#condé-nast) •
 [Costco](#costco) •
 [CoreLogic](#corelogic) •
 [Crate & Barrel](crate-&-barrel) •
 [Disqus](#disqus) •
-[Edison](#edison)<sup>new</sup> •
+[Edison](#edison) •
 [Facebook](#facebook) •
-[Ford](#ford)<sup>new</sup> •
+[Ford](#ford) •
 [Frontier Communications](#frontier-communications) •
-[Gardener's Supply](#gardeners-supply)<sup>new</sup> •
+[Gardener's Supply](#gardeners-supply) •
 [Google](#google) •
 [Guitar Center](#guitar-center) •
-[Hanes](#hanes)<sup>new</sup> •
+[Hanes](#hanes) •
 [HBO](#hbo) •
 [Hearst](#hearst) •
 [Home Depot](#home-depot) •
-[Honda Motors](#honda-motors)<sup>new</sup> •
-[Hoover](#hoover)<sup>new</sup> •
+[Honda Motors](#honda-motors) •
+[Hoover](#hoover) •
 [Hulu](#hulu) •
-[Hyundai Motors](#hyundai-motors)<sup>new</sup> •
-[InfoTracer](#infotracer)<sup>new</sup> •
+[Hyundai Motors](#hyundai-motors) •
+[InfoTracer](#infotracer) •
 [Instant Checkmate](#instant-checkmate) •
 [InterContinental Hotels](#intercontinental-hotels) •
-[Kroger](#kroger)<sup>new</sup> •
+[Kroger](#kroger) •
 [Kustomer](#kustomer) •
 [LendingClub](#lendingclub) •
 [Lexis-Nexis](#lexis-nexis) •
 [LG](#lg) •
 [LinkedIn](#linkedin) •
-[Little League](#little-league)<sup>new</sup> •
-[LiveRamp](#liveramp)<sup>new</sup> •
+[Little League](#little-league) •
+[LiveRamp](#liveramp) •
 [Marriott Hotels](#marriott-hotels) •
 [Mastercard](#mastercard) •
 [Meredith/Time Inc.](#meredith/time-inc.) •
@@ -101,12 +101,12 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [National Geographic](#national-geographic) •
 [Nature Conservancy](#nature-conservancy) •
 [Netflix](#netflix) •
-[NRS](#nrs)<sup>new</sup> •
+[NRS](#nrs) •
 [NYTimes](#nytimes) •
-[Office Depot OfficeMax](#office-depot-officemax)<sup>new</sup> •
-[Omaha Steaks](#omaha-steaks)<sup>new</sup> •
+[Office Depot OfficeMax](#office-depot-officemax) •
+[Omaha Steaks](#omaha-steaks) •
 [OptOutPrescreen.com](#optoutprescreen.com) •
-[Oracle Data Cloud](#oracle-data-cloud)<sup>new</sup> •
+[Oracle Data Cloud](#oracle-data-cloud) •
 [PayPal](#paypal) •
 [PeekYou](#peekyou) •
 [People Search Now](#people-search-now) •
@@ -126,10 +126,10 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Southwest Airlines](#southwest-airlines) •
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
-[Staples](#staples)<sup>new</sup> •
+[Staples](#staples) •
 [Taunton Press](#taunton-press) •
 [T-Mobile](#t-mobile) •
-[TransUnion](#transunion)<sup>new</sup> •
+[TransUnion](#transunion) •
 [TruePeopleSearch](#truepeoplesearch) •
 [Trump 2020 Campaign](#trump-2020-campaign) •
 [Tuft & Needle](#tuft-&-needle) •
@@ -139,11 +139,11 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [Verizon](#verizon) •
 [Visa](#visa) •
 [Vizio](#vizio) •
-[Vox](#vox)<sup>new</sup> •
-[Walmart](#walmart)<sup>new</sup> •
+[Vox](#vox) •
+[Walmart](#walmart) •
 [Wells Fargo](#wells-fargo) •
 [Whitepages.com](#whitepages.com) •
-[Whole Foods](#whole-foods)<sup>new</sup> •
+[Whole Foods](#whole-foods) •
 [Wiliams-Sonoma](#williams-sonoma) •
 [Woodcraft](#woodcraft) •
 [Yahoo/Oath](#yahoo/oath) •

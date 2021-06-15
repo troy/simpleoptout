@@ -94,7 +94,7 @@ This site makes it easier to opt out of data sharing by 50+ companies (or [reque
 [LiveRamp](#liveramp) •
 [Marriott Hotels](#marriott-hotels) •
 [Mastercard](#mastercard) •
-[Meredith/Time Inc.](#meredithtime-inc.) •
+[Meredith/Time Inc.](#meredithtime-inc) •
 [MetLife](#metlife) •
 [Microsoft](#microsoft) •
 [MindBodyOnline](#mindbodyonline) •

@@ -638,7 +638,7 @@ Includes: **Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, R
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregated consumer spending reports | [Opt-out](https://www.mastercard.us/en-us/about-mastercard/what-we-do/privacy/data-analytics-opt-out.html) | [Policy](https://www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html#sharePersonalInfo)
+| Aggregated consumer spending reports | [Opt-out](https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy/data-analytics-opt-out.html) | [Policy](https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy.html#sharePersonalInfo)
 
 
 ### Meredith/Time Inc.

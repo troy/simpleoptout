@@ -369,7 +369,7 @@ Magazines: Allure, Architectural Digest, Ars Technica, Backchannel, Bon Appétit
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells members' info with third parties | Opt-out via costco.com support chat, membership counter, 1-800-774-2678, or opt-out checkbox on renewal form | [Policy](https://www.costco.com/privacy-policy.html#sharing): "We may share information about you with companies that offer their products and services for our and their marketing purposes"
+| Shares/sells members' info with third parties | [Opt-out](https://www.costco.com/DNSMIView) or use costco.com support chat, 1-800-774-2678, or checkbox on renewal form | [Policy](https://www.costco.com/privacy-policy.html#disclosure): "We may share information about you with companies that offer their products and services for our and their marketing purposes"
 
 
 ### CoreLogic

@@ -196,7 +196,7 @@ Includes: **GMAC Mortgage**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & transactions with third parties | Call 1–800-204-2197 | [What does Ally do with your personal information?): "we collect and share … [income, account balance and transaction history] … For nonaffiliates to market to you"
+| Shares/sells customer info with third parties | [Opt out](https://www.ally.com/privacy/preferences) | [Policy](https://www.ally.com/privacy/): "we may also share information collected about you with companies … to offer you financial products and services"; "We may share information about you with … nonaffiliates for analysis, market research and marketing purposes"
 
 
 ### Amazon.com
@@ -211,7 +211,7 @@ Includes: **GMAC Mortgage**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells cardholder info with third parties | [Opt-out](http://www.americanexpress.com/communications) | [Policy](https://www.americanexpress.com/us/legal-disclosures/online-privacy-statement.html#ShareInfo): "We may share Personal Information … with financial institutions or Co-brand Partners with whom we jointly offer or develop products and services"
+| Shares/sells cardholder info with third parties | [Opt-out](http://www.americanexpress.com/communications) | [Policy](https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/#privacy-statement): "We may share Personal Information … with financial institutions or Co-brand Partners with whom we jointly offer or develop products and services"
 
 
 ### Ancestry.com
@@ -258,21 +258,21 @@ Includes: **GMAC Mortgage**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells donor info with third parties | Email [privacy@joebiden.com](mailto:privacy@joebiden.com) | [Policy](https://joebiden.com/privacy-policy/): "We may share information about you … With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals"
+| Shares/sells donor info with third parties | Email [privacy@joebiden.com](mailto:privacy@joebiden.com?subject=California%20Privacy%20Rights%20Request) | [Policy](https://joebiden.com/privacy-policy/): "We may share information about you … With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals"
 
 
 ### Blick Art
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | [Opt-out](https://www.dickblick.com/california-privacy-rights/#Opt-Out) or email [privacy@dickblick.com](mailto:privacy@dickblick.com) | [Policy](https://www.dickblick.com/privacy/). "we may rent, exchange, or otherwise share names and mailing addresses with companies offering products or services that we think may be of interest to you"
+| Shares/sells customer info with third parties | [Opt-out](https://www.dickblick.com/california-privacy-rights/#Opt-Out) or email [privacy@dickblick.com](mailto:privacy@dickblick.com) | [Policy](https://www.dickblick.com/privacy/): "we may rent, exchange, or otherwise share names and mailing addresses with companies offering products or services that we think may be of interest to you"
 
 
 ### Bose
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Collects unnecessary, extremely personal usage data | In Bose Connect Application, "Privacy Policy & Settings" screen | [Policy](https://www.bose.com/en_us/legal/privacy_policy.html) | "If you connect your Bose product (such as headphones or speakers) to the Internet or to a Bose mobile application or software … Usage data, such as time spent using different features/settings of the product, the day and time you used the product, sensor data (e.g. head orientation and movement), button presses, the media and other external sources to which you connect your product, and, as applicable, your product’s power spectrum, sound pressure level, volume levels and streaming information (including content stored on system presets, stations played, playlists, artists, albums, songs or podcasts)"
+| Collects unnecessary personal usage data | In Bose Connect Application, "Privacy Policy & Settings" screen | [Policy](https://www.bose.com/en_us/legal/privacy_policy.html)
 
 
 ### BizJournals.com
@@ -338,7 +338,7 @@ Also see [Crate & Barrel](#crate--barrel).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [privacy@chownow.com](mailto:privacy@chownow.com) | [Policy](https://get.chownow.com/privacy-policy): "We may from time to time share Contact Information and/or Other Information with other companies who may provide you information about the products and services they offer"
+| Shares/sells customer info with third parties | [Opt-out](https://chownow-requests.my.onetrust.com/webform/67994022-0d2e-4da4-af0f-30b990afab7a/b16058fc-4ca6-4d7a-a18d-d18b292f7d11) or email [privacy@chownow.com](mailto:privacy@chownow.com) | [Policy](https://get.chownow.com/privacy-policy): "We may from time to time share Contact Information and/or Other Information with other companies who may provide you information about the products and services they offer"
 
 
 ### Comcast Xfinity

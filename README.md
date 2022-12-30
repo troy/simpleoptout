@@ -697,7 +697,7 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 
 ### NRS
 
-What?       | Opt-out | Details
+| What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info with third parties | Email [service@nrs.com](mailto:service@nrs.com) or call 1-877-677-4327 | [Policy](https://www.nrs.com/privacy): "From time to time NRS may share your name with other high-quality companies"
 

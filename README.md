@@ -30,7 +30,7 @@ title: Deep links to opt-out of data sharing by 100+ companies – Simple Opt O
 
 This site makes it easier to opt out of data sharing by 100+ companies (or [request a company](#changes) or see [opt-out tips](#suggestions)). Enjoy!
 
-PS: Everyone should [install uBlock Origin](https://ublockorigin.com/).
+PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin.com/).
 
 <br />
 

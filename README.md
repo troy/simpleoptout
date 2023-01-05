@@ -1151,7 +1151,7 @@ Also see [Verizon](#verizon).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Watch history & search history | [Opt-out](https://www.youtube.com/feed/history) | Turn on "Pause Watch History," clear existing history, and repeat for "Pause Search History." If you browse YouTube without logging in, do this while not logged in.
+| Watch history & search history | [Opt-out](https://www.youtube.com/feed/history) | Turn on "Pause Watch History," clear existing history, and repeat for "Pause Search History." If you browse YouTube without logging in, do this while not logged in. **Note**: Users of content-blockers (uBlock Origin, etc.) may not see the right-most tab and on/off toggles. If using uBlock Origin or another content-blocker, pause it and reload the opt-out page.
 
 Also see [Google](#google).
 

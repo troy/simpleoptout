@@ -103,7 +103,6 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Meta](#meta) •
 [MetLife](#metlife) •
 [Microsoft](#microsoft) •
-[MindBodyOnline](#mindbodyonline) •
 [National Geographic](#national-geographic) •
 [Nature Conservancy](#nature-conservancy) •
 [Netflix](#netflix) •
@@ -578,7 +577,7 @@ Also see: [Disney](#disney).
 | :-          | :-      | :-
 | Ad targeting | [Opt-out](https://www.instagram.com/ads/settings/) | (As of: 2023-01-01)
 
-Also see: [Facebook](#facebook), [Quest](#quest).
+Also see: [Facebook](#facebook).
 
 
 ### InterContinental Hotels
@@ -647,8 +646,7 @@ Also see [Microsoft](#microsoft).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares participant info with third parties | Email [Privacy@LittleLeague.org](mailto:Privacy@LittleLeague.org) | [Policy](https://www.littleleague.org/privacy-policy/): "We may share personal information with … organizations that sponsor or associate with Little League to offer information, coupons, special discounts, contests, games, promotions, and special events"
- (As of: 2023-01-01)
+| Shares participant info with third parties | Email [Privacy@LittleLeague.org](mailto:Privacy@LittleLeague.org) | [Policy](https://www.littleleague.org/privacy-policy/): "We may share personal information with … organizations that sponsor or associate with Little League to offer information, coupons, special discounts, contests, games, promotions, and special events" (As of: 2023-01-01)
 
 
 ### LiveRamp
@@ -664,7 +662,7 @@ Includes: **Bloomingdale's**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & purchase history with third parties | Call 1-888-529-2254 | [Policy](https://www.customerservice-macys.com/app/answers/detail/a_id/595#how%20we%20share%20your%20information): "We may share your information … With Third Parties for Marketing Purposes. This may include third parties whose products or services we believe you may be interested. These third parties may also share your information with others."
+| Shares/sells customer info & purchase history with third parties | Call 1-888-529-2254 | [Policy](https://www.customerservice-macys.com/app/answers/detail/a_id/595#how%20we%20share%20your%20information): "We may share your information … With Third Parties for Marketing Purposes. This may include third parties whose products or services we believe you may be interested. These third parties may also share your information with others." (As of: 2023-01-01)
 
 
 ### Marriott Hotels
@@ -673,14 +671,14 @@ Includes: **Courtyard, Fairfield Inn, Le Meridien, Renaissance, Residence Inn, R
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells guest info to third parties | [Opt-out](https://app.onetrust.com/app/#/webform/e4eef8ab-3071-4679-a374-5847fbe290de); [California residents](https://www.marriott.com/about/ccpa/do-not-sell.mi))| [Policy](https://www.marriott.com/about/privacy.mi): "We disclose Personal Data and Other Data with select Strategic Business Partners who provide goods, services and offers … that we believe will be of interest to you."
+| Shares/sells guest info to third parties | [Opt-out](https://www.marriott.com/about/ccpa/do-not-sell.mi) | [Policy](https://www.marriott.com/about/privacy.mi): "we may share Personal Data and Other Data" … "We partner with third parties who may provide promotions to you, such as sweepstakes, contests, or other offers." (As of: 2023-01-01)
 
 
 ### Mastercard
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregated consumer spending reports | [Opt-out](https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy/data-analytics-opt-out.html) | [Policy](https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy.html#sharePersonalInfo)
+| Aggregated consumer spending reports | [Opt-out](https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy/data-analytics-opt-out.html) | [Policy](https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy.html#sharePersonalInfo) (As of: 2023-01-01)
 
 
 ### Meredith/Time Inc.
@@ -689,7 +687,7 @@ Magazines: Allrecipes, American Baby, American Patchwork, Better Homes and Garde
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells subscriber info with third parties | Complete both [opt-out](http://www.meredith.com/offlinePrivacy.html) and [opt-out](https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/424d0d20-a84d-41ed-9a27-379d31f2551d.html) | [Policy](https://www.meredith.com/legal/privacy): "Some of our Brands share your personal information with third parties who we allow to use that information for their own commercial purposes."
+| Shares/sells subscriber info with third parties | Complete both [opt-out](http://www.meredith.com/offlinePrivacy.html) and [opt-out](https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/424d0d20-a84d-41ed-9a27-379d31f2551d.html) | [Policy](https://www.meredith.com/legal/privacy): "We may share information with third parties with whom we partner to provide contests, surveys, and sweepstakes, or other joint promotional activities." (As of: 2023-01-01)
 
 
 ### Meta
@@ -701,73 +699,70 @@ See [Facebook](#facebook), [Instagram](#instagram), and [Quest](#quest).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares customer info | [Opt-out](https://www.metlife.com/about-us/privacy-policy/opting-out/online-opt-out/) | [Policy](https://www.metlife.com/about-us/privacy-policy/opting-out/)
+| Shares customer info | [Opt-out](https://www.metlife.com/about-us/privacy-policy/opting-out/online-opt-out/) | [Policy](https://www.metlife.com/about-us/privacy-policy/opting-out/) (As of: 2023-01-01)
 
 
 ### Microsoft
 
-**Includes visitors who are not logged in to a Microsoft account.**
+Includes: **Windows, Skype, Xbox, and visitors who are not logged in to a Microsoft account.**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Ads, browsing data, and services | [Opt-out](https://account.microsoft.com/privacy) | Sites covers Xbox, Skype, Office, Bing. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/).
+| Ads, browsing data, and services | [Opt-out](https://account.microsoft.com/account/privacy) | Covers Xbox, Skype, Office, Bing and more. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/). (As of: 2023-01-01)
 
-
-### MindBodyOnline
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares user data with third parties | Email [privacy@mindbodyonline.com](mailto:privacy@mindbodyonline.com?subject=Opt%20out%20of%20data%20sharing%20for%20marketing) | [Policy](https://company.mindbodyonline.com/legal/privacy-policy): "We may disclose your Personal Information … To third parties to permit them (or their own customers) to send you marketing communications, consistent with your choices. "
+Also see: [LinkedIn](#linkedin).
 
 
 ### National Geographic
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells user data with third parties (NGP) | [Opt-out](https://help.nationalgeographic.com/s/dataprivacyform) | [Policy](https://www.nationalgeographic.com/legal/privacy/#access): "National Geographic Partners will disclose your personal information … with our business partners, such as travel operators."
-| Shares/sells user data with third parties (NGS) | Email [dataprivacy@ngs.org](mailto:dataprivacy@ngs.org?subject=Opt%20out%20of%20data%20sharing%20and%20marketing;%20request%20for%20personal%20data) | [Policy](https://www.nationalgeographic.com/legal/privacy/#disclosure): "Your information may be shared with selected third parties so that they may send you promotional materials about goods and services that they offer."
+| Shares/sells user data with third parties (NG Partners/Disney) | [Opt-out](https://privacy.thewaltdisneycompany.com/en/dnsmi/) | [Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/) (As of: 2023-01-01)
+| Shares/sells user data with third parties (NG Society) | Email [dataprivacy@ngs.org](mailto:dataprivacy@ngs.org?subject=Opt%20out%20of%20data%20sharing%20and%20marketing;%20request%20for%20personal%20data) | [Policy](https://www.nationalgeographic.org/privacy-notice/): "Your information may be shared with selected third parties so that they may send you promotional materials about goods and services that they offer." (As of: 2023-01-01)
+
+Also see: [Disney](#disney).
 
 
 ### Nature Conservancy
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells donor data with third parties | Email [member@tnc.org](mailto:member@tnc.org) or call 1-800-628-6860 | [Policy](https://www.nature.org/en-us/about-us/who-we-are/accountability/privacy-policy/): "for the purpose of renting or exchanging with unaffiliated third party organizations for their own uses"
+| Shares/sells donor data with third parties | Email [member@tnc.org](mailto:member@tnc.org) or call 1-800-628-6860 | [Policy](https://www.nature.org/en-us/about-us/who-we-are/accountability/privacy-policy/): "for the purpose of renting or exchanging with unaffiliated third party organizations for their own uses" (As of: 2023-01-01)
 
 
 ### Netflix
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Disable "Matched Identifier Communications" | [Opt-out](https://www.netflix.com/MarketingCommunications) | Also see [Account](https://www.netflix.com/YourAccount). [Policy](https://help.netflix.com/legal/privacy).
+| Disable "Matched Identifier Communications" | [Opt-out](https://www.netflix.com/MarketingCommunications) | Also see [Instructions](https://help.netflix.com/legal/dnsspi). [Policy](https://help.netflix.com/legal/privacy). (As of: 2023-01-01)
 
 
 ### NRS
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [service@nrs.com](mailto:service@nrs.com) or call 1-877-677-4327 | [Policy](https://www.nrs.com/privacy): "From time to time NRS may share your name with other high-quality companies"
+| Shares/sells customer info with third parties | Email [service@nrs.com](mailto:service@nrs.com) or call 1-877-677-4327 | [Policy](https://www.nrs.com/privacy): "From time to time NRS may share your name with other high-quality companies" (As of: 2023-01-01)
 
 
 ### NYTimes
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells print subscriber info with third parties | Email [privacy@nytimes.com](mailto:privacy@nytimes.com?subject=Shine%20the%20Light%20Opt%20Out) with account and phone number | [Policy](https://www.nytimes.com/subscription/privacy-policy#/privacy): "If you’re a U.S. print subscriber, we may share your name and mailing address (among other information) with other reputable companies…".
+| Shares/sells print subscriber info with third parties | Online account: Account → Settings → About This App  → Do Not Sell/Share My Information, or email [privacy@nytimes.com](mailto:privacy@nytimes.com?subject=California%20Resident%20-%20Do%20Not%20Sell%20or%20Share) with account and phone number or call 1-800-NYTIMES | [Policy](https://help.nytimes.com/hc/en-us/articles/10940941449492): "If you’re a U.S. print subscriber, we may provide your name and mailing address (among other information) to other reputable companies…". (As of: 2023-01-01)
 
 
 ### Office Depot OfficeMax
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & purchase history with third parties | Email [mailoptout@officedepot.com](mailto:mailoptout@officedepot.com) | [Policy](https://www.officedepot.com/cm/help/privacy-statement): "We share information [can include purchase history, name, contact information, and more] with our business and marketing partners."
+| Shares/sells customer info & purchase history with third parties | Email [mailoptout@officedepot.com](mailto:mailoptout@officedepot.com) or call 1-800-915-4624 | [Policy](https://www.officedepot.com/l/help/privacy-statement): "We share information [can include purchase history, name, contact information, and more] with our business and marketing partners." (As of: 2023-01-01)
 
 
 ### Omaha Steaks
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | [Opt-out](https://www.omahasteaks.com/servlet/OnlineShopping?Dsp=5744) | [Policy](https://www.omahasteaks.com/info/Privacy-Policy#c6): "we may share personally identifiable information with unaffiliated third parties … [which] provide goods or services that we believe may be of interest to you"
+| Shares/sells customer info with third parties | [Opt-out](https://www.omahasteaks.com/servlet/OnlineShopping?Dsp=5744) | [Policy](https://www.omahasteaks.com/info/Privacy-Policy#c6): "We may sell your Personal Information to third parties who are not our Service Providers" (As of: 2023-01-01)
 
 
 ### OptOutPrescreen.com
@@ -776,7 +771,7 @@ Unsolicited credit offers from: **Equifax**, **Experian**, **Innovis**, **TransU
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Unsolicited credit offers | [Opt-out](https://www.optoutprescreen.com/) | Industry organization. 5 year or permanent opt-out.
+| Unsolicited credit offers | [Opt-out](https://www.optoutprescreen.com/) | Industry organization. 5 year or permanent opt-out. (As of: 2023-01-01)
 
 Also see: [Direct Marketing Association](#direct-marketing-association).
 
@@ -785,21 +780,21 @@ Also see: [Direct Marketing Association](#direct-marketing-association).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregates personal information from for ad targeting | [Opt-out](https://datacloudoptout.oracle.com/) | [Policy](https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html). "Offline information about you is obtained by Oracle from its offline partners such as brick-and-mortar retail stores, grocery stores and their associated loyalty card programs, payment card brands, catalog orders and consumer survey programs, and third parties who may not have a relationship with you and collect offline information from their offline partners." (previously BlueKai, Moat, Datalogix, and AddThis)
+| Aggregates personal information for ad targeting | [Opt-out](https://datacloudoptout.oracle.com/optout) (scroll down to form) | [Policy](https://www.oracle.com/legal/privacy/advertising-privacy-policy.html). "Offline information about you is obtained by Oracle from its offline partners such as brick-and-mortar retail stores, grocery stores and their associated loyalty card programs, payment card brands, catalog orders and consumer survey programs, and third parties who may not have a relationship with you and collect offline information from their offline partners." (previously BlueKai, Moat, Datalogix, and AddThis) (As of: 2023-01-01)
 
 
 ### PayPal
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Data sharing with third parties | Cannot opt out | [Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full#05) (in "Consumer Privacy Notice"): Data is shared "For joint marketing with other financial companies" and/or "For our affiliates’ everyday business purposes"
+| Data sharing with third parties | Cannot opt out | [Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full#05) (in "Consumer Privacy Notice"): Data is shared "For joint marketing with other financial companies" and/or "For our affiliates’ everyday business purposes" (As of: 2023-01-01)
 
 
 ### PeekYou
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Reverse lookup entry | [Opt-out](https://www.peekyou.com/about/contact/optout/) |
+| Reverse lookup entry | [Opt-out](https://www.peekyou.com/about/contact/optout/) | (As of: 2023-01-01)
 
 
 ### PeopleConnect
@@ -815,47 +810,47 @@ Includes: Instant Checkmate, Intelius, TruthFinder, US Search ([source](https://
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Reverse lookup entry | [Opt-out](https://www.peoplesearchnow.com/opt-out) |
+| Reverse lookup entry | [Opt-out](https://www.peoplesearchnow.com/opt-out) | (As of: 2023-01-01)
 
 
 ### PictureFrames.com
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & purchase history with third parties | Call 1-800-332-8884 | [Policy](https://www.pictureframes.com/customer-care/privacy-policy): Your information, including "information about your order(s)," "may also be shared with other marketers to bring you offers of interest"
+| Shares/sells customer info & purchase history with third parties | Call 1-800-332-8884 | [Policy](https://www.pictureframes.com/customer-care/privacy-policy): Your information, including "information about your order(s)," "may also be shared with other marketers to bring you offers of interest" (As of: 2023-01-01)
 
 
 ### Pinterest
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy#section-how-and-when-we-share-information).
+| Personalization | [Opt-out](https://www.pinterest.com/settings/privacy) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy#section-how-and-when-we-share-information). (As of: 2023-01-01)
 
 
 ### Prosper
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Account settings → “Communication Preferences" → disable "Optional Information Sharing" or email [privacy@prosper.com](mailto:privacy@prosper.com) | [Policy](https://www.prosper.com/plp/legal/privacy-policy/) ("Federal Privacy Notice"). Includes SSN, income, account balances, transaction history, credit scores, and employment information
+| Shares/sells customer info with third parties | Account settings → “Communication Preferences" → disable "Optional Information Sharing" or email [privacy@prosper.com](mailto:privacy@prosper.com) | [Policy](https://www.prosper.com/plp/legal/privacy-policy/) ("Federal Privacy Notice"). Includes SSN, income, account balances, transaction history, credit scores, and employment information. (As of: 2023-01-01)
 
 
 ### Quest
 
-Also see: [Facebook](#facebook), [Instagram](#instagram).
+See [Facebook](#facebook).
 
 
 ### Reddit
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Ad personalization | [Opt-out](https://www.reddit.com/personalization) | [Policy](https://www.redditinc.com/policies/privacy-policy#text-content5)
+| Ad personalization | [Opt-out](https://www.reddit.com/personalization) | [Policy](https://www.redditinc.com/policies/privacy-policy) (As of: 2023-01-01)
 
 
 ### Retail Equation
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregates information from retailers about returned products | To obtain or request deletion of your data, email [returnactivityreport@theretailequation.com](mailto:returnactivityreport@theretailequation.com) | [Policy](https://www.theretailequation.com/privacy-policy-us-canada/#types-of-data)
+| Aggregates information from retailers about returned products | To obtain or request deletion of your data, email [privacy@theretailequation.com](mailto:privacy@theretailequation.com) | [Policy](https://www.theretailequation.com/privacy-policy-us-canada/) (As of: 2023-01-01)
 
 Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
 
@@ -864,42 +859,32 @@ Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/busi
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregates customer information from retailers | To obtain or request deletion of your data, email [support@riskified.com](mailto:support@riskified.com) | [Policy](https://www.riskified.com/privacy/)
+| Aggregates customer information from retailers | To obtain or request deletion of your data, email [support@riskified.com](mailto:support@riskified.com) | [Policy](https://www.riskified.com/terms/#privacy) (As of: 2023-01-01)
 
 Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
-
 
 
 ### Rockler
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [orders@rockler.com](mailto:orders@rockler.com) with your postal address | [Policy](https://www.rockler.com/privacy-policy): "Occasionally, we make a portion of our mailing list available to respectable organizations that may interest our customers"
+| Shares/sells customer info with third parties | [Opt-out](https://www.rockler.com/do-not-sell-ca) or email [privacy@rockler.com](mailto:privacy@rockler.com) | [Policy](https://www.rockler.com/privacy-policy): "Your Personal Information may also be shared with our sponsors, partners, advertisers, … or other third parties in connection with marketing, promotional, and other offers, as well as product information." (As of: 2023-01-01)
 
 
 ### Roku
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Analysis of what you're watching, ad targeting based on what you watched, and sharing de-identified viewing history | Opt-out in device (Settings > Privacy menu) | [Policy](https://docs.roku.com/published/userprivacypolicy/en/us)
+| Analysis of what you're watching, ad targeting based on what you watched, and sharing de-identified viewing history | Opt-out on Roku device (Settings → Privacy menu) | [Policy](https://docs.roku.com/published/userprivacypolicy/en/us) (As of: 2023-01-01)
 
 More information: [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/) and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
-
-
-### Roomba (iRobot)
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares/sells customer info with third parties | None; don't buy the product | [Policy](https://www.irobot.com/legal/privacy-policy): "We may share your personal information… with selected third parties who we think may offer you products or services you may enjoy"
-
-* "You may contact us at [global.irobot.com](https://global.irobot.com/) to request your personal information be deleted from our systems", but no ongoing opt-out is available.
 
 
 ### Samsung
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| TV: Analysis of what you're watching, ad targeting based on what you watched, and sharing de-identified viewing history | Menu > Support > Terms & Policy or Menu > Smart Hub > Terms & Policy, and submit [California Do Not Sell, access, and deletion requests](https://www.samsung.com/us/privacy/ccpa) | [Policy](https://www.samsung.com/us/account/privacy-policy/) (excerpted below)
+| TV: Analysis of what you're watching, ad targeting based on what you watched, and sharing de-identified viewing history | Menu → Support → Terms & Policy or Menu → Smart Hub → Terms & Policy, and submit [CCPA request](https://www.samsung.com/us/privacy/ccpa) | [Policy](https://www.samsung.com/us/account/privacy-policy/) (excerpted below)
 | Phones & TVs: Activity tracking & ad personalization | See Policy | [Policy](https://www.samsung.com/us/account/privacy-policy/samsungads/)
 
 * Televisions: "the IBA Service will collect information about your TV viewing history (including information about the networks, channels, websites visited and programs viewed on your Samsung Smart TV and the amount of time spent viewing them) and Samsung Smart TV usage information (such as how long and often you use the apps on your Smart TV). We may use automatic content recognition (ACR) and other technologies to capture your TV viewing history. We also may obtain other behavioral and demographic data from trusted third-party data sources." "We may share your personal information with … business partners" - [Policy](https://www.samsung.com/us/account/privacy-policy/) (which contains multiple policies concatenated into one page - scroll to "Smart TV Supplement").
@@ -1115,7 +1100,7 @@ Includes: **Hayneedle, Jet.com, Moosejaw, Sam's Club**
 
 ### Williams-Sonoma
 
-Includes **Pottery Barn, West Elm, Rejuvenation**
+Includes: **Pottery Barn, West Elm, Rejuvenation**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-

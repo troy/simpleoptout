@@ -47,7 +47,7 @@ PS: Everyone should [install uBlock Origin](https://ublockorigin.com/).
 [American Express](#american-express) •
 [Ancestry.com](#ancestrycom) •
 **[Apple](#apple)** •
-[AT&T](#att) •
+**[AT&T](#att)** •
 [Bank of America](#bank-of-america) •
 [BeenVerified](#beenverified) •
 [Biden Campaign](#biden-campaign) •
@@ -111,7 +111,7 @@ PS: Everyone should [install uBlock Origin](https://ublockorigin.com/).
 [NYTimes](#nytimes) •
 [Office Depot OfficeMax](#office-depot-officemax) •
 [Omaha Steaks](#omaha-steaks) •
-**[OptOutPrescreen.com](#optoutprescreen.com)** •
+**[OptOutPrescreen.com](#optoutprescreencom)** •
 [Oracle Data Cloud](#oracle-data-cloud) •
 [PayPal](#paypal) •
 [PeekYou](#peekyou) •
@@ -136,7 +136,7 @@ PS: Everyone should [install uBlock Origin](https://ublockorigin.com/).
 [Sprint](#sprint) •
 [Staples](#staples) •
 [Taunton Press](#taunton-press) •
-[T-Mobile](#t-mobile) •
+**[T-Mobile](#t-mobile)** •
 [TransUnion](#transunion) •
 [TruePeopleSearch](#truepeoplesearch) •
 [Trump Campaign](#trump-campaign) •
@@ -144,7 +144,7 @@ PS: Everyone should [install uBlock Origin](https://ublockorigin.com/).
 [Twitter](#twitter) •
 [United Airlines](#united-airlines) •
 [US Postal Service](#us-postal-service) •
-[Verizon](#verizon) •
+**[Verizon](#verizon)** •
 [Visa](#visa) •
 [Vizio](#vizio) •
 [Vox](#vox) •
@@ -407,7 +407,7 @@ Includes: Many postal mail marketers ([details](https://www.dmachoice.org/static
 | :-          | :-      | :-
 | Postal mail ads | [Opt-out](https://www.dmachoice.org/) |
 
-Also see: [OptOutPrescreen.com](#optoutprescreen.com).
+Also see: [OptOutPrescreen.com](#optoutprescreencom).
 
 
 ### Disney
@@ -441,7 +441,7 @@ Also see [Zeta Global](#zeta-global).
 | :-          | :-      | :-
 | Data sharing | [Opt-out](https://myprivacy.equifax.com/opt-in-opt-out/personal-info) | [Instructions](https://www.equifax.com/personal/my-privacy/) (As of: 2023-01-01)
 
-Also see [OptOutPrescreen.com](#optoutprescreen.com).
+Also see [OptOutPrescreen.com](#optoutprescreencom).
 
 
 ### Facebook
@@ -829,7 +829,7 @@ Includes: Instant Checkmate, Intelius, TruthFinder, US Search ([source](https://
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy#section-how-and-when-we-share-information):
+| Personalization | [Opt-out](https://www.pinterest.com/settings/) | Based on purchases and cross-site requests (part of [Profile](https://www.pinterest.com/me/)). [Policy](https://policy.pinterest.com/en/privacy-policy#section-how-and-when-we-share-information).
 
 
 ### Prosper
@@ -1001,7 +1001,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | :-          | :-      | :-
 | "TLOxp" data broker | [Opt-out](https://www.transunion.com/optout) | [Policy](https://www.transunion.com/privacy/risk-alternative-data-solutions)
 
-Also see [OptOutPrescreen.com](#optoutprescreen.com).
+Also see [OptOutPrescreen.com](#optoutprescreencom).
 
 
 ### TruePeopleSearch

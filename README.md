@@ -352,9 +352,9 @@ Also see [Crate & Barrel](#crate--barrel).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Targeted cable ads, more | [Opt-out](https://www.xfinity.com/privacy/opt-out) | [Policy: Your choices](https://www.xfinity.com/privacy/your-privacy-choices) (As of: 2023-01-01)
-| Audience measurement and more | [Opt-out](https://www.xfinity.com/privacy/requests/choice)
-| Voice phone customers (CPNI) | Call 1-800-COMCAST or online chat and ask to opt out of CPNI sharing
+| Targeted cable ads, more        | [Opt-out](https://www.xfinity.com/privacy/opt-out) | [Policy: Your choices](https://www.xfinity.com/privacy/your-privacy-choices) (As of: 2023-01-01)
+| Audience measurement and more   | [Opt-out](https://www.xfinity.com/privacy/requests/choice)
+| Voice phone call data ("CPNI")  | Call 1-800-COMCAST or online chat and ask to opt out of CPNI sharing
 | Postal mail ads and sales calls | [Opt-out](https://pc2.mypreferences.com/Comcast/OptOut/)
 
 

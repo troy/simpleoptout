@@ -125,7 +125,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Rockler](#rockler) •
 [Roku](#roku) •
 [Roomba (iRobot)](#roomba-%28irobot%29) •
-[Samsung](#samsung) •
+**[Samsung](#samsung)** •
 [Saatchi Art](#saatchi-art) •
 [Seattle Art Museum](#seattle-art-museum) •
 [Seattle Times](#seattle-times) •

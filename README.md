@@ -125,10 +125,11 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Rockler](#rockler) •
 [Roku](#roku) •
 [Roomba (iRobot)](#roomba-%28irobot%29) •
-**[Samsung](#samsung)** •
 [Saatchi Art](#saatchi-art) •
+**[Samsung](#samsung)** •
 [Seattle Art Museum](#seattle-art-museum) •
 [Seattle Times](#seattle-times) •
+[Sift Science](#sift-science) •
 [Slashdot Media](#slashdot-media) •
 [Southwest Airlines](#southwest-airlines) •
 [Spokeo](#spokeo) •
@@ -880,46 +881,48 @@ Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/busi
 More information: [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/) and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
 
-### Samsung
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| TV: Analysis of what you're watching, ad targeting based on what you watched, and sharing de-identified viewing history | Menu → Support → Terms & Policy or Menu → Smart Hub → Terms & Policy, and submit [CCPA request](https://www.samsung.com/us/privacy/ccpa) | [Policy](https://www.samsung.com/us/account/privacy-policy/) (excerpted below)
-| Phones & TVs: Activity tracking & ad personalization | See Policy | [Policy](https://www.samsung.com/us/account/privacy-policy/samsungads/)
-
-* Televisions: "the IBA Service will collect information about your TV viewing history (including information about the networks, channels, websites visited and programs viewed on your Samsung Smart TV and the amount of time spent viewing them) and Samsung Smart TV usage information (such as how long and often you use the apps on your Smart TV). We may use automatic content recognition (ACR) and other technologies to capture your TV viewing history. We also may obtain other behavioral and demographic data from trusted third-party data sources." "We may share your personal information with … business partners" - [Policy](https://www.samsung.com/us/account/privacy-policy/) (which contains multiple policies concatenated into one page - scroll to "Smart TV Supplement").
-* "You may, at any time, disable the Customization Service via the "Customization Service" option in the Settings menu of your Samsung Account" (or app/device), as well as [account.samsung.com](https://account.samsung.com)
-* Basically, read every setting or menu choice on any Samsung device you own. [Policy](https://www.samsung.com/us/account/privacy-policy/) is distinctly less customer-friendly than its peer companies. If it can be retained and shared, it probably is.
-
-More information: [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/) and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
-
-
 ### Saatchi Art
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & purchase history with third parties | Email [legal@leafgroup.com](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes"
+| Shares/sells customer info & purchase history with third parties | Email [legal@leafgroup.com](mailto:legal@leafgroup.com) | [Policy](https://www.saatchiart.com/privacy): "we may disclose… name, mailing address [and purchase history] to marketing companies for trade or rental purposes" (As of: 2023-01-01)
+
+
+### Samsung
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| **All customers**: Data collection &amp; targeting across devices | [Opt-out](https://account.samsung.com/) → Personal information settings → disable "Customization Service" and also submit [Opt-out](https://www.samsung.com/us/privacy/ccpa/) | [Policy](https://www.samsung.com/us/account/customization-service/) (see "Your Rights and Choices") (As of: 2023-01-01)
+| TVs: Analysis of what you're watching, ad targeting based on what you watched, and much more | On TV: Menu → Support → Terms & Policy or Menu → Smart Hub → Terms & Policy, then disable "Interest Based Advertisements" | [Policy](https://www.samsung.com/us/account/privacy-policy/samsungads/) (see "Your Choices")
+| Phones: Collection of installed apps, demographics, and more | On Phone: Settings → Accounts and backup → Accounts → Samsung account → Privacy → Customization Service → disable "Customized ads and direct marketing" | [Policy](https://www.samsung.com/us/account/privacy-policy/samsungads/) (see "Your Choices")
+| Phones: Ad targeting based on activity | On Phone: Settings → Google → Ads → enable "Opt out of Ads Personalization" | [Policy](https://www.samsung.com/us/account/privacy-policy/samsungads/) (see "Your Choices")
+
+* Television policy: "if you are a Samsung Smart TV user who has opted in to both Viewing Information Services and Interest-Based Advertising, [Samsung collects, analyzes, and targets ads based on] TV viewership data (e.g., information about the networks, channels and websites visited, programs viewed, and amount of time spent viewing Smart TV content)."
+
+More information: [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/) and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
 
 ### Seattle Art Museum
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/trades customer info with third parties | Email [membership@seattleartmuseum.org](mailto:membership@seattleartmuseum.org) | [Policy](http://www.seattleartmuseum.org/about-sam/privacy-policy#use): "we occasionally trade our membership mailing list with sister arts organizations"
+| Shares/trades customer info with third parties | Email [membership@seattleartmuseum.org](mailto:membership@seattleartmuseum.org) | [Policy](http://www.seattleartmuseum.org/about-sam/privacy-policy#use): "we occasionally trade our membership mailing list with sister arts organizations" (As of: 2023-01-01)
 
 
 ### Seattle Times
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://www.seattletimes.com/notices/privacy.html): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in."
+| Shares/sells customer info with third parties | Email [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) | [Policy](https://www.seattletimes.com/notices/privacy.html): "We may share your Personal Information with our business partners or co-marketers … [or] third parties that provide products and services that we think you may be interested in." (As of: 2023-01-01)
 
 
-### Sift
+### Sift Science
+
+Customers include: ChowNow, Creative Market, Coffee Meets Bagel, DoorDash, Harry's, Hello Fresh, Patreon, Poshmark, Remitly, Rently, Skillshare, Shippo, Stackcommerce, Turo, Wanelo, Zoosk ([more](https://resources.sift.com/case-studies/)).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Aggregates information from retailers about customers | To obtain or request deletion of your data, email [privacy@sift.com](mailto:privacy@privacy@sift.com) | [Policy](https://sift.com/service-privacy#access-review)
+| Aggregates information from retailers about customers | [Opt-out](https://pages.sift.com/cpra-opt-out.html) | [Policy](https://sift.com/service-privacy#info-we-collect) (As of: 2023-01-01)
 
 Related: [How retailers score customers](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html)
 
@@ -930,37 +933,33 @@ Includes: **SourceForge**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells user info with third parties | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/611e70e2-1994-43ff-b07b-646df870db4b/c1c0acac-ab24-4dac-b3e6-43421a684626.html) | [Policy](https://slashdotmedia.com/privacy-statement/#C): "We may also share your Personal Information with our advertisers, vendors, and customers, including data profiling companies, business-to-business lead buyers, and data aggregation companies"
+| Shares/sells user info with third parties | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/611e70e2-1994-43ff-b07b-646df870db4b/c1c0acac-ab24-4dac-b3e6-43421a684626.html) | [Policy](https://slashdotmedia.com/privacy-statement/#C): "We may also share your Personal Information with our advertisers, vendors, and customers, including data profiling companies, business-to-business lead buyers, and data aggregation companies" (As of: 2023-01-01)
 
 
 ### Southwest Airlines
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells passenger information with third parties | [Opt-out](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_OptOut) | [Policy](https://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html#Sharing_of_Information): "We may also share information about you … With our business partners, affiliates and other third parties for purposes of sending their own marketing."
+| Shares/sells passenger information with third parties | [Opt-out](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_OptOut?clk=3873092&cbid=3873092) | [Policy](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/#Sharing-of-Information): "We may also share information about you … With our business partners, affiliates and other third parties for purposes of sending their own marketing." (As of: 2023-01-01)
 
 
 ### Spokeo
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Reverse lookup entry | [Opt-out](https://www.spokeo.com/optout)
+| Reverse lookup entry | [Opt-out](https://www.spokeo.com/optout) | (As of: 2023-01-01)
 
 
 ### Sprint
 
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Targeted ads and de-identified usage data for reports | [Opt-out](http://www.sprint.com/mychoices) and in phone settings | [Policy](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy): "We use your personal data [including Web browsing history] to … Advertise and market products and services from T‑Mobile and other companies to you, including through targeted advertising." [Advertising addendum](https://www.t-mobile.com/privacy-center/education-and-resources/advertising-analytics).
-
-Also see [T-Mobile](#t-mobile).
+See [T-Mobile](#t-mobile).
 
 
 ### Staples
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | [Opt-out](https://submit-irm.trustarc.com/services/validation/2394f394-3df4-4051-bfa1-50c2cfa45f02) | [Policy](https://www.staples.com/hc?id=dbb94c10-973c-478b-a078-00e58f66ba32#How%20We%20Share%20Your%20Personal%20Information): "We may share your Personal Information with other parties … To notify you of offers for products or services that may be of interest to you."
+| Shares personal information with ad networks | [Opt-out](https://submit-irm.trustarc.com/services/validation/2394f394-3df4-4051-bfa1-50c2cfa45f02) | [Policy](https://www.staples.com/hc?id=dbb94c10-973c-478b-a078-00e58f66ba32): "We may also use your activity on websites/applications to serve you personalized advertising in order to show you content that is more likely to be of interest to you." Policy has improved since 2021. (As of: 2023-01-01)
 
 
 ### Taunton Press
@@ -976,7 +975,11 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Marketing preferences | [Opt-out](https://www.t-mobile.com/responsibility/privacy/privacy-choice/marketing-choice) | [Policy: Choices](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy#infochoices)
+| Targeted ads and de-identified usage data for reports | In [Privacy Dashboard](https://www.t-mobile.com/privacy-center/dashboard), toggle "Do Not Sell or Share" to off/gray | [Instructions](https://www.t-mobile.com/privacy-center/education/do-not-sell). [Policy](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy): "We use your personal data [including Web browsing history] to … Advertise and market products and services from T‑Mobile and other companies to you, including through targeted advertising." [Advertising addendum](https://www.t-mobile.com/privacy-center/education-and-resources/advertising-analytics). (As of: 2023-01-01)
+| Marketing preferences | In [Privacy Dashboard](https://www.t-mobile.com/privacy-center/dashboard), click "Update marketing preferences" | [Instructions](https://www.t-mobile.com/privacy-center/education/marketing-preferences). (As of: 2023-01-01)
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
 | Targeted ads and de-identified usage data for reports | [Opt-out](https://www.t-mobile.com/content/t-mobile/corporate/privacy-center/take-control-of-your-data/modal-dns.html) and in phone settings | [Policy](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy): "We use your personal data [including Web browsing history] to … Advertise and market products and services from T‑Mobile and other companies to you, including through targeted advertising." [Advertising addendum](https://www.t-mobile.com/privacy-center/education-and-resources/advertising-analytics).
 
 

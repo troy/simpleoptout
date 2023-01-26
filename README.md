@@ -212,7 +212,7 @@ Includes: **GMAC Mortgage**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Browsing history   | [Opt-out](https://www.amazon.com/gp/history) (click "Manage history") | [Policy: Choices](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE). (As of: 2023-01-01)
-| Ad personalization | [Opt-out](https://www.amazon.com/adprefs/)
+| Ad personalization | [Opt-out](https://www.amazon.com/adprefs/) and also [Opt-out](https://www.amazon.com/privacyprefs) | On the first page, consider also clicking "Delete ad data." (As of: 2023-01-01)
 
 
 ### American Express
@@ -364,6 +364,8 @@ Also see [Crate & Barrel](#crate--barrel).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares customer info with third parties | [Opt-out](https://www.thecompanystore.com/exercise-my-privacy-rights/ccpa_form.html) (scroll down to long form) | [Policy](https://www.thecompanystore.com/privacy-information-sharing.html): "we may share information with joint marketing partners" (As of: 2023-01-01)
+
+Also see: [Home Depot](#home-depot).
 
 
 ### Condé Nast
@@ -968,7 +970,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells subscriber info with third parties | Email [privacy@taunton.com](mailto:privacy@taunton.com?subject=Direct%20Mail%20Opt-Out) with account number, mailing address, phone | [Policy](http://www.taunton.com/privacy-policy/): "We may also rent your name, mailing address, and other information to reputable companies that provide marketing offers through direct mail"
+| Shares/sells subscriber info with third parties | Email [privacy@taunton.com](mailto:privacy@taunton.com?subject=Do%20Not%20Sell%20My%20Personal%20Information) with account number, mailing address, phone | [Policy](http://www.taunton.com/privacy-policy/): "We may also rent your name, mailing address, and other information to reputable companies that provide marketing offers through direct mail"
 
 
 ### T-Mobile
@@ -987,7 +989,7 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| "TLOxp" data broker | [Opt-out](https://www.transunion.com/optout) | [Policy](https://www.transunion.com/privacy/risk-alternative-data-solutions)
+| "TLOxp" data broker | [Opt-out](https://service.transunion.com/dss/ccpa_optout.page) | [Policy](https://www.transunion.com/privacy/risk-alternative-data-solutions) (As of: 2023-01-01)
 
 Also see [OptOutPrescreen.com](#optoutprescreencom).
 
@@ -996,14 +998,14 @@ Also see [OptOutPrescreen.com](#optoutprescreencom).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Reverse lookup entry | [Opt-out](https://www.truepeoplesearch.com/removal) | [Policy](https://www.truepeoplesearch.com/privacy)
+| Reverse lookup entry | [Opt-out](https://www.truepeoplesearch.com/removal) | [Policy](https://www.truepeoplesearch.com/privacy) (As of: 2023-01-01)
 
 
 ### Trump Campaign
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells donor info with third parties | Email [privacy@donaldtrump.com](mailto:privacy@donaldtrump.com) | [Policy](https://www.donaldjtrump.com/privacy-policy): "we may use information we collect for … sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity"
+| Shares/sells donor info with third parties | Email [privacy@djtfp24.com](mailto:privacy@djtfp24.com) | [Policy](https://www.donaldjtrump.com/privacy-policy): "we may use information we collect for … sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity" (As of: 2023-01-01)
 
 
 ### Tuft & Needle
@@ -1017,23 +1019,23 @@ Also see [OptOutPrescreen.com](#optoutprescreencom).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Data sharing and cross-site tracking | [Opt-out](https://twitter.com/personalization) | Part of [account settings](https://twitter.com/settings/safety). [Policy](https://twitter.com/en/privacy)
-| Tailored audiences | [Request advertiser list](https://twitter.com/settings/your_twitter_data/audiences) | [Intro to tailored audiences](https://business.twitter.com/en/help/campaign-setup/campaign-targeting/tailored-audiences.html). [Policy](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads). [Policy for advertisers](https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html).
+| Data sharing and cross-site tracking | [Opt-out](https://twitter.com/settings/account/personalization) | Part of [account settings](https://twitter.com/settings/account/personalization). [Policy](https://twitter.com/en/privacy)
+| Tailored audiences | [Request advertiser list](https://twitter.com/settings/your_twitter_data/audiences) | [Intro to tailored audiences](https://business.twitter.com/en/help/campaign-setup/campaign-targeting/tailored-audiences.html). [Policy](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads). [Policy for advertisers](https://business.twitter.com/en/help/ads-policies/campaign-considerations/policies-for-conversion-tracking-and-custom-audiences.html). (As of: 2023-01-01)
 
 
 ### United Airlines
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells passenger information with third parties | Not provided ([requested 2020-01-17](https://twitter.com/simpleoptout/status/1218335017824215040)) | [Policy](https://www.united.com/ual/en/us/fly/privacy.html#how_use_information): "may also share your information with third parties for marketing purposes including but not limited to the third party’s own marketing or promotional purposes or other companies’ marketing purposes"
+| Shares/sells passenger information with third parties | Not provided ([requested 2020-01-17](https://twitter.com/simpleoptout/status/1218335017824215040)). Try [emailing privacy@united.com](mailto:privacy@united.com) | [Policy](https://www.united.com/ual/en/us/fly/privacy.html#how_use_information): "may also share your information with third parties for marketing purposes, including but not limited to, the third party’s own marketing or promotional purposes or other companies’ marketing purposes" (As of: 2023-01-01)
 
 
 ### US Postal Service
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Sells change-of-address requests to third paries | Can't opt-out. Request "Temporary" (6 month) forwarding to prevent disclosure | [Policy](https://moversguide.usps.com/mgo): Information is sold "to individuals or companies already in possession of your name and old mailing address, as an address correction service" and "to licensed service providers of the USPS to perform mailing list correction service of lists containing your name and old address."
-| Refuse junk mail | Do not open envelope; write "Refused - Return to sender" | [Policy](https://faq.usps.com/s/article/Refuse-unwanted-mail-and-remove-name-from-mailing-lists#what_are_my_mail_refusal_options). Only applies to unopened mailpieces with "Address Correction Requested" or "Return Postage Guaranteed."
+| Sells change-of-address requests to third paries | Can't opt-out. Request "Temporary" (6 month) forwarding to prevent disclosure | [Policy](https://moversguide.usps.com/): Information is sold "for address correction services only if the mailer is in possession of the name and old address; and to USPS licensed service providers to perform mailing list address correction services for lists containing your name and old address." [Here](https://postalpro.usps.com/NCOALink_Service_Providers) are the hundreds of companies which buy your change-of-address info from USPS. (As of: 2023-01-01)
+| Refuse junk mail | Do not open envelope; write "Refused - Return to sender" | [Policy](https://faq.usps.com/s/article/Refuse-unwanted-mail-and-remove-name-from-mailing-lists#what_are_my_mail_refusal_options). Only applies to unopened mailpieces with "Address Correction Requested" or "Return Postage Guaranteed." (As of: 2023-01-01)
 
 Related: [How can this be?](https://www.forbes.com/sites/adamtanner/2013/07/08/how-the-post-office-sells-your-new-address-with-anyone-who-pays-and-the-little-known-loophole-to-opt-out/)
 
@@ -1042,24 +1044,17 @@ Related: [How can this be?](https://www.forbes.com/sites/adamtanner/2013/07/08/h
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Phone data ("CPNI") sharing | Wireless: [Opt-out](https://www.vzw.com/myprivacy); wired and business: Call 1-866-483-9700 | [Policy](https://www.verizon.com/about/privacy/customer-proprietary-network-information): "We may use and share your CPNI among our affiliates and agents to offer you services that are different from the services you currently purchase from us"
-| Data sharing for personalizing TV, mobile, and Internet ads | [Opt-out](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34) (scroll through entire section) | [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-32); also see [Dashboard](https://www.verizon.com/privacy/your-data)
-| Credit data for marketing | Call 1-844-366-2879 | [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34): "Wireline customers can limit the sharing of credit information within Verizon for the marketing of new products and services"
-
-
-### Visa
-
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Aggregated consumer spending reports | [Opt-out](https://marketingreportoptout.visa.com/OPTOUT/request.do) | [Policy](https://usa.visa.com/legal/global-privacy-notice/additional-privacy-information.html): "in some countries, Visa uses Card Transaction Data to generate data products that companies use to improve their marketing programs and identify interested consumers"
+| Phone data ("CPNI") sharing | Wireless: [Opt-out](https://www.vzw.com/myprivacy); wired and business: Call 1-866-483-9700 | [Policy](https://www.verizon.com/about/privacy/customer-proprietary-network-information): "We may use and share your CPNI among our affiliates and agents to offer you services that are different from the services you currently purchase from us" (As of: 2023-01-01)
+| Data sharing for personalizing TV, mobile, and Internet ads | [Opt-out](https://myvpostpay.verizonwireless.com/vzw/secure/mcm/mcmDisplayPreferences.action) and [Opt-out](https://my.verizon.com) (Services → Internet → Manage Online Advertising and Services → TV → Manage TV Advertising) | [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-32); also see [Dashboard](https://www.verizon.com/privacy/your-data) (As of: 2023-01-01)
+| Internet/Fios &amp; landline phone customers: Credit data for marketing | Call 1-844-366-2879 | [Policy](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34): "Wireline customers can limit the sharing of credit information within Verizon for the marketing of new products and services" (As of: 2023-01-01)
 
 
 ### Vizio
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Discloses detailed viewing history | [Opt-out](http://www.vizio.com/viewingdata) (California residents: [request or request deletion](https://privacyportal-cdn.onetrust.com/dsarwebform/41aebd10-58ee-4c98-9dd5-aa66c9be664a/0099df9c-c0aa-4bf7-bd5f-7f4ff46768f6.html) of data)| [Policy](https://www.vizio.com/privacy) - [Viewing Data Supplement](https://www.vizio.com/en/terms/viewing-data-privacy-policy): "licenses Viewing Data to analytics companies, media companies, advertisers, ad agencies, and other ad technology companies"
-| Discloses SmartCast usage | Don't use app, don't register, and/or use "Guest Mode" | [Policy](https://www.vizio.com/privacy) - [SmartCast Supplement](https://www.vizio.com/en/terms/smartcast-privacy-policy)
+| Discloses detailed viewing history | [Opt-out](https://support.vizio.com/s/article/Smart-Interactivity-Broadcast-Interactivity-FAQ-How-to-turn-Smart-Interactivity-Broadcast-Interactivity-on-or-off?language=en_US) in TV settings and also submit [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/41aebd10-58ee-4c98-9dd5-aa66c9be664a/0099df9c-c0aa-4bf7-bd5f-7f4ff46768f6.html) | [Policy](https://www.vizio.com/privacy) - [Viewing Data Supplement](https://www.vizio.com/en/terms/viewing-data-privacy-policy): "licenses Viewing Data to analytics companies, media companies, advertisers, ad agencies, and other ad technology companies" (As of: 2023-01-01)
+| Discloses SmartCast usage | Don't use app, don't create an account, and don't connect TV to Internet | [Policy](https://www.vizio.com/privacy) - find for "Controlling How VIZIO Products Collect Your Data" (As of: 2023-01-01)
 
 More information: [What Vizio was doing behind the TV screen](https://www.ftc.gov/news-events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen), [How to Turn Off Smart TV Snooping Features](https://consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/), and [How to Stop Your Smart TV From Tracking What You Watch](https://www.nytimes.com/2018/07/23/smarter-living/how-to-stop-your-smart-tv-from-tracking-what-you-watch.html).
 
@@ -1068,7 +1063,7 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells user info with third parties | [Opt-out](https://www.voxmedia.com/contact#donotsell) | [Policy](https://www.voxmedia.com/legal/privacy-notice#our-information-sharing-practice): "we may also share your information (including Personal Data) with third parties for their own direct marketing purposes"
+| Shares/sells user info with third parties | [Opt-out](https://www.voxmedia.com/contact#donotsell) | [Policy](https://www.voxmedia.com/legal/privacy-notice#our-information-sharing-practice): "we may also share your information (including Personal Data) with third parties for their own direct marketing purposes" (As of: 2023-01-01)
 
 
 ### Walmart
@@ -1077,28 +1072,26 @@ Includes: **Hayneedle, Jet.com, Moosejaw, Sam's Club**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with co-branding partners | [Opt-out](https://cpa-ui.walmart.com/affirmation?brandCode=WMT&requestType=OPTOUT) | [Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy): "We may share your personal information with companies that offer co-branded products or services"
+| Shares/sells customer info with co-branding partners | [Opt-out](https://cpa-ui.walmart.com/affirmation?brandCode=WMT&requestType=OPTOUT) | [Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-notice): "We may share your personal information with companies that offer co-branded products or services" (As of: 2023-01-01)
 
 
 ### Wells Fargo
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares customer info & transactions with affiliates | [Opt-out](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) (Security & Support → Change Privacy Preferences) or call 1-888-528-8460 | [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/)
+| Shares customer info & transactions with affiliates | [Opt-out](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) (Profile → Privacy Preferences) or call 1-888-528-8460 | [Policy](https://www.wellsfargo.com/privacy-security/privacy/individuals/) (As of: 2023-01-01)
 
 
 ### Whitepages.com
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Reverse lookup entry | [Opt-out](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing-) | Follow both "Removing the listing via our opt-out service" and "How to Remove your Premium Listing."
+| Reverse lookup entry | [Opt-out](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing-) | See "Removing the listing via our opt-out service" (As of: 2023-01-01)
 
 
 ### Whole Foods
 
-| What?       | Opt-out | Details
-| :-          | :-      | :-
-| Shares/sells customer purchase history with third parties | Email [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com?subject=Opt%20out%20of%20all%20data%20sharing%20and%20marketing&body=California%20Privacy%20Rights%20Request) | [Policy](https://www.wholefoodsmarket.com/site-information/privacy-notice): "we may share Personal Information/Personal Data about you … With our business partners, affiliates and other third parties for purposes of sending their own marketing."
+See [Amazon.com](#amazoncom).
 
 
 ### Williams-Sonoma
@@ -1107,21 +1100,21 @@ Includes: **Pottery Barn, West Elm, Rejuvenation**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com?subject=Opt%20out%20of%20all%20data%20sharing%20and%20marketing%20by%20all%20WS%20entities) with name, postal address, email | [Policy](https://www.williams-sonomainc.com/privacy/): "we might rent, exchange, share and/or cross-reference information, including contact information about you"
+| Shares/sells customer info with third parties | Call 1-800-541-1262 | [Policy](https://www.williams-sonomainc.com/privacy/): "we might rent, exchange, share and/or cross-reference information, including contact information about you" (As of: 2023-01-01)
 
 
 ### Woodcraft
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Email [custserv@woodcraft.com](mailto:custserv@woodcraft.com) | [Policy](https://www.woodcraft.com/pages/privacypolicy): "We occasionally make our customer list (postal mailing list only) available to carefully screened companies whose products may interest you"
+| Shares/sells customer info with third parties | Email [custserv@woodcraft.com](mailto:custserv@woodcraft.com) | [Policy](https://www.woodcraft.com/pages/privacypolicy): "We share [tons of information about your usage and purchasing history] with … Joint marketing partners" (As of: 2023-01-01)
 
 
 ### Yahoo/Oath
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Privacy controls | [Opt-out](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/controls/index.html) | [Yahoo policy](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm). [Verizon Media policy](https://www.verizonmedia.com/policies/index.html).
+| Privacy controls | [Opt-out](https://legal.yahoo.com/us/en/yahoo/privacy/dashboard/index.html) or for non-accountholders, [Opt-out](https://guce.oath.com/editConsentGroup?namespace=YAHOO&type=privacyControlCA&sessionId=2_485a8ae2-7c90-4abb-9daf-56e6227ef704&lang=en-US&mode=pc) | [Yahoo policy](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm) (As of: 2023-01-01)
 
 Also see [Verizon](#verizon).
 
@@ -1130,7 +1123,7 @@ Also see [Verizon](#verizon).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares first name and individual site activity with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | [Policy](https://www.yelp.com/tos/privacy_policy#control-personal-data): "We may share information from or about you (such as [city, age, and gender, businesses you bookmark or call, or if you visit a business’s URL] … with businesses on Yelp." By default, shares first name and last initial with businesses.
+| Shares first name and individual site activity with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | [Policy](https://www.yelp.com/tos/privacy_policy#control-personal-data): "We may share information from or about you (such as [city, age, and gender, businesses you bookmark or call, or if you visit a business’s URL] … with businesses on Yelp." By default, shares first name and last initial with businesses. (As of: 2023-01-01)
 
 
 ### YouTube
@@ -1139,7 +1132,7 @@ Also see [Verizon](#verizon).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Watch history & search history | [Opt-out](https://www.youtube.com/feed/history) | Turn on "Pause Watch History," clear existing history, and repeat for "Pause Search History." If you browse YouTube without logging in, do this while not logged in. **Note**: Users of content-blockers (uBlock Origin, etc.) may not see the right-most tab and on/off toggles. If using uBlock Origin or another content-blocker, pause it and reload the opt-out page.
+| Watch history & search history | [Opt-out](https://www.youtube.com/feed/history) | Turn on "Pause Watch History," clear existing history, and repeat for "Pause Search History." If you browse YouTube without logging in, do this while not logged in (on every device you watch from). **Note**: Users of content-blockers like uBlock Origin may not see the right-most tab and on/off toggles. If using uBlock Origin or another content-blocker, pause it and reload the opt-out page. (As of: 2023-01-01)
 
 Also see [Google](#google).
 
@@ -1148,7 +1141,7 @@ Also see [Google](#google).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| "Zeta Data Cloud" data broker | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/d0720d0f-d427-4a7d-a773-5d6793229f15.html) (or call 1-800-515-3793) | [Policy](https://zetaglobal.com/privacy-policy/)
+| "Zeta Data Cloud" data broker | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/d0720d0f-d427-4a7d-a773-5d6793229f15.html) (or call 1-800-515-3793) | [Policy](https://zetaglobal.com/privacy-policy/) (As of: 2023-01-01)
 
 
 <br />

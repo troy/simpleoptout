@@ -25,7 +25,7 @@ title: Deep links to opt-out of data sharing by 100+ companies – Simple Opt O
 **Simple Opt Out** is drawing attention to opt-out data sharing and marketing practices that many people aren't aware of (and most people don't want), then making it easier to opt out. For example:
 
    * **[Chase](#chase)** may share your "account balances and transaction history … For nonaffiliates to market to you."
-   * **[Crate & Barrel](#crate-&-barrel)** shares "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
+   * **[Crate & Barrel](#crate--barrel)** shares "your customer information [name, postal address and email address, and transactions you conduct on our Website or offline] with other select companies."
    * **[InterContinental Hotels](#intercontinental-hotels)** may share "your information with third parties … to extend special offers about their own products and services"
 
 This site makes it easier to opt out of data sharing by 100+ companies (or [request a company](#changes) or see [opt-out tips](#suggestions)). Enjoy!

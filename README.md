@@ -71,6 +71,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 **[Direct Marketing Association](#direct-marketing-association)** •
 [Disney](#disney) •
 [Edison](#edison) •
+[Emailsherlock](#emailsherlock) •
 [Equifax](#equifax) •
 **[Facebook](#facebook)** •
 [Ford](#ford) •
@@ -436,6 +437,11 @@ Also see [Zeta Global](#zeta-global).
 | :-          | :-      | :-
 | Shares de-identified data for competitive research | In email app settings, "Manage Privacy" page | [Policy](https://www.edison.tech/privacy) (As of: 2023-01-01)
 
+### Emailsherlock
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Reverse lookup entry | [Opt-out](https://www.emailsherlock.com/optout) | (As of: 2023-07-05)
 
 ### Equifax
 

@@ -149,6 +149,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Visa](#visa) •
 [Vizio](#vizio) •
 [Vox](#vox) •
+[WalletHub](#wallethub) •
 **[Walmart](#walmart)** •
 **[Wells Fargo](#wells-fargo)** •
 [Whitepages.com](#whitepagescom) •
@@ -1072,6 +1073,13 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells user info with third parties | [Opt-out](https://www.voxmedia.com/contact#donotsell) | [Policy](https://www.voxmedia.com/legal/privacy-notice#our-information-sharing-practice): "we may also share your information (including Personal Data) with third parties for their own direct marketing purposes" (As of: 2023-01-01)
+
+
+### WalletHub
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | [Opt out](https://wallethub.com/pi-request?dontsell=1) or email [privacy@wallethub.com](mailto:privacy@wallethub.com) | [Policy](https://wallethub.com/terms/privacy): "we use interest-based advertising cookies and tracking technologies to display advertisements about our products to you on nonaffiliated websites, applications, and online services." (As of: 2023-07-11)
 
 
 ### Walmart

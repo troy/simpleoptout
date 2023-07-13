@@ -151,6 +151,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Visa](#visa) •
 [Vizio](#vizio) •
 [Vox](#vox) •
+[Walgreens](#walgreens) •
 **[Walmart](#walmart)** •
 **[Wells Fargo](#wells-fargo)** •
 [Whitepages.com](#whitepagescom) •
@@ -1088,6 +1089,13 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells user info with third parties | [Opt-out](https://www.voxmedia.com/contact#donotsell) | [Policy](https://www.voxmedia.com/legal/privacy-notice#our-information-sharing-practice): "we may also share your information (including Personal Data) with third parties for their own direct marketing purposes" (As of: 2023-01-01)
+
+
+### Walgreens
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted ads and de-identified usage data for reports | [Opt out](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs) or email [privacy.office@walgreens.com](mailto:privacy.office@walgreens.com) | [Policy](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp): “We may also use third-party advertising networks to serve advertisements on our behalf. The cookies received with the banner advertisements served by these networks may be used to collect and build behavioral profiles by these companies to deliver targeted advertisements on our website and unaffiliated websites.” (As-of: 2023-07-13)
 
 
 ### Walmart

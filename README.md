@@ -134,6 +134,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Sift Science](#sift-science) •
 [Slashdot Media](#slashdot-media) •
 [Southwest Airlines](#southwest-airlines) •
+[Spirit Airlines](#spirit-airlines) •
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
 [Staples](#staples) •
@@ -959,6 +960,13 @@ Includes: **SourceForge**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells passenger information with third parties | [Opt-out](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_OptOut?clk=3873092&cbid=3873092) | [Policy](https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/#Sharing-of-Information): "We may also share information about you … With our business partners, affiliates and other third parties for purposes of sending their own marketing." (As of: 2023-01-01)
+
+
+### Spirit Airlines
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted advertising | [Opt out](https://privacyportal.onetrust.com/webform/a3ba0bce-b005-4f16-b003-c296ec63f389/4ad47236-5ff4-49f3-b3b4-d0bd47ea7b11) or navigate to “Your Privacy Choices” at bottom of home page. | [Privacy Policy](https://content.spirit.com/Shared/en-us/Documents/Privacy_Policy.pdf): “We use this information to engage in behavior-based advertising and capture website analytics.” (As-of: 2023-07-13)
 
 
 ### Spokeo

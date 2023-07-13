@@ -67,6 +67,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Costco](#costco) •
 [CoreLogic](#corelogic) •
 [Crate & Barrel](#crate--barrel) •
+[Credit Karma](#credit-karma) •
 [Disqus](#disqus) •
 **[Direct Marketing Association](#direct-marketing-association)** •
 [Disney](#disney) •
@@ -400,6 +401,13 @@ Magazines: Allure, Architectural Digest, Ars Technica, Bon Appétit, Brides, Con
 | Postal ads | [Opt-out](https://www.crateandbarrel.com/customer-service/opt-out)
 
 Also see [CB2](#cb2).
+
+
+### Credit Karma
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+  | Shares credit report information with Intuit | [Opt out](https://www.creditkarma.com/profile/data) or navigate to Profile & Settings > Personal Information > Manage Your Data > Data Preferences. | [Policy](https://www.intuit.com/privacy/statement/): “… we may use your bookkeeping details from QuickBooks, budgets from Mint, contact and purchase history details from Mailchimp, and/or recommendations from Credit Karma. The personal information we use in this centralized way may relate to you as an end user of our Services or as a customer or vendor of an Intuit customer whose personal information has been included in the Intuit Platform.” (As of: 2023-07-13)
 
 
 ### Direct Marketing Association

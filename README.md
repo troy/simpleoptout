@@ -161,7 +161,8 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Yahoo/Oath](#yahoooath) •
 [Yelp](#yelp) •
 [YouTube](#youtube) •
-[Zeta Global](#zeta-global)
+[Zeta Global](#zeta-global) •
+[Zoom](#zoom)
 
 
 <br />
@@ -1174,6 +1175,13 @@ Also see [Google](#google).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | "Zeta Data Cloud" data broker | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/d0720d0f-d427-4a7d-a773-5d6793229f15.html) (or call 1-800-515-3793) | [Policy](https://zetaglobal.com/privacy-policy/) (As of: 2023-01-01)
+
+
+### Zoom
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted ads and de-identified usage data for reports | [Opt out](https://privacyportal.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2) or email [privacy@zoom.us](mailto:privacy@zoom.us) (or zeta-globalcall 1-888-799-0566) | [Policy](https://explore.zoom.us/en/privacy/): “Zoom uses third-party marketing, advertising, and analytics providers: to provide statistics and analysis about how people are using Zoom products and services, including our website; and to provide advertising and marketing for Zoom products and services, including targeted advertising based on your use of our website. These third-party partners may receive information about your activities on Zoom’s website through third-party cookies placed on Zoom’s website.” (As-of: 2023-07-13)
 
 
 <br />

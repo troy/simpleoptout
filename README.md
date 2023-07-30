@@ -1253,4 +1253,5 @@ This site is generally concerned with practices that:
 
 * [EFF: Privacy](https://www.eff.org/issues/privacy)
 * [uBlock Origin](https://github.com/gorhill/uBlock#installation)
+* Global Privacy Control: enable in [Firefox](https://blog.mozilla.org/netpolicy/2021/10/28/implementing-global-privacy-control/), [other browsers](https://globalprivacycontrol.org/#download)
 * [UsablePrivacy.org](https://usableprivacy.org/)

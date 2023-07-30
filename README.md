@@ -152,6 +152,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Vizio](#vizio) •
 [Vox](#vox) •
 [Walgreens](#walgreens) •
+[WalletHub](#wallethub) •
 **[Walmart](#walmart)** •
 **[Wells Fargo](#wells-fargo)** •
 [Whitepages.com](#whitepagescom) •
@@ -1097,6 +1098,13 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Targeted ads and de-identified usage data for reports | [Opt out](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs) or email [privacy.office@walgreens.com](mailto:privacy.office@walgreens.com) | [Policy](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp): “We may also use third-party advertising networks to serve advertisements on our behalf. The cookies received with the banner advertisements served by these networks may be used to collect and build behavioral profiles by these companies to deliver targeted advertisements on our website and unaffiliated websites.” (As-of: 2023-07-13)
+
+
+### WalletHub
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | [Opt out](https://wallethub.com/pi-request?dontsell=1) or email [privacy@wallethub.com](mailto:privacy@wallethub.com) | [Policy](https://wallethub.com/terms/privacy): "we use interest-based advertising cookies and tracking technologies to display advertisements about our products to you on nonaffiliated websites, applications, and online services." (As of: 2023-07-11)
 
 
 ### Walmart

@@ -411,7 +411,7 @@ Also see [CB2](#cb2).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-  | Shares credit report information with Intuit | [Opt out](https://www.creditkarma.com/profile/data) or navigate to Profile & Settings > Personal Information > Manage Your Data > Data Preferences. | [Policy](https://www.intuit.com/privacy/statement/): “… we may use your bookkeeping details from QuickBooks, budgets from Mint, contact and purchase history details from Mailchimp, and/or recommendations from Credit Karma. The personal information we use in this centralized way may relate to you as an end user of our Services or as a customer or vendor of an Intuit customer whose personal information has been included in the Intuit Platform.” (As of: 2023-07-13)
+| Shares credit report information with Intuit | [Opt-out](https://www.creditkarma.com/profile/data) or navigate to Profile & Settings > Personal Information > Manage Your Data > Data Preferences | [Policy](https://www.intuit.com/privacy/statement/): "… we may use your bookkeeping details from QuickBooks, budgets from Mint, contact and purchase history details from Mailchimp, and/or recommendations from Credit Karma. The personal information we use in this centralized way may relate to you as an end user of our Services or as a customer or vendor of an Intuit customer whose personal information has been included in the Intuit Platform." (As of: 2023-07-13)
 
 
 ### Direct Marketing Association
@@ -854,7 +854,7 @@ Includes: Instant Checkmate, Intelius, TruthFinder, US Search ([source](https://
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | Account settings → “Communication Preferences" → disable "Optional Information Sharing" or email [privacy@prosper.com](mailto:privacy@prosper.com) | [Policy](https://www.prosper.com/plp/legal/privacy-policy/) ("Federal Privacy Notice"). Includes SSN, income, account balances, transaction history, credit scores, and employment information. (As of: 2023-01-01)
+| Shares/sells customer info with third parties | Account settings → "Communication Preferences" → disable "Optional Information Sharing" or email [privacy@prosper.com](mailto:privacy@prosper.com) | [Policy](https://www.prosper.com/plp/legal/privacy-policy/) ("Federal Privacy Notice"). Includes SSN, income, account balances, transaction history, credit scores, and employment information. (As of: 2023-01-01)
 
 
 ### Quest
@@ -969,7 +969,7 @@ Includes: **SourceForge**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Targeted advertising | [Opt out](https://privacyportal.onetrust.com/webform/a3ba0bce-b005-4f16-b003-c296ec63f389/4ad47236-5ff4-49f3-b3b4-d0bd47ea7b11) or navigate to “Your Privacy Choices” at bottom of home page. | [Privacy Policy](https://content.spirit.com/Shared/en-us/Documents/Privacy_Policy.pdf): “We use this information to engage in behavior-based advertising and capture website analytics.” (As-of: 2023-07-13)
+| Targeted advertising | [Opt-out](https://privacyportal.onetrust.com/webform/a3ba0bce-b005-4f16-b003-c296ec63f389/4ad47236-5ff4-49f3-b3b4-d0bd47ea7b11) or navigate to "Your Privacy Choices" at bottom of home page | [Privacy Policy](https://content.spirit.com/Shared/en-us/Documents/Privacy_Policy.pdf): "We use this information to engage in behavior-based advertising and capture website analytics." (As-of: 2023-07-13)
 
 
 ### Spokeo
@@ -1097,7 +1097,7 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Targeted ads and de-identified usage data for reports | [Opt out](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs) or email [privacy.office@walgreens.com](mailto:privacy.office@walgreens.com) | [Policy](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp): “We may also use third-party advertising networks to serve advertisements on our behalf. The cookies received with the banner advertisements served by these networks may be used to collect and build behavioral profiles by these companies to deliver targeted advertisements on our website and unaffiliated websites.” (As-of: 2023-07-13)
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs) or email [privacy.office@walgreens.com](mailto:privacy.office@walgreens.com) | [Policy](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp): "We may also use third-party advertising networks to serve advertisements on our behalf. The cookies received with the banner advertisements served by these networks may be used to collect and build behavioral profiles by these companies to deliver targeted advertisements on our website and unaffiliated websites." (As-of: 2023-07-13)
 
 
 ### WalletHub
@@ -1189,7 +1189,7 @@ Also see [Google](#google).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Targeted ads and de-identified usage data for reports | [Opt out](https://privacyportal.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2) or email [privacy@zoom.us](mailto:privacy@zoom.us) (or zeta-globalcall 1-888-799-0566) | [Policy](https://explore.zoom.us/en/privacy/): “Zoom uses third-party marketing, advertising, and analytics providers: to provide statistics and analysis about how people are using Zoom products and services, including our website; and to provide advertising and marketing for Zoom products and services, including targeted advertising based on your use of our website. These third-party partners may receive information about your activities on Zoom’s website through third-party cookies placed on Zoom’s website.” (As-of: 2023-07-13)
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://privacyportal.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2) or email [privacy@zoom.us](mailto:privacy@zoom.us) (or call 1-888-799-0566) | [Policy](https://explore.zoom.us/en/privacy/): "Zoom uses third-party marketing, advertising, and analytics providers: to provide statistics and analysis about how people are using Zoom products and services, including our website; and to provide advertising and marketing for Zoom products and services, including targeted advertising based on your use of our website. These third-party partners may receive information about your activities on Zoom’s website through third-party cookies placed on Zoom’s website." (As-of: 2023-07-13)
 
 
 <br />

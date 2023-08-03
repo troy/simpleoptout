@@ -90,6 +90,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Hoover](#hoover) •
 [Hulu](#hulu) •
 [Hyundai Motors](#hyundai-motors) •
+[IBM](#ibm) •
 [InfoTracer](#infotracer) •
 [Instagram](#instagram) •
 [InterContinental Hotels](#intercontinental-hotels) •
@@ -603,6 +604,13 @@ Also see: [Disney](#disney).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells owner info and car/driving data with third parties | [Opt-out](https://owners.hyundaiusa.com/content/myhyundai/us/en/privacy/data-request/new-request.html) | [Choices](https://owners.hyundaiusa.com/us/en/privacy/data-request.html). [Policy](https://www.hyundaiusa.com/us/en/owner-privacy-policy): "We may share certain Covered Information with dealers so that they and we may better respond to your requests, send your relevant and personalized offers and information" (As of: 2023-01-01)
+
+
+### IBM
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.ibm.com/us-en/privacy/ccpa) or email via [this page](https://www.ibm.com/privacy/portal/contact/us-en) (or call 1-800-426-4968) | [Policy](https://www.ibm.com/us-en/privacy/ccpa): "IBM may have shared certain personal information with third parties, such as advertising technology partners, data analytics providers, and social networks for the purpose of targeted advertising, which may qualify as sharing under the CCPA." (As-of: 2023-08-03)
 
 
 ### InfoTracer

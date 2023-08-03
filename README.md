@@ -141,6 +141,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
 [Staples](#staples) •
+[Target](#target) •
 [Taunton Press](#taunton-press) •
 **[T-Mobile](#t-mobile)** •
 [TransUnion](#transunion) •
@@ -1015,6 +1016,13 @@ See [T-Mobile](#t-mobile).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares personal information with ad networks | [Opt-out](https://submit-irm.trustarc.com/services/validation/2394f394-3df4-4051-bfa1-50c2cfa45f02) | [Policy](https://www.staples.com/hc?id=dbb94c10-973c-478b-a078-00e58f66ba32): "We may also use your activity on websites/applications to serve you personalized advertising in order to show you content that is more likely to be of interest to you." Policy has improved since 2021. (As of: 2023-01-01)
+
+
+### Target
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.target.com/guest-privacy/your-privacy-choices-ca) or email [Privacy.Request@target.com](mailto:Privacy.Request@target.com) (or call 800-831-6880) | [Policy](https://www.target.com/c/target-privacy-policy/-/N-4sr7p): "We participate in interest-based advertising (IBA), also known as online behavioral advertising (OBA). We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online, as well as to provide advertising-related services such as ad delivery, reporting, attribution, analytics, and market research." (As-of: 2023-08-03)
 
 
 ### Taunton Press

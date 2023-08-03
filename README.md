@@ -1215,9 +1215,49 @@ For companies not listed here:
 3. If you don't see a "Your Choices" link, use your browser to find within the page (Control-F/Command-F). Find for each of these 3 words: "`opt`" (such as "opt-out" and "optout"), "`shar`" (such as "sharing" and "shared"), and "`disclos`" (such as "disclose" and "disclosure").
 
 
-### Ready-made opt-out request
+### Ready-made opt-out requests
 
-If you need to email a vendor, here's a request which can be copy-and-pasted:
+If you need to email a vendor, here's requests which can be copy-and-pasted. Sending in writing is preferred over a phone call.
+
+#### CCPA
+
+##### Do Not Sell or Share
+
+Subject: 
+
+> Do Not Sell or Share My Info
+
+Body:
+
+> I'd like to make a request under CCPA/CPRA to opt out of the sale and sharing of personal information.
+
+##### Right To Delete
+
+Subject: 
+
+> Do Not Sell or Share My Info; Delete My Account
+
+Body:
+
+> I'd like to make a request under CCPA/CPRA to opt out of the sale and sharing of and delete my personal information from your services.
+
+##### Right To Correct
+
+Subject:
+
+> Request to correct (right to correct) under CCPA
+
+Body:
+
+> I'd like to make a request under CCPA/CPRA to [update my personal information, for example change my email or phone number].
+
+Link to legislation: [California Consumer Privacy Act of 2018](https://cppa.ca.gov/regulations/pdf/cppa_act.pdf).
+
+Businesses have 45 days to comply upon receiving a verifiable CCPA request (or 90 if the consumer is notified of an extension, see section 1798.130). 
+
+If a business still has not completed a request after this time, you can [file a complaint](https://cppa.ca.gov/webapplications/complaint) with the California Privacy Protection Agency. Complaints are forwarded to the company, and can increase the civil penalties by up to $5,000 per complaint (see section 1798.155) if the agency decides to act on them.
+
+#### General Case
 
 Hello,
 

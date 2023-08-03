@@ -54,6 +54,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Blick Art](#blick-art) •
 [Bose](#bose) •
 [Capital One](#capital-one) •
+[Carvana](#carvana) •
 [Carlton Farms](#carlton-farms) •
 [Carnival Cruises](#carnival-cruises) •
 [CB2](#cb2) •
@@ -301,6 +302,13 @@ Includes: **GMAC Mortgage**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info & transactions with third parties | Call 1-888-817-2970 | [How your data is shared](https://www.capitalone.com/bank/privacy/)
+
+
+### Carvana
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | [Opt-out](https://privacyportal.carvana.com/consumer/make_request) or email [privacypolicy@carvana.com](mailto:privacypolicy@carvana.com) (or call 1-844-732-2556) | [Policy](https://www.carvana.com/privacy-policy): "We may disclose Personal Data to third parties, including the categories of recipients described below: Affiliates and subsidiaries, including parent entities, corporate affiliates, subsidiaries, business units, and other companies that share common ownership with us." (As-of: 2023-08-03)
 
 
 ### Carlton Farms

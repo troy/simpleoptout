@@ -63,6 +63,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Choice Hotels](#choice-hotels) •
 [ChowNow](#chownow) •
 [Comcast Xfinity](#comcast-xfinity) •
+[CVS](#cvs) •
 [The Company Store](#the-company-store) •
 [Condé Nast](#condé-nast) •
 [Costco](#costco) •
@@ -371,6 +372,15 @@ Also see [Crate & Barrel](#crate--barrel).
 | Audience measurement and more   | [Opt-out](https://www.xfinity.com/privacy/requests/choice)
 | Voice phone call data ("CPNI")  | Call 1-800-COMCAST or online chat and ask to opt out of CPNI sharing
 | Postal mail ads and sales calls | [Opt-out](https://pc2.mypreferences.com/Comcast/OptOut/)
+
+
+### CVS
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.cvs.com/account/compliance/do-not-sell) or email [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) (or call 1-888-607-4287) | [Policy](https://www.cvs.com/retail/help/privacy_policy): "Like many companies, CVS participates in interest-based advertising. We may use or partner with third-party companies, including social media and third-party advertising companies tailored to your individual interests based on how you browse and shop online. Doing so helps us to measure services and display targeted ads when you access and use the Online Services." (As-of 2023-08-03)
+
+Also see: [Walgreens](#walgreens).
 
 
 ### The Company Store
@@ -1106,6 +1116,8 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Targeted ads and de-identified usage data for reports | [Opt-out](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs) or email [privacy.office@walgreens.com](mailto:privacy.office@walgreens.com) | [Policy](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp): "We may also use third-party advertising networks to serve advertisements on our behalf. The cookies received with the banner advertisements served by these networks may be used to collect and build behavioral profiles by these companies to deliver targeted advertisements on our website and unaffiliated websites." (As-of: 2023-07-13)
+
+Also see: [CVS](#cvs).
 
 
 ### WalletHub

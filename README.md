@@ -363,6 +363,7 @@ Also see [Crate & Barrel](#crate--barrel).
 | Audience measurement and more   | [Opt-out](https://www.xfinity.com/privacy/requests/choice)
 | Voice phone call data ("CPNI")  | Call 1-800-COMCAST or online chat and ask to opt out of CPNI sharing
 | Postal mail ads and sales calls | [Opt-out](https://pc2.mypreferences.com/Comcast/OptOut/)
+| Individual rights request (e.g. CCPA) | [Opt-out](https://www.xfinity.com/privacy/requests) or email [Comcast_Privacy@comcast.com](mailto:Comcast_Privacy@comcast.com)
 
 
 ### The Company Store

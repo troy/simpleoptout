@@ -54,6 +54,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Blick Art](#blick-art) •
 [Bose](#bose) •
 [Capital One](#capital-one) •
+[Carvana](#carvana) •
 [Carlton Farms](#carlton-farms) •
 [Carnival Cruises](#carnival-cruises) •
 [CB2](#cb2) •
@@ -62,6 +63,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Choice Hotels](#choice-hotels) •
 [ChowNow](#chownow) •
 [Comcast Xfinity](#comcast-xfinity) •
+[CVS](#cvs) •
 [The Company Store](#the-company-store) •
 [Condé Nast](#condé-nast) •
 [Costco](#costco) •
@@ -88,6 +90,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Hoover](#hoover) •
 [Hulu](#hulu) •
 [Hyundai Motors](#hyundai-motors) •
+[IBM](#ibm) •
 [InfoTracer](#infotracer) •
 [Instagram](#instagram) •
 [InterContinental Hotels](#intercontinental-hotels) •
@@ -138,6 +141,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Spokeo](#spokeo) •
 [Sprint](#sprint) •
 [Staples](#staples) •
+[Target](#target) •
 [Taunton Press](#taunton-press) •
 **[T-Mobile](#t-mobile)** •
 [TransUnion](#transunion) •
@@ -303,6 +307,13 @@ Includes: **GMAC Mortgage**
 | Shares/sells customer info & transactions with third parties | Call 1-888-817-2970 | [How your data is shared](https://www.capitalone.com/bank/privacy/)
 
 
+### Carvana
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares/sells customer info with third parties | [Opt-out](https://privacyportal.carvana.com/consumer/make_request) or email [privacypolicy@carvana.com](mailto:privacypolicy@carvana.com) (or call 1-844-732-2556) | [Policy](https://www.carvana.com/privacy-policy): "We may disclose Personal Data to third parties, including the categories of recipients described below: Affiliates and subsidiaries, including parent entities, corporate affiliates, subsidiaries, business units, and other companies that share common ownership with us." (As-of: 2023-08-03)
+
+
 ### Carlton Farms
 
 | What?       | Opt-out | Details
@@ -364,6 +375,15 @@ Also see [Crate & Barrel](#crate--barrel).
 | Voice phone call data ("CPNI")  | Call 1-800-COMCAST or online chat and ask to opt out of CPNI sharing
 | Postal mail ads and sales calls | [Opt-out](https://pc2.mypreferences.com/Comcast/OptOut/)
 | Individual rights request (e.g. CCPA) | [Opt-out](https://www.xfinity.com/privacy/requests) or email [Comcast_Privacy@comcast.com](mailto:Comcast_Privacy@comcast.com)
+
+
+### CVS
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.cvs.com/account/compliance/do-not-sell) or email [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) (or call 1-888-607-4287) | [Policy](https://www.cvs.com/retail/help/privacy_policy): "Like many companies, CVS participates in interest-based advertising. We may use or partner with third-party companies, including social media and third-party advertising companies tailored to your individual interests based on how you browse and shop online. Doing so helps us to measure services and display targeted ads when you access and use the Online Services." (As-of 2023-08-03)
+
+Also see: [Walgreens](#walgreens).
 
 
 ### The Company Store
@@ -586,6 +606,13 @@ Also see: [Disney](#disney).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells owner info and car/driving data with third parties | [Opt-out](https://owners.hyundaiusa.com/content/myhyundai/us/en/privacy/data-request/new-request.html) | [Choices](https://owners.hyundaiusa.com/us/en/privacy/data-request.html). [Policy](https://www.hyundaiusa.com/us/en/owner-privacy-policy): "We may share certain Covered Information with dealers so that they and we may better respond to your requests, send your relevant and personalized offers and information" (As of: 2023-01-01)
+
+
+### IBM
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.ibm.com/us-en/privacy/ccpa) or email via [this page](https://www.ibm.com/privacy/portal/contact/us-en) (or call 1-800-426-4968) | [Policy](https://www.ibm.com/us-en/privacy/ccpa): "IBM may have shared certain personal information with third parties, such as advertising technology partners, data analytics providers, and social networks for the purpose of targeted advertising, which may qualify as sharing under the CCPA." (As-of: 2023-08-03)
 
 
 ### InfoTracer
@@ -992,6 +1019,13 @@ See [T-Mobile](#t-mobile).
 | Shares personal information with ad networks | [Opt-out](https://submit-irm.trustarc.com/services/validation/2394f394-3df4-4051-bfa1-50c2cfa45f02) | [Policy](https://www.staples.com/hc?id=dbb94c10-973c-478b-a078-00e58f66ba32): "We may also use your activity on websites/applications to serve you personalized advertising in order to show you content that is more likely to be of interest to you." Policy has improved since 2021. (As of: 2023-01-01)
 
 
+### Target
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Targeted ads and de-identified usage data for reports | [Opt-out](https://www.target.com/guest-privacy/your-privacy-choices-ca) or email [Privacy.Request@target.com](mailto:Privacy.Request@target.com) (or call 800-831-6880) | [Policy](https://www.target.com/c/target-privacy-policy/-/N-4sr7p): "We participate in interest-based advertising (IBA), also known as online behavioral advertising (OBA). We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online, as well as to provide advertising-related services such as ad delivery, reporting, attribution, analytics, and market research." (As-of: 2023-08-03)
+
+
 ### Taunton Press
 
 Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.com/).
@@ -1099,6 +1133,8 @@ More information: [What Vizio was doing behind the TV screen](https://www.ftc.go
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Targeted ads and de-identified usage data for reports | [Opt-out](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs) or email [privacy.office@walgreens.com](mailto:privacy.office@walgreens.com) | [Policy](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp): "We may also use third-party advertising networks to serve advertisements on our behalf. The cookies received with the banner advertisements served by these networks may be used to collect and build behavioral profiles by these companies to deliver targeted advertisements on our website and unaffiliated websites." (As-of: 2023-07-13)
+
+Also see: [CVS](#cvs).
 
 
 ### WalletHub

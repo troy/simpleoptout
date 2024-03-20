@@ -85,7 +85,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [HBO](#hbo) •
 [Hearst](#hearst) •
 [Home Depot](#home-depot) •
-**[Honda](#honda-motors)** •
+**[Honda](#honda)** •
 [Hoover](#hoover) •
 [Hulu](#hulu) •
 **[Hyundai](#hyundai)** •

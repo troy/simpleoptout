@@ -78,19 +78,21 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Ford](#ford) •
 [Frontier Communications](#frontier-communications) •
 [Gardener's Supply](#gardeners-supply) •
+**[General Motors](#general-motors)** •
 **[Google](#google)** •
 [Guitar Center](#guitar-center) •
 [Hanes](#hanes) •
 [HBO](#hbo) •
 [Hearst](#hearst) •
 [Home Depot](#home-depot) •
-[Honda Motors](#honda-motors) •
+**[Honda](#honda-motors)** •
 [Hoover](#hoover) •
 [Hulu](#hulu) •
-[Hyundai Motors](#hyundai-motors) •
+**[Hyundai](#hyundai)** •
 [InfoTracer](#infotracer) •
 [Instagram](#instagram) •
 [InterContinental Hotels](#intercontinental-hotels) •
+**[Kia](#kia)** •
 [Kroger](#kroger) •
 [Kustomer](#kustomer) •
 [LendingClub](#lendingclub) •
@@ -140,6 +142,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Staples](#staples) •
 [Taunton Press](#taunton-press) •
 **[T-Mobile](#t-mobile)** •
+[Toyota](#toyota) •
 [TransUnion](#transunion) •
 [TruePeopleSearch](#truepeoplesearch) •
 [Trump Campaign](#trump-campaign) •
@@ -483,6 +486,9 @@ Also see: [Instagram](#instagram), [Quest](#quest).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells owner info and car/driving data with third parties | [Opt-out](https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d) and in FordPass or Lincoln Way apps | [Instructions](https://www.ford.com/help/privacy/ccpa/?ccpatype=donotsellmypi). [Policy](https://www.ford.com/help/privacy/): "We disclose information to partners with which we offer co-branded service or engage in joint marketing activities." (As of: 2023-01-01)
+| Collection and/or sharing of detailed driving history | Use in-car display to disable all "Connected Services"; remove VIN from Ford account in app | [More](https://www.ford.com/help/privacy/#connectedvehicleprivacynotice). (As of: 2024-03-20)
+
+See [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html) and [Man Sues G.M. and LexisNexis Over Sale of His Cadillac Data](https://www.nytimes.com/2024/03/14/technology/gm-lexis-nexis-driving-data.html).
 
 
 ### Frontier Communications
@@ -504,6 +510,18 @@ Also see: [Instagram](#instagram), [Quest](#quest).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells customer info with third parties | [Opt-out](https://www.gardeners.com/forms/consumer-privacy) | [Policy](https://www.gardeners.com/privacy-policy). "Gardener’s Supply does on occasion rent or exchange postal mailing addresses with third parties" (As of: 2023-01-01)
+
+
+### General Motors
+
+Includes: **Buick, Cadillac, Chevrolet, GMC**
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Collection and/or sharing of detailed driving history | [Opt-out](https://www.gm.com/consumer-privacy), call 1-866-697-7482, or use Account Settings → OnStar Smart Driver in GM app | Opt-out of all "Connected Services." [Policy](https://www.gm.com/privacy-statement). (As of: 2024-03-20)
+| Request and delete previously shared driving history | [Request](https://consumer.risk.lexisnexis.com/consumer) | Residents of CA, CO, CT, NJ, NV, UT, VA may also [delete data](https://consumer.risk.lexisnexis.com/privacy). (As of: 2024-03-20)
+
+See [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html) and [Man Sues G.M. and LexisNexis Over Sale of His Cadillac Data](https://www.nytimes.com/2024/03/14/technology/gm-lexis-nexis-driving-data.html).
 
 
 ### Google
@@ -558,11 +576,17 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Elle, Esquire, Food Net
 | Shares/sells customer info & purchase history with third parties | [Opt-out](https://www.homedepot.com/privacy/Exercise-My-Privacy-Rights) and also check [account preferences](https://www.homedepot.com/c/Manage_Marketing_Preferences) | [Policy](https://www.homedepot.com/privacy/privacy-and-security-statement#InformationSharing): "we may share information with joint marketing partners" (As of: 2023-01-01)
 
 
-### Honda Motors
+### Honda
+
+Includes: **Acura**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells owner info and car/driving data with third parties | [Opt-out](https://crrs.secure.force.com/service/CCPA_Request_W2C) or call 1-800-999-1009, and also check in-car interface | [Choices](https://www.honda.com/privacy/your-privacy-choices). [Policy](https://www.honda.com/privacy/privacy-notice): "These companies may use your Personal Information for their everyday business purposes, including marketing, customer service, fulfillment and related purposes." [Vehicle data policy](http://www.honda.com/privacy/connected-product-privacy-policy.pdf): "We disclose Covered Information with third parties who provide goods or services that may benefit vehicle owners, including insurance companies, Honda/Acura dealerships, and consumer goods or services companies, such as satellite radio providers and connected vehicle data services and analytics platforms" (As of: 2023-01-01)
+| Shares/sells owner info and car/driving data with third parties | [Opt-out](https://crrs.secure.force.com/service/CCPA_Request_W2C) or call 1-800-999-1009, and also check in-car interface | [Choices](https://www.honda.com/privacy/your-privacy-choices). [Policy](https://www.honda.com/privacy/privacy-notice): "These companies may use your Personal Information for their everyday business purposes, including marketing, customer service, fulfillment and related purposes." [Vehicle data policy](http://www.honda.com/privacy/connected-product-privacy-policy.pdf): "We disclose Covered Information with third parties who provide goods or services that may benefit vehicle owners, including insurance companies, Honda/Acura dealerships, and consumer goods or services companies, such as satellite radio providers and connected vehicle data services and analytics platforms" (As of: 2024-03-20)
+| Collection and/or sharing of detailed driving history | Use in-car display to disable all "Connected Services" | (As of: 2024-03-20)
+| Request and delete previously shared driving history | [Request](https://fcra.verisk.com/) or call 1-800-627-3487 | Residents of CA, CO, CT, NJ, NV, UT, VA may also [delete data](https://www.verisk.com/privacy-trademarks-use/state-data-privacy-notice/). (As of: 2024-03-20)
+
+See [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html) and [Man Sues G.M. and LexisNexis Over Sale of His Cadillac Data](https://www.nytimes.com/2024/03/14/technology/gm-lexis-nexis-driving-data.html).
 
 
 ### Hoover
@@ -581,11 +605,15 @@ Magazines: Car and Driver, Cosmopolitan, Country Living, Elle, Esquire, Food Net
 Also see: [Disney](#disney).
 
 
-### Hyundai Motors
+### Hyundai
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells owner info and car/driving data with third parties | [Opt-out](https://owners.hyundaiusa.com/content/myhyundai/us/en/privacy/data-request/new-request.html) | [Choices](https://owners.hyundaiusa.com/us/en/privacy/data-request.html). [Policy](https://www.hyundaiusa.com/us/en/owner-privacy-policy): "We may share certain Covered Information with dealers so that they and we may better respond to your requests, send your relevant and personalized offers and information" (As of: 2023-01-01)
+| Collection and/or sharing of detailed driving history | Call 1-855-2BlueLink | Opt-out of all "Connected Services," including "Hyundai Bluelink" [Policy](https://www.hyundaiusa.com/us/en/vehicle-technologies-services-privacy#rights). (As of: 2024-03-20)
+| Request and delete previously shared driving history | [Request](https://fcra.verisk.com/) or call 1-800-627-3487 | Residents of CA, CO, CT, NJ, NV, UT, VA may also [delete data](https://www.verisk.com/privacy-trademarks-use/state-data-privacy-notice/). (As of: 2024-03-20)
+| Shares/sells owner info and car/driving data with third parties | [Opt-out](https://owners.hyundaiusa.com/us/en/privacy/data-request/new-request) | [Choices](https://owners.hyundaiusa.com/us/en/privacy/data-request.html). [Policy](https://www.hyundaiusa.com/us/en/owner-privacy-policy): "We may share certain Covered Information with dealers so that they and we may better respond to your requests, send your relevant and personalized offers and information" (As of: 2024-03-20)
+
+See [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html) and [Man Sues G.M. and LexisNexis Over Sale of His Cadillac Data](https://www.nytimes.com/2024/03/14/technology/gm-lexis-nexis-driving-data.html).
 
 
 ### InfoTracer
@@ -611,6 +639,17 @@ Includes: **Crowne Plaza, Holiday Inn, Kimpton,** [others](https://www.ihg.com/c
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells guest info with third parties | In Rewards Club portal, [form](https://www.ihg.com/hotels/us/en/customer-care/forms/privacy?hideBack=true&option=doNotSell), or email [privacyoffice@ihg.com](mailto:privacyoffice@ihg.com) | [More info](https://www.ihg.com/content/us/en/customer-care/privacy-and-cookie-center). [Policy](https://www.ihg.com/content/us/en/customer-care/privacy_statement#information-we-collect): "we may also disclose your information with other parties … to extend special offers about their own products and services to you" (As of: 2023-01-01)
+
+
+### Kia
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Collection and/or sharing of detailed driving history | Call 1-800-333-4KIA | Opt-out of all "Connected Services," including "Kia Connect" [Policy](https://owners.kia.com/us/en/privacy-policy.html). (As of: 2024-03-20)
+| Shares/sells owner info and car/driving data with third parties | [Opt-out](https://ksupport.kiausa.com/ConsumerAffairs) or call 1-800-333-4KIA | (As of: 2024-03-20)
+| Request and delete previously shared driving history | [Request](https://fcra.verisk.com/) or call 1-800-627-3487 | Residents of CA, CO, CT, NJ, NV, UT, VA may also [delete data](https://www.verisk.com/privacy-trademarks-use/state-data-privacy-notice/). (As of: 2024-03-20)
+
+See [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html) and [Man Sues G.M. and LexisNexis Over Sale of His Cadillac Data](https://www.nytimes.com/2024/03/14/technology/gm-lexis-nexis-driving-data.html).
 
 
 ### Kroger
@@ -772,7 +811,7 @@ Also see: [Disney](#disney).
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells print subscriber info with third parties | Online account: Account → Settings → About This App  → Do Not Sell/Share My Information, or email [privacy@nytimes.com](mailto:privacy@nytimes.com?subject=California%20Resident%20-%20Do%20Not%20Sell%20or%20Share) with account and phone number or call 1-800-NYTIMES | [Policy](https://help.nytimes.com/hc/en-us/articles/10940941449492): "If you’re a U.S. print subscriber, we may provide your name and mailing address (among other information) to other reputable companies…". (As of: 2023-01-01)
+| Shares/sells print subscriber info with third parties | Online account: Account → Settings → About This App → Do Not Sell/Share My Information, or email [privacy@nytimes.com](mailto:privacy@nytimes.com?subject=California%20Resident%20-%20Do%20Not%20Sell%20or%20Share) with account and phone number or call 1-800-NYTIMES | [Policy](https://help.nytimes.com/hc/en-us/articles/10940941449492): "If you’re a U.S. print subscriber, we may provide your name and mailing address (among other information) to other reputable companies…". (As of: 2023-01-01)
 
 
 ### Office Depot OfficeMax
@@ -1011,6 +1050,17 @@ Magazines: Fine Woodworking, Fine Homebuilding, and [others](http://www.taunton.
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Targeted ads and de-identified usage data for reports | [Opt-out](https://www.t-mobile.com/content/t-mobile/corporate/privacy-center/take-control-of-your-data/modal-dns.html) and in phone settings | [Policy](https://www.t-mobile.com/privacy-center/our-practices/privacy-policy): "We use your personal data [including Web browsing history] to … Advertise and market products and services from T‑Mobile and other companies to you, including through targeted advertising." [Advertising addendum](https://www.t-mobile.com/privacy-center/education-and-resources/advertising-analytics).
+
+
+### Toyota
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Collection and/or sharing of detailed driving history | Push SOS button in car, call 1-800-331-4331, or use Account Settings in Toyota app | Opt-out of all "Connected Services" [More](https://support.toyota.com/s/article/Can-I-optout-of-Toyot-10235?language=en_US) (As of: 2024-03-20)
+| Collection and/or sharing of detailed driving history | [Opt-out](https://privacyportal.onetrust.com/webform/273bec6c-3638-419e-9e65-7be67b30dbc2/b83dd289-2e52-4b29-8b0f-9f04819ca498?form_type=guest) | [Policy](https://privacy.toyota.com/). See "[Drive Pulse](https://support.toyota.com/s/article/What-is-Driver-Score-10536?language=en_US)" and "Insure Connect." (As of: 2024-03-20)
+
+See [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html) and [Man Sues G.M. and LexisNexis Over Sale of His Cadillac Data](https://www.nytimes.com/2024/03/14/technology/gm-lexis-nexis-driving-data.html).
+
 
 
 ### TransUnion

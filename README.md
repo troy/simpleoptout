@@ -772,7 +772,7 @@ Includes: **Windows, Skype, Xbox, and visitors who are not logged in to a Micros
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Ads, browsing data, and services | [Opt-out](https://account.microsoft.com/account/privacy) | Covers Xbox, Skype, Office, Bing and more. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/). (As of: 2023-01-01)
+| Ads, browsing data, and services | Use [Data and Privacy Settings](https://account.microsoft.com/account/privacy) or [Privacy Request Form](https://www.microsoft.com/en-us/concern/privacyrequest-msa/) (or call 1-844-931-2038). | Covers Xbox, Skype, Office, Bing and more. For logged-out users, [go here](https://account.microsoft.com/privacy/ad-settings/signedout). [Policy](https://privacy.microsoft.com/en-US/), [U.S. State Data Privacy Laws Notice](https://privacy.microsoft.com/en-us/ccpa). (As of: 2024-07-30)
 
 Also see: [LinkedIn](#linkedin).
 

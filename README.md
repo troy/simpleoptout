@@ -165,6 +165,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Woodcraft](#woodcraft) •
 [Yahoo/Oath](#yahoooath) •
 [Yelp](#yelp) •
+[Ticketmaster](#ticketmaster) •
 [YouTube](#youtube) •
 [Zeta Global](#zeta-global) •
 [Zoom](#zoom)
@@ -1217,6 +1218,13 @@ Also see [Verizon](#verizon).
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares first name and individual site activity with businesses | [Opt-out](https://www.yelp.com/profile_privacy) | [Policy](https://www.yelp.com/tos/privacy_policy#control-personal-data): "We may share information from or about you (such as [city, age, and gender, businesses you bookmark or call, or if you visit a business’s URL] … with businesses on Yelp." By default, shares first name and last initial with businesses. (As of: 2023-01-01)
+
+
+### Ticketmaster
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares customer info with third-parties | [Opt-out](https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/a912475c-660e-40a7-b320-844ea439062a) or email [privacy@livenation.com](mailto:privacy@livenation.com) (or call 855-663-0150) | [Policy](https://privacy.ticketmaster.com/privacy-policy) (As of: 2024-08-13)
 
 
 ### YouTube

@@ -142,6 +142,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Sprint](#sprint) •
 [Staples](#staples) •
 [Taunton Press](#taunton-press) •
+[Ticketmaster](#ticketmaster) •
 **[T-Mobile](#t-mobile)** •
 [Toyota](#toyota) •
 [TransUnion](#transunion) •
@@ -165,7 +166,6 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Woodcraft](#woodcraft) •
 [Yahoo/Oath](#yahoooath) •
 [Yelp](#yelp) •
-[Ticketmaster](#ticketmaster) •
 [YouTube](#youtube) •
 [Zeta Global](#zeta-global) •
 [Zoom](#zoom)

@@ -136,6 +136,7 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 [Seattle Times](#seattle-times) •
 [Sift Science](#sift-science) •
 [Slashdot Media](#slashdot-media) •
+[Sleepme](#sleepme) •
 [Southwest Airlines](#southwest-airlines) •
 [Spirit Airlines](#spirit-airlines) •
 [Spokeo](#spokeo) •
@@ -998,6 +999,13 @@ Includes: **SourceForge**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | Shares/sells user info with third parties | [Opt-out](https://privacyportal-cdn.onetrust.com/dsarwebform/611e70e2-1994-43ff-b07b-646df870db4b/c1c0acac-ab24-4dac-b3e6-43421a684626.html) | [Policy](https://slashdotmedia.com/privacy-statement/#C): "We may also share your Personal Information with our advertisers, vendors, and customers, including data profiling companies, business-to-business lead buyers, and data aggregation companies" (As of: 2023-01-01)
+
+
+### Sleepme
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Shares user info with third parties | [Opt-out](https://sleepme.typeform.com/to/kb7S9GjG) or email [help@sleep.me](mailto:help@sleep.me) (or call 1-855-999-7797) | [Policy](https://sleep.me/privacy-policy) (As of: 2024-08-19)
 
 
 ### Southwest Airlines

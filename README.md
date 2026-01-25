@@ -247,8 +247,8 @@ Includes: **GMAC Mortgage**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| All Apple devices (interest- and location-based ads) | [Opt-out](https://support.apple.com/en-us/HT202074)
 | iPhones and iPads (app tracking) | Settings → Privacy &amp; Security → Tracking → **disable "Allow Apps to Request to Track"** | [More information](https://developer.apple.com/app-store/user-privacy-and-data-use/). Disabling the option is equivalent to answering "No" without being prompted. (As of: 2026-01-25)
+| All Apple devices (interest- and location-based ads) | [Opt-out](https://support.apple.com/en-us/HT202074)
 
 
 ### AT&T

@@ -179,35 +179,35 @@ PS: If you haven't done so already, [install uBlock Origin](https://ublockorigin
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| User activity with sellers | [Opt-out](https://www.1stdibs.com/my/account/profile/) | [Policy](https://www.1stdibs.com/about/privacy-policy/): "1stdibs may share your search terms, or items you have viewed, saved, or purchased with that seller" (As of: 2023-01-01)
+| User activity with sellers | [Opt-out](https://www.1stdibs.com/my/account/profile/) | [Policy](https://www.1stdibs.com/about/privacy-policy/): "1stdibs may share your search terms, or items you have viewed, saved, or purchased with that seller" (As of: 2026-01-25)
 
 
 ### 23andMe
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| DNA sharing | [Opt-out](https://you.23andme.com/user/edit/privacy/), [Research](https://you.23andme.com/user/edit/preferences/) | [Policy: Controls](https://www.23andme.com/legal/privacy/#your-privacy-controls). [Instructions](https://customercare.23andme.com/hc/en-us/articles/212170838-Privacy-and-display-settings-in-DNA-Relatives). (As of: 2023-01-01)
+| DNA sharing | [Opt-out](https://you.23andme.com/user/edit/privacy/), [Research](https://you.23andme.com/user/edit/preferences/) | [Policy: Controls](https://www.23andme.com/legal/privacy/#your-privacy-controls). [Instructions](https://customercare.23andme.com/hc/en-us/articles/212170838-Privacy-and-display-settings-in-DNA-Relatives). (As of: 2026-01-25)
 
 
 ### AAA
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells members' info with third parties | Call 1-800-922-8228 | [Policy](https://wa.aaa.com/general/privacy-notice.html) (varies [by state](https://www.google.com/search?q=site%3Aaaa.com+intitle%3A"privacy+policy"+(800+OR+888+OR+855+OR+866+OR+877))). (As of: 2023-01-01)
+| Shares/sells members' info with third parties | Call 1-800-922-8228 | Phone number may vary by state/club; [find your club](https://www.google.com/search?q=site:aaa.com+intitle:privacy). [Policy](https://wa.aaa.com/general/privacy-notice.html) (As of: 2023-01-25)
 
 
 ### Ace Hardware
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info & transactions with third parties | [Opt-out](https://privacyportal.onetrust.com/webform/08fcfb30-e571-44e6-a1de-eb62fe3d7b00/3a3a0069-5a0e-4e47-8c10-e1cc0c4533ad) | [Policy](https://www.acehardware.com/customer-service?page=privacy-policy#child_HowPersonalInformationIsUsedforBusinessPurposes): "We may make your personal information, together with information regarding your preferences, activity, purchases, and demographics, available to affiliates for purposes of conducting marketing activities on behalf of Ace, the affiliates, and/or or any other service providers." (As of: 2023-01-01)
+| Shares/sells customer info & transactions with third parties | [Opt-out](https://privacyportal.onetrust.com/webform/08fcfb30-e571-44e6-a1de-eb62fe3d7b00/3a3a0069-5a0e-4e47-8c10-e1cc0c4533ad) or call 1-888-827-4223 | [Policy](https://www.acehardware.com/privacy#section3): "We may make your personal information, together with information regarding your preferences, activity, purchases, and demographics, available to affiliates for purposes of conducting marketing activities on behalf of Ace, the affiliates, and/or or any other service providers." (As of: 2026-01-25)
 
 
 ### Adobe
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Ad targeting & data collection | [Opt-out](https://www.adobe.com/privacy/opt-out.html) and also [opt-out](https://www.adobe.com/privacy/us-rights.html#opt-out) | [Policy: Your rights](https://www.adobe.com/privacy/policy.html#rights): "sharing your information with third parties for their own marketing purposes" (As of: 2023-01-01)
+| Ad targeting & data collection | [Opt-out](https://www.adobe.com/privacy/opt-out.html) and also [opt-out](https://www.adobe.com/privacy/us-rights.html#opt-out) | [Policy: Your rights](https://www.adobe.com/privacy/policy.html#rights): "sharing your information with third parties for their own marketing purposes" (As of: 2026-01-25)
 
 
 ### Ally
@@ -216,29 +216,29 @@ Includes: **GMAC Mortgage**
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells customer info with third parties | [Opt out](https://www.ally.com/privacy/preferences) | [Policy](https://www.ally.com/privacy/): "we may also share information collected about you with companies … to offer you financial products and services"; "We may share information about you with … nonaffiliates for analysis, market research and marketing purposes" (As of: 2023-01-01)
+| Shares/sells customer info with third parties | [Opt out](https://www.ally.com/privacy/preferences) | [Privacy Notice](https://www.ally.com/content/dam/pdf/corporate/ally.privacy-notice.2014-01-01.v1.pdf.coredownload.inline.pdf). [Policy](https://www.ally.com/privacy/): "we may also share information collected about you with companies … to offer you financial products and services"; "We may share information about you with … nonaffiliates for analysis, market research and marketing purposes" (As of: 2026-01-25)
 
 
 ### Amazon.com
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Browsing history   | [Opt-out](https://www.amazon.com/gp/history) (click "Manage history") | [Policy: Choices](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE). (As of: 2023-01-01)
-| Ad personalization | [Opt-out](https://www.amazon.com/adprefs/) and also [Opt-out](https://www.amazon.com/privacyprefs) | On the first page, consider also clicking "Delete ad data." (As of: 2023-01-01)
+| Browsing history   | [Opt-out](https://www.amazon.com/gp/history) (click "Manage history") | [Policy: Choices](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE). (As of: 2026-01-25)
+| Ad personalization | [Opt-out](https://www.amazon.com/adprefs/) and also [Opt-out](https://www.amazon.com/privacyprefs) | On the first page, consider also clicking "Delete ad data." (As of: 2026-01-25)
 
 
 ### American Express
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Shares/sells cardholder info with third parties | [Opt-out](https://online.americanexpress.com/myca/logon/us/action?request_type=LogonHandler&DestPage=https%3A%2F%2Fonline.americanexpress.com%2Fmyca%2Faccountprofile%2Fus%2Fview.do%3Frequest_type%3Dauthreg_prv%26Face%3Den_US%26linknav%3DUS-Ser-axpAccountManagement-PrivacyPreferences%26sorted_index%3D1&Face=en_US) and [Opt-out](http://www.americanexpress.com/communications) | [Policy](https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/#privacy-statement): "We may share Personal Information … with financial institutions or Co-brand Partners with whom we jointly offer or develop products and services" (As of: 2023-01-01)
+| Shares/sells cardholder info with third parties | [Opt-out](https://www.americanexpress.com/en-us/banking/personal/savings/account-management/privacy-preferences) and [Opt-out](http://www.americanexpress.com/communications) | [Policy](https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/#privacy-statement): "We may share Personal Information … with financial institutions or Co-brand Partners with whom we jointly offer or develop products and services" (As of: 2026-01-25)
 
 
 ### Ancestry.com
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Family tree | [Instructions](https://support.ancestry.com/s/article/Family-Tree-Privacy) | [Privacy Philosophy](https://www.ancestry.com/c/privacyphilosophy) (As of: 2023-01-01)
+| Family tree | [Instructions](https://support.ancestry.com/s/article/Family-Tree-Privacy) | [Privacy Philosophy](https://www.ancestry.com/c/privacyphilosophy) (As of: 2026-01-25)
 | DNA Match   | [Opt-out](https://www.ancestry.com/dna/settings/) | [Instructions](https://support.ancestry.com/s/article/Choosing-not-to-be-Listed-as-an-AncestryDNA-Match)
 | Research    | [Instructions](https://support.ancestry.com/s/article/AncestryDNA-Research-Project)
 
@@ -248,16 +248,16 @@ Includes: **GMAC Mortgage**
 | What?       | Opt-out | Details
 | :-          | :-      | :-
 | All Apple devices (interest- and location-based ads) | [Opt-out](https://support.apple.com/en-us/HT202074)
-| iPhones and iPads (app tracking) | Settings → Privacy → Tracking → **disable "Allow Apps to Request to Track"** | [More information](https://developer.apple.com/app-store/user-privacy-and-data-use/). Disabling the option is equivalent to answering "No" without being prompted. (As of: 2023-01-01)
+| iPhones and iPads (app tracking) | Settings → Privacy &amp; Security → Tracking → **disable "Allow Apps to Request to Track"** | [More information](https://developer.apple.com/app-store/user-privacy-and-data-use/). Disabling the option is equivalent to answering "No" without being prompted. (As of: 2026-01-25)
 
 
 ### AT&T
 
 | What?       | Opt-out | Details
 | :-          | :-      | :-
-| Phone data ("CPNI") sharing          | [Opt-out](https://att.com/cpni/optout) | [Policy: Your Choices](https://about.att.com/privacy/full_privacy_policy.html#choice) (As of: 2023-01-01)
-| Mobile calls, data, and ad targeting | [Opt-out](http://www.att.com/cmpchoice)
-| DirecTV                              | [Opt-out](https://www.directv.com/DTVAPP/content/support/DTVAPP_policy) and in set-top box settings
+| Phone data ("CPNI") sharing          | [Opt-out](https://att.com/cpni/optout) | [Policy: Your Choices](https://about.att.com/privacy/full_privacy_policy.html#choice) (As of: 2026-01-25)
+| Mobile calls, data, and ad targeting | [Opt-out](https://www.att.com/privacychoices) | [Instructions](https://www.att.com/support/article/wireless/KM1153372)
+| DirecTV                              | [Opt-out](https://www.directv.com/privacy/privacy-preference-center), [state-specific](https://www.directv.com/privacy/choices/), and set-top box settings | [Policy](https://www.directv.com/privacy/video-privacy-policy/#otnotice-section-95c7832a-6f82-41d3-8e10-62981ba076b3)
 
 
 ### Bank of America

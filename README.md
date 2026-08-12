@@ -457,6 +457,14 @@ Also see [Zeta Global](#zeta-global).
 | Shares de-identified data for competitive research | In email app settings, "Manage Privacy" page | [Policy](https://www.edison.tech/privacy) (As of: 2023-01-01)
 
 
+### Encoura
+
+| What?       | Opt-out | Details
+| :-          | :-      | :-
+| Delete My Personal Data, Do Not Sell My Personal Data, Unsubscribe from Encoura Marketing Emails, Correct My Information | https://privacyportal.onetrust.com/webform/b5288d89-90b2-4701-a997-7baf96b98d34/abe4f952-983b-446f-81e7-b802c07d11f9
+ | This is meant for asserting state privacy rights; see [their State Privacy Rights notice](https://www.encoura.org/trust-center/state-privacy-rights/)
+
+
 ### Emailsherlock
 
 | What?       | Opt-out | Details
